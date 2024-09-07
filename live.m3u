@@ -5,6 +5,8 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo=" " group-title="SONY LIV",SONY MAX 2 (IN)
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
+
+
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwscc6Em4UKJc1H2OMdrqEWe62kFjh8_5aL37qQ3Ev1QBf_0samiu-k764q5bfWbr8dV5qG02fIYj3BFzFOUEhUEX7VgKuFreLEZbFxZBioLMxzTY79tSkAzixyTj6Mjh-sxYwgHr0_yNewTzDCZu-HSm-r2w-1g_952pT57-ZrOpubVJtFRfFati3Fno/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="AOS TV",ZEE TV HD (UK)
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2879.ts
 #EXTINF:-1 tvg-id="USTAV PLUS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvCbB06e641K8alW8IPklGImLT9_EX-bqRdN05STRzEmROUQeG3sxMS2AgNe7uPiPIZdf-FgFQKYQZ28KHRmYpeCgZ6ppjCJe9JLqYFqJStVVOTguY4Yn-TPx-l_m9qG58TA-jOrLzO5ZqfVlU3sJb70I9uRkldPsS1HHkgPyagF0rIAB0n2_C8qoGVg/s320/Picsart_24-08-14_17-36-05-227.jpg" group-title="AOS TV",USTAV PLUS (UK)
@@ -24,8 +26,18 @@ http://31.42.185.54:8880/hdtv30a6120c16db/39024972/55209
 #EXTINF:-1 tvg-id="SONY SAB" tvg-logo=" " group-title="FOR TV", SONY SAB (US)
 http://lb56.fortv.cc:25461/4wVQA7/625159/125809?token=ThFcUhFaQQwRAwEDC1BXVwEAV1RWVgUHVFtXA18DCwpRBFBQAAMHUgYQHkdBQURQV1g7WFQWCgNRV1sDAB8RR0ZWRmwLVkEMEQMGUgAFBBcaFxBYXVESCFJVUQABBAALAAUYERJbBxQJXEcJXhkUUE5BAUNeVVxtBwcVWlpWEQhbRlhfThAMWGxWVwhTW1IXDBdVExwWWUETQFldTF9fHhdRXUcQUxdTEQhcEF5ZGhdVWhFfREZJEFlAKn0bHxFXTUdRXRFbDFgRCBARQRcaF19GO0NVR0RABgMOVksRCRAFERgRD1MbaVBdXAtXVkJcWVsXEwoWAQJBTkFeVl1aRlpBa0MLVkEMXUdeCU8=
 
+
+
 #EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" " group-title="NONTON TV",ZEE CINEMA HD (MY)
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37332
+
+
+
+#EXTINF:-1 tvg-id="SONY" tvg-logo=" " group-title="WORLD TV", SONY (UK)
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0D:BA:51&stream=104809&extension=ts
+
+
+
 
 
 
