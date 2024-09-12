@@ -21,7 +21,20 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/60347
 
 #EXTINF:-1 tvg-id="SONY SAB" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yDmI9h2m.png" group-title="FOR TV", SONY SAB (US)
 http://lb56.fortv.cc:25461/4wVQA7/625159/125809?token=ThFcUhFaQQwRAwEDC1BXVwEAV1RWVgUHVFtXA18DCwpRBFBQAAMHUgYQHkdBQURQV1g7WFQWCgNRV1sDAB8RR0ZWRmwLVkEMEQMGUgAFBBcaFxBYXVESCFJVUQABBAALAAUYERJbBxQJXEcJXhkUUE5BAUNeVVxtBwcVWlpWEQhbRlhfThAMWGxWVwhTW1IXDBdVExwWWUETQFldTF9fHhdRXUcQUxdTEQhcEF5ZGhdVWhFfREZJEFlAKn0bHxFXTUdRXRFbDFgRCBARQRcaF19GO0NVR0RABgMOVksRCRAFERgRD1MbaVBdXAtXVkJcWVsXEwoWAQJBTkFeVl1aRlpBa0MLVkEMXUdeCU8=
-
+#EXTINF:-1 tvg-id="TV ASIA" tvg-logo=" " group-title="FOR TV",TV ASIA (US)
+http://206.212.244.71:8080/4wVQA7/625159/125819
+#EXTINF:-1 tvg-id="COLORS RISHTEY" tvg-logo=" " group-title="FOR TV",COLORS RISHTEY (US)
+http://206.212.244.71:8080/4wVQA7/625159/125806
+#EXTINF:-1 tvg-id="SONY MAX" tvg-logo=" " group-title="FOR TV",SONY MAX (US)
+http://206.212.244.71:8080/4wVQA7/625159/125814
+#EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo=" " group-title="FOR TV",SONY MAX 2 (US)
+http://206.212.244.71:8080/4wVQA7/625159/125795
+#EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo=" " group-title="FOR TV",FOOD FOOD (US)
+http://206.212.244.71:8080/4wVQA7/625159/125807
+#EXTINF:-1 tvg-id="SAHARA SAMAY" tvg-logo=" " group-title="FOR TV",SAHARA SAMAY (IND)
+http://206.212.244.71:8080/4wVQA7/625159/125812
+#EXTINF:-1 tvg-id="TIMES NOW" tvg-logo=" " group-title="FOR TV", TIMES NOW (US)
+http://206.212.244.71:8080/4wVQA7/625159/125817
 
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo=" " group-title="NONTON TV",AXN (MY)
