@@ -1,18 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwscc6Em4UKJc1H2OMdrqEWe62kFjh8_5aL37qQ3Ev1QBf_0samiu-k764q5bfWbr8dV5qG02fIYj3BFzFOUEhUEX7VgKuFreLEZbFxZBioLMxzTY79tSkAzixyTj6Mjh-sxYwgHr0_yNewTzDCZu-HSm-r2w-1g_952pT57-ZrOpubVJtFRfFati3Fno/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="ZEE 5",ZEE TV HD (IND)
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+
+#EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" " group-title="STREAM TV",STAR PLUS (AZ)
+http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/609609
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" " group-title="STREAM TV",STAR PLUS HD (IND)
+http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/651693
+#EXTINF:-1 tvg-id="B4U PLUS" tvg-logo=" " group-title="STREAM TV",B4U PLUS (ME)
+http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/651519
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" " group-title="STREAM TV",ZEE CINEMA (UK)
+http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/508329
+
+
+
+
+
+
+
 
 
 
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwscc6Em4UKJc1H2OMdrqEWe62kFjh8_5aL37qQ3Ev1QBf_0samiu-k764q5bfWbr8dV5qG02fIYj3BFzFOUEhUEX7VgKuFreLEZbFxZBioLMxzTY79tSkAzixyTj6Mjh-sxYwgHr0_yNewTzDCZu-HSm-r2w-1g_952pT57-ZrOpubVJtFRfFati3Fno/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="AOS TV",ZEE TV HD (UK)
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2879.ts
 
-
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj6qBOb_xsX2l3BJLNERkHb7FQDU0ZxA_8zjchb6vyQsETdYjYwR0pe76lKj2vlv2e5qXyn_tEULR4Ppi5R5iN41cZ0hlhqctbzw22nKpZ3B0noervQF244s-fZ22SSd7eubtPiPZ4YwN6YTGpRtwSGDF5xQvCR3dj1x6jxCG0Hm8yBdvz5aQIqY5zozA/s320/Picsart_24-09-21_13-17-37-880.jpg" group-title="GEN IPTV",ZEE TV (USA)
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1348
-#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrVYUlnxqwlW8sQMt1HFtcg4iTMAouVtHyVWU5e1YhR5tdjVliGuTGUBQUtFR170LZ_PPUTgj9LrTvJnl-xJ1qc-7dhknnbWDV0YJ34oiCYJdlPyStM6Zg4MoUGKrQcutL9gwbmWz8rj_NdOecpWouTCr-v0z-atis9UD6S9VqprZTFXHwn8TZv5GRQw0/s320/Picsart_24-09-21_14-31-55-566.jpg" group-title="GEN IPTV",ZEE CINEMA (UK)
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1350
 
 
 
@@ -30,6 +39,19 @@ http://206.212.244.71:8080/4wVQA7/625159/125807
 http://206.212.244.71:8080/4wVQA7/625159/125812
 #EXTINF:-1 tvg-id="TIMES NOW" tvg-logo=" " group-title="FOR TV", TIMES NOW (US)
 http://206.212.244.71:8080/4wVQA7/625159/125817
+
+
+
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwscc6Em4UKJc1H2OMdrqEWe62kFjh8_5aL37qQ3Ev1QBf_0samiu-k764q5bfWbr8dV5qG02fIYj3BFzFOUEhUEX7VgKuFreLEZbFxZBioLMxzTY79tSkAzixyTj6Mjh-sxYwgHr0_yNewTzDCZu-HSm-r2w-1g_952pT57-ZrOpubVJtFRfFati3Fno/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="ZEE 5",ZEE TV HD (IND)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj6qBOb_xsX2l3BJLNERkHb7FQDU0ZxA_8zjchb6vyQsETdYjYwR0pe76lKj2vlv2e5qXyn_tEULR4Ppi5R5iN41cZ0hlhqctbzw22nKpZ3B0noervQF244s-fZ22SSd7eubtPiPZ4YwN6YTGpRtwSGDF5xQvCR3dj1x6jxCG0Hm8yBdvz5aQIqY5zozA/s320/Picsart_24-09-21_13-17-37-880.jpg" group-title="GEN IPTV",ZEE TV (USA)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1348
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrVYUlnxqwlW8sQMt1HFtcg4iTMAouVtHyVWU5e1YhR5tdjVliGuTGUBQUtFR170LZ_PPUTgj9LrTvJnl-xJ1qc-7dhknnbWDV0YJ34oiCYJdlPyStM6Zg4MoUGKrQcutL9gwbmWz8rj_NdOecpWouTCr-v0z-atis9UD6S9VqprZTFXHwn8TZv5GRQw0/s320/Picsart_24-09-21_14-31-55-566.jpg" group-title="GEN IPTV",ZEE CINEMA (UK)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1350
+
 
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo=" " group-title="NONTON TV",AXN (MY)
