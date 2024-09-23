@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" " group-title="STREAM TV",STAR PLUS (AZ)
 http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/609609
 #EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" " group-title="STREAM TV",STAR PLUS HD (IND)
@@ -37,7 +36,8 @@ http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/609302
 http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/508282
 #EXTINF:-1 tvg-id="COLORS" tvg-logo=" " group-title="STREAM TV",COLORS (ME)
 http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/609276
-
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" " group-title="STREAM TV",B4U MOVIES (USA)
+http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/608934
 
 
 
