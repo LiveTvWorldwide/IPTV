@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" " group-title="STREAM TV",STAR PLUS (AZ)
 http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/609609
-#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" " group-title="STREAM TV",STAR PLUS HD (IND)
-http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/651693
 #EXTINF:-1 tvg-id="B4U PLUS" tvg-logo=" " group-title="STREAM TV",B4U PLUS (ME)
 http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/651519
 #EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" " group-title="STREAM TV",ZEE CINEMA (UK)
@@ -26,10 +24,6 @@ http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/508315
 http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/609300
 #EXTINF:-1 tvg-id="SONY MAX" tvg-logo=" " group-title="STREAM TV",SONY MAX (APAC)
 http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/609301
-#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo=" " group-title="STREAM TV",STAR BHARAT HD (IND)
-http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/508317
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo=" " group-title="STREAM TV",STAR GOLD HD (IND)
-http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/508321
 #EXTINF:-1 tvg-id="STAR GOLD" tvg-logo=" " group-title="STREAM TV",STAR GOLD (ME)
 http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/609302
 #EXTINF:-1 tvg-id="COLORS" tvg-logo=" " group-title="STREAM TV",COLORS (UK)
@@ -48,12 +42,6 @@ http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/508276
 http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/508287
 #EXTINF:-1 tvg-id="WWE" tvg-logo=" " group-title="STREAM TV",WWE (MY)
 http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/605364
-#EXTINF:-1 tvg-id="WBTV" tvg-logo=" " group-title="STREAM TV",WBTV (MY)
-http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/605363
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo=" " group-title="STREAM TV",ANIMAL PLANET (MY)
-http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/605243
-#EXTINF:-1 tvg-id="AXN" tvg-logo=" " group-title="STREAM TV",AXN (MY)
-http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/605280
 #EXTINF:-1 tvg-id="COLORS CINEPLEX" tvg-logo=" " group-title="STREAM TV",COLORS CINEPLEX (UK)
 http://23.227.140.75:3050/arellanomatt6@gmail.com/GtSuHYuARK/508299
 
@@ -89,16 +77,8 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1350
 
 #EXTINF:-1 tvg-id="UTSAV GOLD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLADB6Na8JIkkskcul0djLNLsmNMWhibpBTBfnbmBTDifMFjJdX-dS5qwtvUQS2eAGXViGRe15hhfNRtq1AM2iOoPdWRHL8N3-YKohfj5Ny0fR5T8cebHzUUDs6nsH8ZBXc_9yumu4QK3IlSvOBJrmi4_QugANBJwzd0IpU1lNXnVqevdwzsbtdPd3pKM/s320/Picsart_24-09-21_14-28-08-162.jpg" group-title="MOHD TV",UTSAV GOLD (UK)
 http://mohdtv.com:8880/ALLChannels001eb8b07fa5/65759270/55221
-#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" " group-title="MOHD TV",COLORS HD (IN)
-http://mohdtv.com:8880/ALLChannels001eb8b07fa5/65759270/1931
 #EXTINF:-1 tvg-id="COLORS CINEPLEX" tvg-logo=" " group-title="MOHD TV",COLORS CINEPLEX (UK)
 http://mohdtv.com:8880/ALLChannels001eb8b07fa5/65759270/1929
-#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" " group-title="MOHD TV",ZEE CINEMA HD (IN)
-http://mohdtv.com:8880/ALLChannels001eb8b07fa5/65759270/55210
-#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="SONY SAB HD" group-title="MOHD TV",SONY SAB HD (IN)
-http://mohdtv.com:8880/ALLChannels001eb8b07fa5/65759270/55290
-#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguUJ4TKEvUimXEKZyatXI8LzpaW_D8sewYoX1ozpOCt4v4StY5qwgyF11T06S9iq2CR_lPLV2Gdl98jruxNDm3dcxQKHgNx5wrqH5Ty9DRe3Cv1RXGZFJV-KndxcIvT9_Y18y05Os6LzgeQkblklL56wfMAGfIV48EGsWXAKX2iPdqgTaDHA-2uMamzK8/s320/Picsart_24-09-21_14-23-09-062.jpg" group-title="MOHD TV",STAR BHARAT HD (IN)
-http://mohdtv.com:8880/ALLChannels001eb8b07fa5/65759270/55227
 
 
 
