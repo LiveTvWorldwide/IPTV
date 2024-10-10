@@ -45,22 +45,25 @@ http://ahostingportal.com:2095/3875147095/3458182665/3174
 http://ahostingportal.com:2095/3875147095/3458182665/2982
 
 
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwscc6Em4UKJc1H2OMdrqEWe62kFjh8_5aL37qQ3Ev1QBf_0samiu-k764q5bfWbr8dV5qG02fIYj3BFzFOUEhUEX7VgKuFreLEZbFxZBioLMxzTY79tSkAzixyTj6Mjh-sxYwgHr0_yNewTzDCZu-HSm-r2w-1g_952pT57-ZrOpubVJtFRfFati3Fno/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="ZEE 5",ZEE TV HD (IND)
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwscc6Em4UKJc1H2OMdrqEWe62kFjh8_5aL37qQ3Ev1QBf_0samiu-k764q5bfWbr8dV5qG02fIYj3BFzFOUEhUEX7VgKuFreLEZbFxZBioLMxzTY79tSkAzixyTj6Mjh-sxYwgHr0_yNewTzDCZu-HSm-r2w-1g_952pT57-ZrOpubVJtFRfFati3Fno/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="MHD TV",ZEE TV HD (IND)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
-#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" " group-title="ZEE 5",ZEE CINEMA HD (IND)
+#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" " group-title="MHD TV",ZEE CINEMA HD (IND)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-#EXTINF:-1 tvg-id="ZEE NEWS" tvg-logo=" " group-title="ZEE 5",ZEE NEWS (IND)
+#EXTINF:-1 tvg-id="ZEE NEWS" tvg-logo=" " group-title="MHD TV",ZEE NEWS (IND)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
-#EXTINF:-1 tvg-id="ZEE BUSINESS" tvg-logo=" " group-title="ZEE 5",ZEE BUSINESS (IND)
+#EXTINF:-1 tvg-id="ZEE BUSINESS" tvg-logo=" " group-title="MHD TV",ZEE BUSINESS (IND)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness1/default/zeebusiness.m3u8
-#EXTINF:-1 tvg-id="ZING" tvg-logo=" " group-title="ZEE 5",ZING (IND)
+#EXTINF:-1 tvg-id="ZING" tvg-logo=" " group-title="MHD TV",ZING (IND)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing.m3u8
-#EXTINF:-1 tvg-id="&TV HD" tvg-logo=" " group-title="ZEE 5",&TV HD (IND)
+#EXTINF:-1 tvg-id="&TV HD" tvg-logo=" " group-title="MHD TV",&TV HD (IND)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
-#EXTINF:-1 tvg-id="&PICTURES HD" tvg-logo=" " group-title="ZEE 5",&PICTURES HD (IND)
+#EXTINF:-1 tvg-id="&PICTURES HD" tvg-logo=" " group-title="MHD TV",&PICTURES HD (IND)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 
-
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" " group-title="MHD TV",B4U MUSIC (IND)
+https://cdn2.pishow.tv/live/141/master.m3u8
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" " group-title="MHD TV",B4U MOVIES (IND)
+https://cdn2.pishow.tv/live/156/master.m3u8
 
 
 
