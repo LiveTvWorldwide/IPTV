@@ -63,8 +63,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpicturesh
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hollywood-desi/playlist.m3u8
 #EXTINF:-1 tvg-id="SHEMROO UMANG PLUS" tvg-logo=" " group-title="MHD TV",SHEMROO UMANG PLUS (IND)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-umang-plus/master.m3u8
-
-
+#EXTINF:-1 tvg-id="MASTII" tvg-logo=" " group-title="MHD TV",MASTII (IND)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+#EXTINF:-1 tvg-id="9XM" tvg-logo=" " group-title="MHD TV",9XM (IND)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
+#EXTINF:-1 tvg-id="BOLLYWOOD PRIME" tvg-logo=" " group-title="MHD TV", BOLLYWOOD PRIME (UK)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" " group-title="MHD TV",B4U MUSIC (IND)
@@ -72,10 +76,13 @@ https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" " group-title="MHD TV",B4U MOVIES (IND)
 https://cdn2.pishow.tv/live/156/master.m3u8
 
-#EXTINF:-1 tvg-id="AASTHA" tvg-logo=" " group-title="MHD TV", AASTHA (USA)
+#EXTINF:-1 tvg-id="AASTHA" tvg-logo=" " group-title="MHD TV",AASTHA (USA)
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AASTHA" tvg-logo=" " group-title="MHD TV", AASTHA (UK)
+#EXTINF:-1 tvg-id="AASTHA" tvg-logo=" " group-title="MHD TV",AASTHA (UK)
 https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="THE MOVIE CLUB" tvg-logo=" " group-title="MHD TV",THE MOVIE CLUB (UK)
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SHEMROO BOLLYWOOD" tvg-logo=" " group-title="MHD TV",SHEMROO BOLLYWOOD (UK)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
