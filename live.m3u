@@ -71,6 +71,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-id="DD NATIONAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLHjYRbRHhWtcsq_t_hZmOxvBg1ajlOmwp2cQ5Be7FJwes7i0GED7T9iwfhJHE9Ug6BR4NxKw4VpGNmOY-Ocne8xHJM3aWixoCVG5VAU_W07-dI5_fnhGehyphenhyphenlD_t1FmEtVx0E6Igpqf18WwHizvvq0jlUVuyaIBZOfXLzTFSE-KZsRsoFtK0VB3bYFxZg/s1440/Picsart_24-07-26_08-57-40-458.jpg" group-title="MHD TV",DD NATIONAL (IND)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:-1 tvg-id="ZOOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTHvb8lBGHt76RztalkwybItzb7EjNxLWz-HJaajRit-MG3-_GjhbvWDk71BplaBrjUR9zFrT9EAdcrns1FzucPxoZ1hbeLAyD_mDkrTefhApwZE9xZmMHlAoGJ6pcUmE6n81r3BVrSZE7-9_TNWv27KM_XoxFawljZ2e9dcTad0oadijygtravcr8oVg/s485/Picsart_23-08-13_16-54-36-477.jpg" group-title="MHD TV",ZOOM (USA)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3TvPFGdg80XOTnkx1yLMp3zeKrnLF6fRolm1zb6f1UTObHgRRzg_Zz6mX6XDmFi1ljpZvD4xnTbr2LTFclKazLpKpIlcNS2pFK36jerZpwttRGK8PRw8_ZSB8b1CU26a8XQk9jJ2s6Xbfr8SkfBe4pBo5DG30KE8JsG27PYm90ZC8DCNln9NzBGshDU/s320/Picsart_24-10-13_12-57-52-539.jpg" group-title="MHD TV",TLC (IND)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Tlc/default/index.m3u8
 #EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJs972BdRRa_V43EK6KzrAhvEyeUTdNYeZCdP6Jg0S8ioiUAZgn5IWrw1K-_RvsmwkXmQohNt0MPdcp6kK5VhelzEYHZHkOfisBq2aexZ7iXjprDRYDPQgj1SQ7G_gOPKqz0SEHhMTbEYL8Zx8-RvjPB9A2hZ6Mjy1eV0rw9MpomMZdL3aB-LuYOrZmHw/s320/Picsart_24-10-13_11-34-41-698.jpg" group-title="MHD TV",B4U MUSIC (IND)
@@ -95,9 +97,8 @@ https://epiconvh.s.llnwi.net/epic/master.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhawQLcZOr6lpg73XqSqv8XvM6wnEQX12WLfjzdqSATva10pfvBcAelJxmeAIDzI0eyhVPNaUEyC_fK6_kwkF7V8smnqy_bi7dLhVLaTe7UBS0qjLIJPDrBPMnylUn6zVngoS022XJpPCnFcgq-vUkB-MlNTEZ1QJ6luJi8RLo7CwXV5PP88Vls8ylHXws/s320/Picsart_23-12-06_14-42-10-097.jpg" group-title="MHD TV", CARTOON NETWORK (USA)
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="MHD TV",  ()
-
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MHD TV", ( )
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MHD TV", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MHD TV", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MHD TV", ( )
@@ -119,12 +120,17 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-pogo-sam
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-id="TRVL CHANNEL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitD36xI6VI7zyMruy2_3VBSYtu-3z6mCbdOA41YnloErfB28efazuQvvKqlzicndSnFay5wTm37CFfDyc6nT7KJU-iZNWo2lx9KFZJttthlty-cwu3Fsy9WnS0WaazoMZO2VtljQ7Q5k6e3cwrg1LxFg2kJpyIE-2XmpWJaQpLevL2i1O8hqNU390GD8Y/s320/Picsart_23-09-03_17-13-18-940.png" group-title="WORLD TV",TRVL CHANNEL (MY)
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="WORLD TV", ( )
+#EXTINF:-1 tvg-id="DMAX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4eMdulbgWQOBEfoar1txTHjTWdAkBsNlivtoHVCohmfroc9XVaaaB6Ibjj9KdyrCznZp_pWaudEJg01dB6nn3fghyNSesInVo-tfWWAOzW-8WkUNno78unJz30ZIpqXeGh5A_hPIkKIn8gqN2s4U2SKnzQHkPAMn6MfJVLKOUK-uqjIa2IYUvAL6_a8/s1000/Picsart_23-09-04_17-13-44-394.jpg" group-title="WORLD TV",DMAX (MY)
+https://varun-iptv.netlify.app/m3u/DMAX.m3u8
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSwWDiQO_6653f9Y9ZwmaHwdPuqFUQkyoszwM6g2YNw7GqImEM2kQL2tOGUHElF5_O-OzD6p0YeAmn9VVVFWZDa--b9i7H-OMbm4nHiPjYatDae_YUI6jEKsvET4MufCO1ZyKXuWqNCCtcV4_BHL7Q6-jkuJkzVPHZR1WeZVZOkGK_uXazpOM62d1zTUE/s400/Picsart_23-09-05_18-02-15-587.png" group-title="WORLD TV",HGTV (MY)
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo=" " group-title="WORLD TV", DISCOVERY SCIENCE (IND)
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2t7xAAsRFqhr3dqnNY7QTeYGDNMXKcFJAhunYOQ86zE1NcJ1iU7FoW-2yTXmCaEo-UcjmTcoFtDf39D273CRzkQh2DUrT8YGvpCVVsBYq_BQjdCX53SuG6yGF17PlwRHH7hLVe4fQYGRwOOQtKEwNtUE6L7LuxnaxDfpgG0kAOnWEvGGNAUBbH1Q0BK4/s1200/Picsart_23-09-12_17-02-28-883.png" group-title="WORLD TV", FOOD NETWORK (MY)
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="WORLD TV", ( )
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="WORLD TV", ( )
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="WORLD TV", ( )
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="WORLD TV", ( )
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="WORLD TV", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="WORLD TV", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="WORLD TV", ( )
