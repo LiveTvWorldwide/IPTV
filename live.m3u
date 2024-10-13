@@ -75,6 +75,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3TvPFGdg80XOTnkx1yLMp3zeKrnLF6fRolm1zb6f1UTObHgRRzg_Zz6mX6XDmFi1ljpZvD4xnTbr2LTFclKazLpKpIlcNS2pFK36jerZpwttRGK8PRw8_ZSB8b1CU26a8XQk9jJ2s6Xbfr8SkfBe4pBo5DG30KE8JsG27PYm90ZC8DCNln9NzBGshDU/s320/Picsart_24-10-13_12-57-52-539.jpg" group-title="MHD TV",TLC (IND)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Tlc/default/index.m3u8
+#EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio7sy6IN_ZemFQYdW4E0HHHr2kvBi4sjW1p2cgjKC57de0SMasZiJVK1hp6JrQCmcd7iZULMlYO3o2qtumLzzjNxPRYrksCmhzyTtBnhp4ZqFx7RdYTXiMmhS4U8E1A3lTxkJSLEDiger2u1gY9TNf2JSAVTvbG3VEDH1Wbi3iByFw06Ik98XDVCgBCxw/s1923/Picsart_24-08-09_09-58-56-747.jpg" group-title="MHD TV",FOOD FOOD (IND)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
 #EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJs972BdRRa_V43EK6KzrAhvEyeUTdNYeZCdP6Jg0S8ioiUAZgn5IWrw1K-_RvsmwkXmQohNt0MPdcp6kK5VhelzEYHZHkOfisBq2aexZ7iXjprDRYDPQgj1SQ7G_gOPKqz0SEHhMTbEYL8Zx8-RvjPB9A2hZ6Mjy1eV0rw9MpomMZdL3aB-LuYOrZmHw/s320/Picsart_24-10-13_11-34-41-698.jpg" group-title="MHD TV",B4U MUSIC (IND)
 https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm7bB23wQ2c-9vUcNPdELJsZflwsjOiXDb_guyK1EBIMXfHjDmOOzLj2RgjtN7DJYPXWflg0e2u_aSFSUT5h_-mkJm0RwRKkDbt-HJFKIYvhRCNtQ1XMZTCO9Pnn9mNBkYPdtB9RnLjFX6VVTKGKPyC1lrVrFSncYlpfG75nY6Ws3FG41lpwtbQUhoLws/s320/Picsart_24-10-13_11-34-25-596.jpg" group-title="MHD TV",B4U MOVIES (IND)
@@ -133,6 +135,7 @@ https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKfEKf83Qf4_VcOeZw906UlkbvP1WEzgHtt57bIC8kX7S6DbBXi6NCSzI5QOvL-YQ8XGrXlTf8ptJ0Oarq4JxyHc4zMaCUwo102-bRV15vDTiECvELzZzxjRfIZBaSDvmd9usgm8KIaXJ7VV8DMYE6_SJSloG-a09EU7qJMaNZ5cf7QfVyCuc-h_yAklA/s344/Picsart_23-09-13_17-05-39-801.png" group-title="WORLD TV",CNA (MY)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="WORLD TV", ( )
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="WORLD TV", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="WORLD TV", ( )
 
