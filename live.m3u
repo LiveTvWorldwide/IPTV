@@ -13,8 +13,6 @@ http://nocable.cc:8080/crystal/crystal/125809
 http://nocable.cc:8080/crystal/crystal/125807
 #EXTINF:-1 tvg-id="TIMES NOW" tvg-logo=" " group-title="FOR TV",TIMES NOW (US)
 http://206.212.244.71:8080/4wVQA7/625159/125817
-#EXTINF:-1 tvg-id="TV ASIA" tvg-logo=" " group-title="FOR TV",TV ASIA (US)
-http://nocable.cc:8080/crystal/crystal/125819
 
 
 #EXTINF:-1 tvg-id="AAJ TAK" tvg-logo=" " group-title="AP TV",AAJ TAK (UK)
@@ -37,7 +35,7 @@ http://ahostingportal.com:2095/3875147095/3458182665/2817
 http://ahostingportal.com:2095/3875147095/3458182665/3021
 #EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj6qBOb_xsX2l3BJLNERkHb7FQDU0ZxA_8zjchb6vyQsETdYjYwR0pe76lKj2vlv2e5qXyn_tEULR4Ppi5R5iN41cZ0hlhqctbzw22nKpZ3B0noervQF244s-fZ22SSd7eubtPiPZ4YwN6YTGpRtwSGDF5xQvCR3dj1x6jxCG0Hm8yBdvz5aQIqY5zozA/s320/Picsart_24-09-21_13-17-37-880.jpg" group-title="AP TV",ZEE TV (UK)
 http://ahostingportal.com:2095/3875147095/3458182665/2816
-#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" " group-title="AP TV",ZEE CINEMA (UK)
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrVYUlnxqwlW8sQMt1HFtcg4iTMAouVtHyVWU5e1YhR5tdjVliGuTGUBQUtFR170LZ_PPUTgj9LrTvJnl-xJ1qc-7dhknnbWDV0YJ34oiCYJdlPyStM6Zg4MoUGKrQcutL9gwbmWz8rj_NdOecpWouTCr-v0z-atis9UD6S9VqprZTFXHwn8TZv5GRQw0/s320/Picsart_24-09-21_14-31-55-566.jpg" group-title="AP TV",ZEE CINEMA (UK)
 http://ahostingportal.com:2095/3875147095/3458182665/10858
 #EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" " group-title="AP TV",B4U MOVIES (UK)
 http://ahostingportal.com:2095/3875147095/3458182665/3174
@@ -59,7 +57,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 #EXTINF:-1 tvg-id="&PICTURES HD" tvg-logo=" " group-title="MHD TV",&PICTURES HD (IND)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
-#EXTINF:-1 tvg-id="HOLLYWOOD DESI" tvg-logo=" " group-title="MHD TV",HOLLYWOOD DESI (UK)
+#EXTINF:-1 tvg-id="HOLLYWOOD DESI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjda-1VKUsUOHBxiy5MxjE9Bl2Y9N8d9dD2e5d24ot3xz88zn_MzsxaLKX7F7Si1gkqJL4Ama0aKSVL5IKNxuwlZONMjQOC9_s8mKI5atW_g1j1eNG5RZlmHlF3I3Gt92s3rzodw0-nkvNVo2gMtCjVyndTMjbH-fvq6lhSFw6UXhwlLH5Y1EYtc9UUWgw/s2412/Picsart_24-08-14_07-54-27-725.jpg" group-title="MHD TV",HOLLYWOOD DESI (UK)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hollywood-desi/playlist.m3u8
 #EXTINF:-1 tvg-id="SHEMROO UMANG PLUS" tvg-logo=" " group-title="MHD TV",SHEMROO UMANG PLUS (IND)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-umang-plus/master.m3u8
@@ -67,23 +65,18 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 #EXTINF:-1 tvg-id="9XM" tvg-logo=" " group-title="MHD TV",9XM (IND)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
-#EXTINF:-1 tvg-id="BOLLYWOOD PRIME" tvg-logo=" " group-title="MHD TV", BOLLYWOOD PRIME (UK)
+#EXTINF:-1 tvg-id="BOLLYWOOD PRIME" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-T2UZVBaSFoV6HV4zBcL4PPRIAnDjm66DmaBzCGxhSdI5GAq-tdMVtmeW9I_wAAPyB6ieQ7x3xvhn6_lt460Yo8b031Rfi6z5FVktp9DhFle0WFwWP74ec1W4D5Z5L2KkLbt2FvwVTYrvgMx0I3TIpydyiuYZL947uua-bN1hnarqIzoQJJFJGAN_oPk/s1923/Picsart_24-08-08_10-10-43-383.jpg" group-title="MHD TV", BOLLYWOOD PRIME (UK)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" " group-title="MHD TV",B4U MUSIC (IND)
 https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" " group-title="MHD TV",B4U MOVIES (IND)
 https://cdn2.pishow.tv/live/156/master.m3u8
-
 #EXTINF:-1 tvg-id="AASTHA" tvg-logo=" " group-title="MHD TV",AASTHA (USA)
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AASTHA" tvg-logo=" " group-title="MHD TV",AASTHA (UK)
 https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="THE MOVIE CLUB" tvg-logo=" " group-title="MHD TV",THE MOVIE CLUB (UK)
+#EXTINF:-1 tvg-id="THE MOVIE CLUB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Hnzer2ZDpESbRahBK3p1UPHtJnEl9ZvjET77PiG0LmA7zUUX_frw7g1Xq3-JOftVPZ4Kr6TxlpvezMDULN963HJhOnkWrmFSmKWPeyWgnP1kj_aWfYUlSMJiqSHVE2rmVDg8gNnvBs5i45KW2ealymsyGZqatqcQKDoc8ZJJj3JHkQlo-y1Nv-Th23E/s1857/Picsart_24-09-01_14-29-41-625.jpg" group-title="MHD TV",THE MOVIE CLUB (UK)
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SHEMROO BOLLYWOOD" tvg-logo=" " group-title="MHD TV",SHEMROO BOLLYWOOD (UK)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
