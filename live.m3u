@@ -71,6 +71,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-id="DD NATIONAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLHjYRbRHhWtcsq_t_hZmOxvBg1ajlOmwp2cQ5Be7FJwes7i0GED7T9iwfhJHE9Ug6BR4NxKw4VpGNmOY-Ocne8xHJM3aWixoCVG5VAU_W07-dI5_fnhGehyphenhyphenlD_t1FmEtVx0E6Igpqf18WwHizvvq0jlUVuyaIBZOfXLzTFSE-KZsRsoFtK0VB3bYFxZg/s1440/Picsart_24-07-26_08-57-40-458.jpg" group-title="MHD TV",DD NATIONAL (IND)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3TvPFGdg80XOTnkx1yLMp3zeKrnLF6fRolm1zb6f1UTObHgRRzg_Zz6mX6XDmFi1ljpZvD4xnTbr2LTFclKazLpKpIlcNS2pFK36jerZpwttRGK8PRw8_ZSB8b1CU26a8XQk9jJ2s6Xbfr8SkfBe4pBo5DG30KE8JsG27PYm90ZC8DCNln9NzBGshDU/s320/Picsart_24-10-13_12-57-52-539.jpg" group-title="MHD TV",TLC (IND)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Tlc/default/index.m3u8
 #EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJs972BdRRa_V43EK6KzrAhvEyeUTdNYeZCdP6Jg0S8ioiUAZgn5IWrw1K-_RvsmwkXmQohNt0MPdcp6kK5VhelzEYHZHkOfisBq2aexZ7iXjprDRYDPQgj1SQ7G_gOPKqz0SEHhMTbEYL8Zx8-RvjPB9A2hZ6Mjy1eV0rw9MpomMZdL3aB-LuYOrZmHw/s320/Picsart_24-10-13_11-34-41-698.jpg" group-title="MHD TV",B4U MUSIC (IND)
 https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm7bB23wQ2c-9vUcNPdELJsZflwsjOiXDb_guyK1EBIMXfHjDmOOzLj2RgjtN7DJYPXWflg0e2u_aSFSUT5h_-mkJm0RwRKkDbt-HJFKIYvhRCNtQ1XMZTCO9Pnn9mNBkYPdtB9RnLjFX6VVTKGKPyC1lrVrFSncYlpfG75nY6Ws3FG41lpwtbQUhoLws/s320/Picsart_24-10-13_11-34-25-596.jpg" group-title="MHD TV",B4U MOVIES (IND)
@@ -106,8 +108,10 @@ https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="POGO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfId_T0V4HAriyHUZVbBbAw-RUkxp8n8e29dSpRjor74SBmLFTj0dojE9LQUgLOp7vCV-6Z2p54NTBfPkzr-W5M4V0fez-skjcadNSeLwyIk07x8OLadEc6jY_c3LwyFNZr3e7IdyEcFEUj531ft_1zvPRfCtEcQGFlgoYnGl-ry5GAFU7QcedD88lRRk/s320/Picsart_24-01-28_11-22-30-626.jpg" group-title="WORLD TV",POGO (IND)
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="TLC HD" tvg-logo=" " group-title="WORLD TV",TLC HD (IND)
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="WORLD TV", ( )
-
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="WORLD TV", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="WORLD TV", ( )
 
 
