@@ -154,6 +154,8 @@ http://217.20.112.199/zeetvhd/index.m3u8
 http://b1g.ooo:80/58440/58440/791613
 #EXTINF:-1 tvg-id="ZEE TV CANADA" tvg-logo=" " group-title="B1G TV",ZEE TV CANADA (CA)
 http://b1g.ooo:80/58440/58440/789749
+#EXTINF:-1 tvg-id="ZEE TV CANADA" tvg-logo=" " group-title="B1G TV",ZEE TV CANADA (CA)
+http://b1g.ooo:80/58440/58440/621082
 #EXTINF:-1 tvg-id="COLORS" tvg-logo=" " group-title="B1G TV",COLORS (USA)
 http://b1g.ooo:80/58440/58440/793537
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFoCnrlmmbRQHpOLihvt4FHMGcvIkzs9a0l_JlMnQzNqUITjwqZjC6RWc6fK6O6zTfPNrOrXtVS5SYq9xuKczcm8RV5L8OOqgFawBYo7ZjaOTO87TvAe-Vpl2hRWiuz_OKdjdeV5vZ6WXaqKgd5MPx4aGL7-3hDt0KSkEj6XT-JypU7xkazKP7_FlRpLk/s320/Picsart_24-10-13_11-35-17-142.jpg" group-title="B1G TV",&TV HD (IND)
@@ -172,8 +174,8 @@ http://b1g.ooo:80/58440/58440/621050
 http://b1g.ooo:80/58440/58440/615425
 #EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" " group-title="B1G TV",ZEE CINEMA (USA)
 http://b1g.ooo:80/58440/58440/622744
-
-
+#EXTINF:-1 tvg-id="ZEE ETC BOLLYWOOD" tvg-logo=" " group-title="B1G TV",ZEE ETC BOLLYWOOD (USA)
+http://b1g.ooo:80/58440/58440/621083
 
 
 
