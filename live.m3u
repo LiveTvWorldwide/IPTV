@@ -110,8 +110,8 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MHD TV", ( )
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="AOS TV", ( )
-
+#EXTINF:-1 tvg-id="COLORS" tvg-logo=" " group-title="AOS TV",COLORS (UK)
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2768.ts
 #EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrVYUlnxqwlW8sQMt1HFtcg4iTMAouVtHyVWU5e1YhR5tdjVliGuTGUBQUtFR170LZ_PPUTgj9LrTvJnl-xJ1qc-7dhknnbWDV0YJ34oiCYJdlPyStM6Zg4MoUGKrQcutL9gwbmWz8rj_NdOecpWouTCr-v0z-atis9UD6S9VqprZTFXHwn8TZv5GRQw0/s320/Picsart_24-09-21_14-31-55-566.jpg" group-title="AOS TV",ZEE CINEMA (UK)
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2871.ts
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwscc6Em4UKJc1H2OMdrqEWe62kFjh8_5aL37qQ3Ev1QBf_0samiu-k764q5bfWbr8dV5qG02fIYj3BFzFOUEhUEX7VgKuFreLEZbFxZBioLMxzTY79tSkAzixyTj6Mjh-sxYwgHr0_yNewTzDCZu-HSm-r2w-1g_952pT57-ZrOpubVJtFRfFati3Fno/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="AOS TV",ZEE TV HD (IND)
