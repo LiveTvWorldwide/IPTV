@@ -148,6 +148,13 @@ http://b1g.ooo:80/58440/58440/791613
 http://b1g.ooo:80/58440/58440/789749
 #EXTINF:-1 tvg-id="COLORS" tvg-logo=" " group-title="B1G TV",COLORS (USA)
 http://b1g.ooo:80/58440/58440/793537
+#EXTINF:-1 tvg-id="&TV HD" tvg-logo=" " group-title="B1G TV",&TV HD (USA)
+http://b1g.ooo:80/58440/58440/793524
+#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo=" " group-title="B1G TV",STAR BHARAT HD (USA)
+http://b1g.ooo:80/58440/58440/791612
+
+
+
 
 
 
