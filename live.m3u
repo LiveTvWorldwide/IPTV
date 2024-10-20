@@ -169,7 +169,7 @@ http://b1g.ooo:80/58440/58440/789749
 http://b1g.ooo:80/58440/58440/621082
 #EXTINF:-1 tvg-id="COLORS" tvg-logo=" " group-title="B1G TV",COLORS (USA)
 http://b1g.ooo:80/58440/58440/793537
-#EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFoCnrlmmbRQHpOLihvt4FHMGcvIkzs9a0l_JlMnQzNqUITjwqZjC6RWc6fK6O6zTfPNrOrXtVS5SYq9xuKczcm8RV5L8OOqgFawBYo7ZjaOTO87TvAe-Vpl2hRWiuz_OKdjdeV5vZ6WXaqKgd5MPx4aGL7-3hDt0KSkEj6XT-JypU7xkazKP7_FlRpLk/s320/Picsart_24-10-13_11-35-17-142.jpg" group-title="B1G TV",&TV HD (IND)
+#EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFoCnrlmmbRQHpOLihvt4FHMGcvIkzs9a0l_JlMnQzNqUITjwqZjC6RWc6fK6O6zTfPNrOrXtVS5SYq9xuKczcm8RV5L8OOqgFawBYo7ZjaOTO87TvAe-Vpl2hRWiuz_OKdjdeV5vZ6WXaqKgd5MPx4aGL7-3hDt0KSkEj6XT-JypU7xkazKP7_FlRpLk/s320/Picsart_24-10-13_11-35-17-142.jpg" group-title="B1G TV",&TV HD (USA)
 http://b1g.ooo:80/58440/58440/793524
 #EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo=" " group-title="B1G TV",STAR BHARAT HD (USA)
 http://b1g.ooo:80/58440/58440/791612
@@ -179,7 +179,7 @@ http://b1g.ooo:80/58440/58440/791611
 http://b1g.ooo:80/58440/58440/791610
 #EXTINF:-1 tvg-id="STAR GOLD" tvg-logo=" " group-title="B1G TV",STAR GOLD (ME)
 http://b1g.ooo:80/58440/58440/794646
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" " group-title="B1G TV",COLORS (CA)
+#EXTINF:-1 tvg-id=" AAPKA COLORS" tvg-logo=" " group-title="B1G TV", AAPKA COLORS (CA)
 http://b1g.ooo:80/58440/58440/621050
 #EXTINF:-1 tvg-id="COLORS" tvg-logo=" " group-title="B1G TV",COLORS (USA)
 http://b1g.ooo:80/58440/58440/615425
@@ -189,11 +189,11 @@ http://b1g.ooo:80/58440/58440/622744
 http://b1g.ooo:80/58440/58440/621083
 #EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" " group-title="B1G TV",STAR PLUS (CAT)
 http://b1g.ooo:80/58440/58440/622689
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwscc6Em4UKJc1H2OMdrqEWe62kFjh8_5aL37qQ3Ev1QBf_0samiu-k764q5bfWbr8dV5qG02fIYj3BFzFOUEhUEX7VgKuFreLEZbFxZBioLMxzTY79tSkAzixyTj6Mjh-sxYwgHr0_yNewTzDCZu-HSm-r2w-1g_952pT57-ZrOpubVJtFRfFati3Fno/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="YSV TV",ZEE TV HD (AST)
-http://b1g.ooo:80/58440/58440/793608
-#EXTINF:-1 tvg-id="SONY SAB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="YSV TV",SONY SAB (US)
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwscc6Em4UKJc1H2OMdrqEWe62kFjh8_5aL37qQ3Ev1QBf_0samiu-k764q5bfWbr8dV5qG02fIYj3BFzFOUEhUEX7VgKuFreLEZbFxZBioLMxzTY79tSkAzixyTj6Mjh-sxYwgHr0_yNewTzDCZu-HSm-r2w-1g_952pT57-ZrOpubVJtFRfFati3Fno/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="B1G TV",ZEE TV HD (AST)
+http://b1g.ooo:80/58440/58440/622745
+#EXTINF:-1 tvg-id="SONY SAB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="B1G TV",SONY SAB (US)
 http://b1g.ooo:80/58440/58440/621071
-#EXTINF:-1 tvg-id="SONY SAB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="YSV TV",SONY SAB (UK)
+#EXTINF:-1 tvg-id="SONY SAB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="B1G TV",SONY SAB (UK)
 http://b1g.ooo:80/58440/58440/15217
 #EXTINF:-1 tvg-id="SONY YAY" tvg-logo=" " group-title="B1G TV",SONY YAY (USA)
 http://b1g.ooo:80/58440/58440/615392
