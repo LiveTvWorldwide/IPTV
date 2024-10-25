@@ -88,6 +88,14 @@ http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=4246&deviceMac=00:1A:79:99:EC
 http://208.86.19.13:81/20.stream/index.m3u8
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo=" " group-title="STREAMING",DISNEY CHANNEL (IND)
 http://119.156.26.155:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="B4U PLUS" tvg-logo=" " group-title="STREAMING",B4U PLUS (ME)
+http://tv.cloudcdn.me:80/live.ts?channelId=154&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-id="COLORS CINEPLEX" tvg-logo=" " group-title="STREAMING",COLORS CINEPLEX (UK)
+http://tv.cloudcdn.me:80/live.ts?channelId=156&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-id="COLORS RISHTEY" tvg-logo=" " group-title="STREAMING",COLORS RISHTEY (UK)
+http://tv.cloudcdn.me:80/live.ts?channelId=159&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-id="NAT GEO" tvg-logo=" " group-title="STREAMING",NAT GEO (IND)
+http://tv.cloudcdn.me:80/live.ts?channelId=176&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
