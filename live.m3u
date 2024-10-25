@@ -54,13 +54,13 @@ http://ahostingportal.com:2095/3875147095/3458182665/3011
 http://ahostingportal.com:2095/3875147095/3458182665/2815
 #EXTINF:-1 tvg-id="SONY SAB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="AP TV",SONY SAB (UK)
 http://ahostingportal.com:2095/3875147095/3458182665/3017
-
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MHD TV", ( )
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
 
 
 #EXTINF:-1 tvg-id="DISCOVERY ASIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkhDi4twdWwnLeW4G3XD4s9F7YyfJTKcs6dwfvVLhMizh8D-Hj_U3dNirOgqJ0N_2xysCBhkOmKel4tm5Ds6WBNy6YTOV2h_0BxGhvSt30hVrxVosedzF9D6B245r2UXykdc4LTHn0uZMwV9gar_qTwO3vNiH1EANUZ3YXPXq1lNEXimkpSVkVhZSwB1s/s1505/Picsart_24-09-06_11-17-22-475.jpg" group-title="WORLD TV",DISCOVERY ASIA (MY)
@@ -83,85 +83,11 @@ https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKfEKf83Qf4_VcOeZw906UlkbvP1WEzgHtt57bIC8kX7S6DbBXi6NCSzI5QOvL-YQ8XGrXlTf8ptJ0Oarq4JxyHc4zMaCUwo102-bRV15vDTiECvELzZzxjRfIZBaSDvmd9usgm8KIaXJ7VV8DMYE6_SJSloG-a09EU7qJMaNZ5cf7QfVyCuc-h_yAklA/s344/Picsart_23-09-13_17-05-39-801.png" group-title="WORLD TV",CNA (MY)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" " group-title="WORLD TV",STAR PLUS HD (IND)
-http://217.20.112.199/starplushd/index.m3u8
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwscc6Em4UKJc1H2OMdrqEWe62kFjh8_5aL37qQ3Ev1QBf_0samiu-k764q5bfWbr8dV5qG02fIYj3BFzFOUEhUEX7VgKuFreLEZbFxZBioLMxzTY79tSkAzixyTj6Mjh-sxYwgHr0_yNewTzDCZu-HSm-r2w-1g_952pT57-ZrOpubVJtFRfFati3Fno/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="WORLD TV",ZEE TV HD (IND)
-http://217.20.112.199/zeetvhd/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="WORLD TV", ( )
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
 
 
 
 
-#EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" " group-title="B1G TV",STAR PLUS (USA)
-http://b1g.ooo:80/58440/58440/791613
-#EXTINF:-1 tvg-id="ZEE TV CANADA" tvg-logo=" " group-title="B1G TV",ZEE TV CANADA (CA)
-http://b1g.ooo:80/58440/58440/789749
-#EXTINF:-1 tvg-id="ZEE TV CANADA" tvg-logo=" " group-title="B1G TV",ZEE TV CANADA (CA)
-http://b1g.ooo:80/58440/58440/621082
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" " group-title="B1G TV",COLORS (USA)
-http://b1g.ooo:80/58440/58440/793537
-#EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFoCnrlmmbRQHpOLihvt4FHMGcvIkzs9a0l_JlMnQzNqUITjwqZjC6RWc6fK6O6zTfPNrOrXtVS5SYq9xuKczcm8RV5L8OOqgFawBYo7ZjaOTO87TvAe-Vpl2hRWiuz_OKdjdeV5vZ6WXaqKgd5MPx4aGL7-3hDt0KSkEj6XT-JypU7xkazKP7_FlRpLk/s320/Picsart_24-10-13_11-35-17-142.jpg" group-title="B1G TV",&TV HD (USA)
-http://b1g.ooo:80/58440/58440/793524
-#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo=" " group-title="B1G TV",STAR BHARAT HD (USA)
-http://b1g.ooo:80/58440/58440/791612
-#EXTINF:-1 tvg-id="STAR GOLD" tvg-logo=" " group-title="B1G TV",STAR GOLD (USA)
-http://b1g.ooo:80/58440/58440/791611
-#EXTINF:-1 tvg-id="STAR GOLD ROMANCE" tvg-logo=" " group-title="B1G TV",STAR GOLD ROMANCE (USA)
-http://b1g.ooo:80/58440/58440/791610
-#EXTINF:-1 tvg-id="STAR GOLD" tvg-logo=" " group-title="B1G TV",STAR GOLD (ME)
-http://b1g.ooo:80/58440/58440/794646
-#EXTINF:-1 tvg-id=" AAPKA COLORS" tvg-logo=" " group-title="B1G TV", AAPKA COLORS (CA)
-http://b1g.ooo:80/58440/58440/621050
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" " group-title="B1G TV",COLORS (USA)
-http://b1g.ooo:80/58440/58440/615425
-#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" " group-title="B1G TV",ZEE CINEMA (USA)
-http://b1g.ooo:80/58440/58440/622744
-#EXTINF:-1 tvg-id="ZEE ETC BOLLYWOOD" tvg-logo=" " group-title="B1G TV",ZEE ETC BOLLYWOOD (USA)
-http://b1g.ooo:80/58440/58440/621083
-#EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" " group-title="B1G TV",STAR PLUS (CAT)
-http://b1g.ooo:80/58440/58440/622689
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwscc6Em4UKJc1H2OMdrqEWe62kFjh8_5aL37qQ3Ev1QBf_0samiu-k764q5bfWbr8dV5qG02fIYj3BFzFOUEhUEX7VgKuFreLEZbFxZBioLMxzTY79tSkAzixyTj6Mjh-sxYwgHr0_yNewTzDCZu-HSm-r2w-1g_952pT57-ZrOpubVJtFRfFati3Fno/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="B1G TV",ZEE TV HD (AST)
-http://b1g.ooo:80/58440/58440/622745
-#EXTINF:-1 tvg-id="SONY SAB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="B1G TV",SONY SAB (US)
-http://b1g.ooo:80/58440/58440/621071
-#EXTINF:-1 tvg-id="SONY SAB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="B1G TV",SONY SAB (UK)
-http://b1g.ooo:80/58440/58440/15217
-#EXTINF:-1 tvg-id="SONY YAY" tvg-logo=" " group-title="B1G TV",SONY YAY (USA)
-http://b1g.ooo:80/58440/58440/615392
-
-
-#EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" " group-title="YSV TV",STAR GOLD (ME)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/609302
-#EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" " group-title="YSV TV",STAR PLUS (CAT)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/609609
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwscc6Em4UKJc1H2OMdrqEWe62kFjh8_5aL37qQ3Ev1QBf_0samiu-k764q5bfWbr8dV5qG02fIYj3BFzFOUEhUEX7VgKuFreLEZbFxZBioLMxzTY79tSkAzixyTj6Mjh-sxYwgHr0_yNewTzDCZu-HSm-r2w-1g_952pT57-ZrOpubVJtFRfFati3Fno/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="YSV TV",ZEE TV HD (AST)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/609662
-#EXTINF:-1 tvg-id="SONY SAB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="YSV TV",SONY SAB (UK)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/508313
-#EXTINF:-1 tvg-id="SONY" tvg-logo=" " group-title="YSV TV",SONY (UK)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/508315
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" " group-title="YSV TV",COLORS (ME)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/609276
-#EXTINF:-1 tvg-id="COLORS" tvg-logo=" " group-title="YSV TV",COLORS (UK)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/508282
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj6qBOb_xsX2l3BJLNERkHb7FQDU0ZxA_8zjchb6vyQsETdYjYwR0pe76lKj2vlv2e5qXyn_tEULR4Ppi5R5iN41cZ0hlhqctbzw22nKpZ3B0noervQF244s-fZ22SSd7eubtPiPZ4YwN6YTGpRtwSGDF5xQvCR3dj1x6jxCG0Hm8yBdvz5aQIqY5zozA/s320/Picsart_24-09-21_13-17-37-880.jpg" group-title="YSV TV",ZEE TV (UK)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/508333
-#EXTINF:-1 tvg-id="SONY MAX" tvg-logo=" " group-title="YSV TV",SONY MAX (UK)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/651671
-#EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo=" " group-title="YSV TV",SONY MAX 2 (UK)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/508311
-#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" " group-title="YSV TV",ZEE CINEMA (UK)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/508329
-#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" " group-title="YSV TV",ZEE CINEMA (USA)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/609661
-#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" " group-title="YSV TV",B4U MOVIES (USA)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/609431
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" " group-title="YSV TV",B4U MUSIC (USA)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/609432
-#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" " group-title="YSV TV",B4U MOVIES (ME)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/608934
-#EXTINF:-1 tvg-id="B4U PLUS" tvg-logo=" " group-title="YSV TV",B4U PLUS (ME)
-http://yourservpan.com:3050/dawnmakemeover@gmail.com/a8FQjBc2XZ/651519
 
 
 
