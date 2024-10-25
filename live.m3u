@@ -96,8 +96,19 @@ http://tv.cloudcdn.me:80/live.ts?channelId=156&uid=4246&deviceMac=00:1A:79:99:EC
 http://tv.cloudcdn.me:80/live.ts?channelId=159&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-id="NAT GEO" tvg-logo=" " group-title="STREAMING",NAT GEO (IND)
 http://tv.cloudcdn.me:80/live.ts?channelId=176&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo=" " group-title="STREAMING",NAT GEO WILD HD (IND)
+http://tv.cloudcdn.me:80/live.ts?channelId=177&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-id="SONY MAX" tvg-logo=" " group-title="STREAMING",SONY MAX (UK)
+http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-id="SONY SAB" tvg-logo=" " group-title="STREAMING",SONY SAB (UK)
+http://tv.cloudcdn.me:80/live.ts?channelId=192&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-id="SONY" tvg-logo=" " group-title="STREAMING",SONY (UK)
+http://tv.cloudcdn.me:80/live.ts?channelId=194&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo=" " group-title="STREAMING",STAR BHARAT HD (IND)
+http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 
 
