@@ -110,9 +110,14 @@ http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=4246&deviceMac=00:1A:79:99:EC
 http://tv.cloudcdn.me:80/live.ts?channelId=218&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" " group-title="STREAMING",ZEE CINEMA (UK)
 http://tv.cloudcdn.me:80/live.ts?channelId=214&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo=" " group-title="STREAMING",BOOMERANG (USA)
+http://tv.cloudcdn.me:80/live.ts?channelId=243&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo=" " group-title="STREAMING",CARTOON NETWORK (IND)
+http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo=" " group-title="STREAMING",CARTOON NETWORK (USA)
+http://tv.cloudcdn.me:80/live.ts?channelId=246&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 
 
