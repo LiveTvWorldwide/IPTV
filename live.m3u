@@ -116,8 +116,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=243&uid=4246&deviceMac=00:1A:79:99:EC
 http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo=" " group-title="STREAMING",CARTOON NETWORK (USA)
 http://tv.cloudcdn.me:80/live.ts?channelId=246&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-id="USTAV BHARAT" tvg-logo=" " group-title="STREAMING",USTAV BHARAT (UK)
+http://tv.cloudcdn.me:80/live.ts?channelId=305&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 
 
