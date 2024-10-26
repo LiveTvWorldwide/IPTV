@@ -122,9 +122,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=305&uid=4246&deviceMac=00:1A:79:99:EC
 
 #EXTINF:-1 tvg-id="FIT18" tvg-logo=" " group-title="ADULT TV",FIT18 (USA)
 http://206.212.244.71:8080/4wVQA7/625159/159986
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
-
-
+#EXTINF:-1 tvg-id="SUGER BEBES" tvg-logo=" " group-title="ADULT TV",SUGER BEBES (USA)
+http://206.212.244.71:8080/4wVQA7/625159/160044
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ADULT TV", ( )
 
 
 
