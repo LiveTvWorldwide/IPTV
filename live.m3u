@@ -136,9 +136,10 @@ http://activefrance.net:80/9Q482WQ/K9JF3FK/1052664
 http://activefrance.net:80/9Q482WQ/K9JF3FK/1060203
 #EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" " group-title="ACTIVEF NET",COLORS HD (MY)
 http://activefrance.net:80/9Q482WQ/K9JF3FK/1052466
+#EXTINF:-1 tvg-id="COLORS" tvg-logo=" " group-title="ACTIVEF NET",COLORS (USA)
+http://activefrance.net:80/9Q482WQ/K9JF3FK/694128
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
 
