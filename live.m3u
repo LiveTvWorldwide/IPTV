@@ -1,4 +1,4 @@
-#EXTM3U
+k#EXTM3U
 
 
 #EXTINF:-1 tvg-id="COLORS RISHTEY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwKrKMatnF51BiKBScb1qKUNymf4fkujJ_sCCtOnGjJeiJVeSVJEAxAPtp2synTZQYXVNRXqIiPDyI90wpeZ7Pj6JW20W2zfQwCr09E1m5BQRLYJKGNA05z8zFZOw-F5xcUmWU0m2WKCERA4C5RxyORYu_RUX6M9xDfBoc_ZY3OqjINTNGnVGvCZq8ILk/s320/Picsart_24-10-13_11-32-53-179.jpg" group-title="TV MATE",COLORS RISHTEY (US)
@@ -148,11 +148,15 @@ http://activefrance.net:80/9Q482WQ/K9JF3FK/1055565
 http://activefrance.net:80/9Q482WQ/K9JF3FK/987063
 #EXTINF:-1 tvg-id="TRAVEL XP" tvg-logo=" " group-title="ACTIVEF NET",TRAVEL XP (BR)
 http://activefrance.net:80/9Q482WQ/K9JF3FK/816236
+#EXTINF:-1 tvg-id="ZEE ETC BOLLYWOOD" tvg-logo=" " group-title="ACTIVEF NET",ZEE ETC BOLLYWOOD (CA)
+http://activefrance.net:80/9Q482WQ/K9JF3FK/694126
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" " group-title="ACTIVEF NET",ZEE TV HD (TT)
+http://activefrance.net:80/9Q482WQ/K9JF3FK/316374
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
-
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
 
 
 
