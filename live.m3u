@@ -126,7 +126,21 @@ http://206.212.244.71:8080/4wVQA7/625159/159986
 http://206.212.244.71:8080/4wVQA7/625159/160044
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ADULT TV", ( )
 
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" " group-title="ACTIVEF NET",ZEE TV (APAC)
+http://activefrance.net:80/9Q482WQ/K9JF3FK/1060217
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" " group-title="ACTIVEF NET",ZEE CINEMA (USA)
+http://activefrance.net:80/9Q482WQ/K9JF3FK/110310
+#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" " group-title="ACTIVEF NET",ZEE CINEMA HD (MY)
+http://activefrance.net:80/9Q482WQ/K9JF3FK/1052664
+#EXTINF:-1 tvg-id="COLORS" tvg-logo=" " group-title="ACTIVEF NET",COLORS (APAC)
+http://activefrance.net:80/9Q482WQ/K9JF3FK/1060203
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" " group-title="ACTIVEF NET",COLORS HD (MY)
+http://activefrance.net:80/9Q482WQ/K9JF3FK/1052466
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
 
 
 
