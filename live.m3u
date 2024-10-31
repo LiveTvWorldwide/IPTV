@@ -144,10 +144,12 @@ http://activefrance.net:80/9Q482WQ/K9JF3FK/1060210
 http://activefrance.net:80/9Q482WQ/K9JF3FK/1055563
 #EXTINF:-1 tvg-id="SONY MAX" tvg-logo=" " group-title="ACTIVEF NET",SONY MAX (AF)
 http://activefrance.net:80/9Q482WQ/K9JF3FK/1055565
+#EXTINF:-1 tvg-id="TRAVEL XP" tvg-logo=" " group-title="ACTIVEF NET", TRAVEL  XP(FR)
+http://activefrance.net:80/9Q482WQ/K9JF3FK/987063
+#EXTINF:-1 tvg-id="TRAVEL XP" tvg-logo=" " group-title="ACTIVEF NET",TRAVEL XP (BR)
+http://activefrance.net:80/9Q482WQ/K9JF3FK/816236
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ACTIVEF NET", ( )
 
