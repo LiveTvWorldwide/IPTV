@@ -124,7 +124,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=305&uid=4246&deviceMac=00:1A:79:99:EC
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ADULT TV", (USA)
 
-#EXTINF:-1 tvg-id="SEX HOT" tvg-logo=" " group-title="ADULT TV",SEX HOT (UK)
+#EXTINF:-1 tvg-id="SEX HOT" tvg-logo=" " group-title="ADULT TV",SEX HOT (BR)
 https://new.m3u8.one/sexhot/tracks-v1a1/mono.m3u8
 
 
