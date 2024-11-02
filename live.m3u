@@ -13,8 +13,6 @@ http://nocable.cc:8080/crystal/crystal/125809
 http://nocable.cc:8080/crystal/crystal/125807
 #EXTINF:-1 tvg-id="TIMES NOW" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixkzhkrhK9jlVuP4VWrqhvF4xmFRaIu4GtJ1WDUncQb2e2BVLzzVzKCjdsiYYZw448DeyhWQNaoxL6g3ZVIQ9HRFL2MRq6_atyIdtzntd_8GEPC3QYK47odgl_UJUpAo-2GysZ_I6pWAHFgQ8fAzpR1f4wbPBU7ag9c7XM9C_CjAPCnrT5iMK5oemRB64/s320/Picsart_24-10-13_11-33-08-411.jpg" group-title="TV MATE",TIMES NOW (US)
 http://206.212.244.71:8080/4wVQA7/625159/125817
-#EXTINF:-1 tvg-id="SONY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr9SqsNHe8lgqHzyLiQ-6bo7bevc7QbTXf31T8v_QNvGY-gAJEjWGJYM9nlYc78XHWgc7cRjvhi1uwYnElT0tutHwLZs6Zv2jCcB8hnBce1KMBzUKtT50TolZFZZu4CtW9uDPCkwvxjvIZyUIH6S_CzditlMAMFcZupLo2F1CcxB9IAH7KuajabnDbCpo/s320/Picsart_24-11-02_13-51-54-942.jpg" group-title="TV MATE",SONY (USA)
-http://tvmate.icu:8080/A1Jay5/362586/125819
 
 
 
@@ -58,8 +56,6 @@ http://ahostingportal.com:2095/3875147095/3458182665/3017
 
 
 
-#EXTINF:-1 tvg-id="DISCOVERY ASIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkhDi4twdWwnLeW4G3XD4s9F7YyfJTKcs6dwfvVLhMizh8D-Hj_U3dNirOgqJ0N_2xysCBhkOmKel4tm5Ds6WBNy6YTOV2h_0BxGhvSt30hVrxVosedzF9D6B245r2UXykdc4LTHn0uZMwV9gar_qTwO3vNiH1EANUZ3YXPXq1lNEXimkpSVkVhZSwB1s/s1505/Picsart_24-09-06_11-17-22-475.jpg" group-title="STREAMING",DISCOVERY ASIA (MY)
-https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="BBC NEWS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEY3PxWPPJXaPgL2q8110TQWLbJ0KOH2GeYvwPBNyDrAd1EmNQmSB-V5e3PQ-vcG2FtuHtBiX-WWv376GNdCKjNkR9ByGfSpn5zUmlZdDkL-_jG-64fKfhiMy1NLcXG3v1qSpsRcytTGGp_td6C4OjAXbrnOtSBKlXKUVn-TfV3S2Z9RXLY15eWIUQ_aI/s2412/Picsart_24-09-06_11-38-14-506.jpg" group-title="STREAMING",BBC NEWS (UK)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="POGO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfId_T0V4HAriyHUZVbBbAw-RUkxp8n8e29dSpRjor74SBmLFTj0dojE9LQUgLOp7vCV-6Z2p54NTBfPkzr-W5M4V0fez-skjcadNSeLwyIk07x8OLadEc6jY_c3LwyFNZr3e7IdyEcFEUj531ft_1zvPRfCtEcQGFlgoYnGl-ry5GAFU7QcedD88lRRk/s320/Picsart_24-01-28_11-22-30-626.jpg" group-title="STREAMING",POGO (IND)
@@ -102,7 +98,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=4246&deviceMac=00:1A:79:99:EC
 http://tv.cloudcdn.me:80/live.ts?channelId=192&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-id="SONY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr9SqsNHe8lgqHzyLiQ-6bo7bevc7QbTXf31T8v_QNvGY-gAJEjWGJYM9nlYc78XHWgc7cRjvhi1uwYnElT0tutHwLZs6Zv2jCcB8hnBce1KMBzUKtT50TolZFZZu4CtW9uDPCkwvxjvIZyUIH6S_CzditlMAMFcZupLo2F1CcxB9IAH7KuajabnDbCpo/s320/Picsart_24-11-02_13-51-54-942.jpg" group-title="STREAMING",SONY (UK)
 http://tv.cloudcdn.me:80/live.ts?channelId=194&uid=4246&deviceMac=00:1A:79:99:EC:D3
-#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo=" " group-title="STREAMING",STAR BHARAT HD (IND)
+#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguUJ4TKEvUimXEKZyatXI8LzpaW_D8sewYoX1ozpOCt4v4StY5qwgyF11T06S9iq2CR_lPLV2Gdl98jruxNDm3dcxQKHgNx5wrqH5Ty9DRe3Cv1RXGZFJV-KndxcIvT9_Y18y05Os6LzgeQkblklL56wfMAGfIV48EGsWXAKX2iPdqgTaDHA-2uMamzK8/s320/Picsart_24-09-21_14-23-09-062.jpg" group-title="STREAMING",STAR BHARAT HD (IND)
 http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim9Dk1wYDKxGZXNUMB4Nt8H7aE56yoBotPByL_UBg5nX9PYg6RDJ9eBr1BGcTnmAPVxY1dZisU1hgGHyVjxj8A2Q0yUTbdDMnCScCqL9ygLW4qv53rhoPkh8B8qxAQw0fSAfmMjF2e8cJGXZ0MqdtnS4_Y-J2Vx6JiLrwTR8cWYon9pjgxIdtQTtLAxkY/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="STREAMING",ZEE TV HD (UK)
 http://tv.cloudcdn.me:80/live.ts?channelId=218&uid=4246&deviceMac=00:1A:79:99:EC:D3
