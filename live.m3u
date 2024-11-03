@@ -113,8 +113,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=246&uid=4246&deviceMac=00:1A:79:99:EC
 #EXTINF:-1 tvg-id="USTAV BHARAT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQFPmm1UzgxJ86HcqDdQHuAYJHBsd5Q6QrHVRFbpX4pP0WJ2lu8IfrSRLcAy4ZiPwpF-KporCbfhTFjeDY4-Reevqw6nx1AOimblNrD8Xerae8RXaDkN8pAbWzEAIbDG2JYCAPAps1x3gSBbj4ZkQ1Abl29maNlOoa7n26qffsmlsg2xe9dStneg7QNRk/s320/Picsart_24-10-13_11-28-44-341.jpg" group-title="STREAMING",USTAV BHARAT (UK)
 http://tv.cloudcdn.me:80/live.ts?channelId=305&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
-#EXTINF:-1 tvg-name="Tele Jonio" tvg-logo="https://i.imgur.com/qJeDV8R.png" group-title="Italy",Tele Jonio 
-http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="SEXY MEN" tvg-logo=" " group-title="ADULT TV",SEXY MEN (USA)
