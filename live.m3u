@@ -180,8 +180,9 @@ http://astv.life:8080/play/SWpJ4YFltQO4N3l7A5jwJJ_9F3-F15_48nPZOTHa3So/ts
 #EXTINF:-1 tvg-id="COLORS" tvg-logo=" " group-title="CDN NET",COLORS (USA)
 http://cname.cdnnet.xyz:80/0e087716b5/ec031f9618df/765268
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="CDN NET", ()
-
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim9Dk1wYDKxGZXNUMB4Nt8H7aE56yoBotPByL_UBg5nX9PYg6RDJ9eBr1BGcTnmAPVxY1dZisU1hgGHyVjxj8A2Q0yUTbdDMnCScCqL9ygLW4qv53rhoPkh8B8qxAQw0fSAfmMjF2e8cJGXZ0MqdtnS4_Y-J2Vx6JiLrwTR8cWYon9pjgxIdtQTtLAxkY/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="CDN NET",ZEE TV HD (TT)
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrVYUlnxqwlW8sQMt1HFtcg4iTMAouVtHyVWU5e1YhR5tdjVliGuTGUBQUtFR170LZ_PPUTgj9LrTvJnl-xJ1qc-7dhknnbWDV0YJ34oiCYJdlPyStM6Zg4MoUGKrQcutL9gwbmWz8rj_NdOecpWouTCr-v0z-atis9UD6S9VqprZTFXHwn8TZv5GRQw0/s320/Picsart_24-09-21_14-31-55-566.jpg" group-title="CDN NET",ZEE CINEMA (UK)
+http://cname.cdnnet.xyz:80/0e087716b5/ec031f9618df/281252
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim9Dk1wYDKxGZXNUMB4Nt8H7aE56yoBotPByL_UBg5nX9PYg6RDJ9eBr1BGcTnmAPVxY1dZisU1hgGHyVjxj8A2Q0yUTbdDMnCScCqL9ygLW4qv53rhoPkh8B8qxAQw0fSAfmMjF2e8cJGXZ0MqdtnS4_Y-J2Vx6JiLrwTR8cWYon9pjgxIdtQTtLAxkY/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="CDN NET",ZEE TV HD (USA)
 http://cname.cdnnet.xyz:80/0e087716b5/ec031f9618df/886029
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="CDN NET", ()
 
