@@ -32,8 +32,10 @@ http://185.164.82.18:9010/ykMHqK_NatGeo
 
 
 
-#EXTINF:-1 tvg-id="LEGAL PRON" tvg-logo=" " group-title="ADULT TV",LEGAL PRON (USA)
-http://168.119.255.170/716/mono.m3u8?token=Md7ac19a92
+#EXTINF:-1 tvg-id="REDLIGHT HD" tvg-logo=" " group-title="ADULT TV", REDLIGHT HD (USA)
+https://89.187.167.247/redlight.stream/chunks.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ADULT TV", (USA)
+
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ADULT TV", (USA)
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ADULT TV", (USA)
 
