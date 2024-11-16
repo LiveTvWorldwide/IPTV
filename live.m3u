@@ -32,9 +32,7 @@ http://185.164.82.18:9010/ykMHqK_NatGeo
 
 
 
-#EXTINF:-1 tvg-id="REDLIGHT HD" tvg-logo=" " group-title="ADULT TV", REDLIGHT HD (USA)
-https://89.187.167.247/redlight.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="PASSION XXX TEEN CLUB" tvg-logo=" " group-title="ADULT TV", PASSION XXX TEEN CLUB (USA)
+#EXTINF:-1 tvg-id="PASSION XXX" tvg-logo=" " group-title="ADULT TV", PASSION XXX (EU)
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ADULT TV", (USA)
 
