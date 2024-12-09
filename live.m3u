@@ -119,8 +119,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=305&uid=4246&deviceMac=00:1A:79:99:EC
 http://ott.premium-tv.org:8789/wonton57/874893/332295
 #EXTINF:-1 tvg-id="SONY SAB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="OTT TV",SONY SAB (UK)
 http://ott.premium-tv.org:8789/wonton57/874893/303082
-
-
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo=" " group-title="OTT TV",NAT GEO WILD (UAE)
+http://ott.premium-tv.org:8789/wonton57/874893/22726
 
 
 
