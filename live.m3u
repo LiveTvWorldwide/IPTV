@@ -1,21 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="TLC HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAPtJ9622YKrOGvLcGdl15sVHMc5XI0J9-YYtIPbMJYA2t0ILRyO19_I4BiJaTvXbwGKeQM1hqREn7JStirHvuRd-t330siwra-UV7b54fPtuw2wA4esCLgFAKi51Vyfj5TZ_ISjoMoZia0ASZ962qwmEFaPoiLt0m9h5OQGN0zArqbjJqAHB73wS1EBo/s312/Picsart_23-08-07_16-57-03-425.jpg" group-title="VARUN IPTV",TLC HD (IND)
-https://varun-iptv.netlify.app/m3u/TLC.m3u8
-#EXTINF:-1 tvg-id="TRVL CHANNEL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitD36xI6VI7zyMruy2_3VBSYtu-3z6mCbdOA41YnloErfB28efazuQvvKqlzicndSnFay5wTm37CFfDyc6nT7KJU-iZNWo2lx9KFZJttthlty-cwu3Fsy9WnS0WaazoMZO2VtljQ7Q5k6e3cwrg1LxFg2kJpyIE-2XmpWJaQpLevL2i1O8hqNU390GD8Y/s320/Picsart_23-09-03_17-13-18-940.png" group-title="VARUN IPTV",TRVL CHANNEL (MY)
-https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
-#EXTINF:-1 tvg-id="DMAX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4eMdulbgWQOBEfoar1txTHjTWdAkBsNlivtoHVCohmfroc9XVaaaB6Ibjj9KdyrCznZp_pWaudEJg01dB6nn3fghyNSesInVo-tfWWAOzW-8WkUNno78unJz30ZIpqXeGh5A_hPIkKIn8gqN2s4U2SKnzQHkPAMn6MfJVLKOUK-uqjIa2IYUvAL6_a8/s1000/Picsart_23-09-04_17-13-44-394.jpg" group-title="VARUN IPTV",DMAX (MY)
-https://varun-iptv.netlify.app/m3u/DMAX.m3u8
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSwWDiQO_6653f9Y9ZwmaHwdPuqFUQkyoszwM6g2YNw7GqImEM2kQL2tOGUHElF5_O-OzD6p0YeAmn9VVVFWZDa--b9i7H-OMbm4nHiPjYatDae_YUI6jEKsvET4MufCO1ZyKXuWqNCCtcV4_BHL7Q6-jkuJkzVPHZR1WeZVZOkGK_uXazpOM62d1zTUE/s400/Picsart_23-09-05_18-02-15-587.png" group-title="VARUN IPTV",HGTV (MY)
-https://varun-iptv.netlify.app/m3u/HGTV.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr836th8EeB4T4GZGSaRPl-xjN8s4UOarZ4xqFTsXSAUofpm3btrkEkadagLj3o3zRwA_AalryQdQ6nuan8j0LdGxknNDWGjxuaUWGIB-9CBXJUL3ywHfZof7YOieLe2hHOlgqDrZkN0BnYaZ2KY83tRXy1MbTIzExHC1n3i5ttuRTzci60cwls6-B9RQ/s1600/Picsart_23-09-14_16-18-38-649.png" group-title="VARUN IPTV", DISCOVERY SCIENCE (IND)
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2t7xAAsRFqhr3dqnNY7QTeYGDNMXKcFJAhunYOQ86zE1NcJ1iU7FoW-2yTXmCaEo-UcjmTcoFtDf39D273CRzkQh2DUrT8YGvpCVVsBYq_BQjdCX53SuG6yGF17PlwRHH7hLVe4fQYGRwOOQtKEwNtUE6L7LuxnaxDfpgG0kAOnWEvGGNAUBbH1Q0BK4/s1200/Picsart_23-09-12_17-02-28-883.png" group-title="VARUN IPTV", FOOD NETWORK (MY)
-https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
-
-
-
 #EXTINF:-1 tvg-id="CNA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKfEKf83Qf4_VcOeZw906UlkbvP1WEzgHtt57bIC8kX7S6DbBXi6NCSzI5QOvL-YQ8XGrXlTf8ptJ0Oarq4JxyHc4zMaCUwo102-bRV15vDTiECvELzZzxjRfIZBaSDvmd9usgm8KIaXJ7VV8DMYE6_SJSloG-a09EU7qJMaNZ5cf7QfVyCuc-h_yAklA/s344/Picsart_23-09-13_17-05-39-801.png" group-title="STREAMING",CNA (MY)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvF7g1CyjLBVtqztGntyQPTYYaIMM4r6Eo_OGVtruq6inzavTlrr2PPjttP-hSGo_AZkLNzThd4jO2lPuRJd3Ulh95PMawNjma8tKzSzXJw9wa6lJp_pBRc2tNQ7_3ndvSG08ylp1ofdIW4OqWYIf39YKcyFRtwTjtiwcirIdP7TVS1smDyvpTrWHasWk/s320/Picsart_24-11-02_14-10-00-229.jpg" group-title="STREAMING",CNN (USA)
@@ -118,13 +103,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=305&uid=4246&deviceMac=00:1A:79:99:EC
 
 #EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj6qBOb_xsX2l3BJLNERkHb7FQDU0ZxA_8zjchb6vyQsETdYjYwR0pe76lKj2vlv2e5qXyn_tEULR4Ppi5R5iN41cZ0hlhqctbzw22nKpZ3B0noervQF244s-fZ22SSd7eubtPiPZ4YwN6YTGpRtwSGDF5xQvCR3dj1x6jxCG0Hm8yBdvz5aQIqY5zozA/s320/Picsart_24-09-21_13-17-37-880.jpg" group-title="OTT TV",ZEE TV (IL)
 http://ott.premium-tv.org:8789/wonton57/874893/332295
-#EXTINF:-1 tvg-id="SONY SAB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="OTT TV",SONY SAB (UK)
-http://ott.premium-tv.org:8789/wonton57/874893/303082
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo=" " group-title="OTT TV",NAT GEO WILD (UAE)
 http://ott.premium-tv.org:8789/wonton57/874893/22726
 
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj6qBOb_xsX2l3BJLNERkHb7FQDU0ZxA_8zjchb6vyQsETdYjYwR0pe76lKj2vlv2e5qXyn_tEULR4Ppi5R5iN41cZ0hlhqctbzw22nKpZ3B0noervQF244s-fZ22SSd7eubtPiPZ4YwN6YTGpRtwSGDF5xQvCR3dj1x6jxCG0Hm8yBdvz5aQIqY5zozA/s320/Picsart_24-09-21_13-17-37-880.jpg" group-title=" MEGA OTT",ZEE TV (IL)
-http://megaott.live:8080/v4CyFwejuEmf/sJEjH4e8Qkdm/5001
 
 
 
