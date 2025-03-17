@@ -9,7 +9,7 @@ http://208.86.19.13:81/20.stream/index.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="POGO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfId_T0V4HAriyHUZVbBbAw-RUkxp8n8e29dSpRjor74SBmLFTj0dojE9LQUgLOp7vCV-6Z2p54NTBfPkzr-W5M4V0fez-skjcadNSeLwyIk07x8OLadEc6jY_c3LwyFNZr3e7IdyEcFEUj531ft_1zvPRfCtEcQGFlgoYnGl-ry5GAFU7QcedD88lRRk/s320/Picsart_24-01-28_11-22-30-626.jpg" group-title="STREAMING",POGO (IND)
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo=" " group-title="STREAMING",NAT GEO WILD (RU)
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXYrFWZAx45sssgGEsNLi8PNfOnr6lv8pE2Ax_7nAOkI11Viexx8_U7OCO1TUo4_AEVY4fLM3JV4xOf2M9DrsE_TkrcH8GV5gwWBDyX0E_Y1S-WuSafrgDAlVK6aCLE56x6Of9fRJJCgu1tZk2F1o7WuxBLy-wy2jEjp1XRR2JGdPWNJRWNoEpQR8cdfA/s1080/1000065708.jpg" group-title="STREAMING",NAT GEO WILD (RU)
 http://185.164.82.18:9010/ykMHqK_NatGeoWild
 #EXTINF:-1 tvg-id="NAT GEO" tvg-logo=" " group-title="STREAMING",NAT GEO (RU)
 http://185.164.82.18:9010/ykMHqK_NatGeo
@@ -75,3 +75,5 @@ http://ott.premium-tv.org:8789/wonton57/874893/332295
 http://ott.premium-tv.org:80/wonton57/874893/215762
 #EXTINF:-1 tvg-id="TRAVEL XP" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif6F-K1roRugpKH_xGMV91yINGgmlGy6XySo15ENZKVSXaWzVIQVML7dJm2HGHDFuSQl7uPgZ2hRyzzjXHlSoWv2aSmTQuzkYeJKAoIqiCPpGpAiWeGFpQP60GkEIWGdrB1lXwD6xrCygsKuCW1PYNWk1Bz8HbYut_uI-PUSAXYO7eHPtdNDpLEMjVkjY/s1637/1000065705.jpg" group-title="OTT TV", TRAVEL XP (UK)
 http://ott.premium-tv.org:80/wonton57/874893/216032
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXYrFWZAx45sssgGEsNLi8PNfOnr6lv8pE2Ax_7nAOkI11Viexx8_U7OCO1TUo4_AEVY4fLM3JV4xOf2M9DrsE_TkrcH8GV5gwWBDyX0E_Y1S-WuSafrgDAlVK6aCLE56x6Of9fRJJCgu1tZk2F1o7WuxBLy-wy2jEjp1XRR2JGdPWNJRWNoEpQR8cdfA/s1080/1000065708.jpg" group-title="OTT TV",NAT GEO WILD (SE)
+http://ott.premium-tv.org:80/wonton57/874893/283717
