@@ -13,8 +13,9 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-pogo-sam
 http://185.164.82.18:9010/ykMHqK_NatGeoWild
 #EXTINF:-1 tvg-id="NAT GEO" tvg-logo=" " group-title="STREAMING",NAT GEO (RU)
 http://185.164.82.18:9010/ykMHqK_NatGeo
+#EXTINF:-1 tvg-id="DANGAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimriUVOPAIp6TeNZ9-1JDs6RD38FxnVxia28ziPn3JIhvwcMILRjtKEPgBuaIsi8bfEN1_u_UZgM9iB0dx-Z72foq5SJQ_nPUnoiJeLf_eKpH9ddUd_7nbDreSIkIFI3BPaKmerWu3mTt9KabzbMi758qk9fJMl_6pBLzElqKe7Gp3i_4ZgS0OuD7VQ80/s320/1000065702.jpg" group-title="STREAMING", (DANGAL)
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
-
 
 
 #EXTINF:-1 tvg-id="PASSION XXX" tvg-logo=" " group-title="ADULT TV", PASSION XXX (EU)
