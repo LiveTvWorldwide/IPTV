@@ -9,11 +9,11 @@ http://208.86.19.13:81/20.stream/index.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="POGO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfId_T0V4HAriyHUZVbBbAw-RUkxp8n8e29dSpRjor74SBmLFTj0dojE9LQUgLOp7vCV-6Z2p54NTBfPkzr-W5M4V0fez-skjcadNSeLwyIk07x8OLadEc6jY_c3LwyFNZr3e7IdyEcFEUj531ft_1zvPRfCtEcQGFlgoYnGl-ry5GAFU7QcedD88lRRk/s320/Picsart_24-01-28_11-22-30-626.jpg" group-title="STREAMING",POGO (IND)
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo=" " group-title="STREAMING",NAT GEO WILD (US)
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo=" " group-title="STREAMING",NAT GEO WILD (USA)
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="NAT GEO" tvg-logo=" " group-title="STREAMING",NAT GEO (US)
+#EXTINF:-1 tvg-id="NAT GEO" tvg-logo=" " group-title="STREAMING",NAT GEO (USA)
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-id="DANGAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimriUVOPAIp6TeNZ9-1JDs6RD38FxnVxia28ziPn3JIhvwcMILRjtKEPgBuaIsi8bfEN1_u_UZgM9iB0dx-Z72foq5SJQ_nPUnoiJeLf_eKpH9ddUd_7nbDreSIkIFI3BPaKmerWu3mTt9KabzbMi758qk9fJMl_6pBLzElqKe7Gp3i_4ZgS0OuD7VQ80/s320/1000065702.jpg" group-title="STREAMING", (DANGAL)
+#EXTINF:-1 tvg-id="DANGAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimriUVOPAIp6TeNZ9-1JDs6RD38FxnVxia28ziPn3JIhvwcMILRjtKEPgBuaIsi8bfEN1_u_UZgM9iB0dx-Z72foq5SJQ_nPUnoiJeLf_eKpH9ddUd_7nbDreSIkIFI3BPaKmerWu3mTt9KabzbMi758qk9fJMl_6pBLzElqKe7Gp3i_4ZgS0OuD7VQ80/s320/1000065702.jpg" group-title="STREAMING", DANGAL (IND)
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 
