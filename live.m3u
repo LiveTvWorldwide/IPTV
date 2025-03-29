@@ -77,19 +77,25 @@ http://ott.premium-tv.org:80/wonton57/874893/215762
 http://ott.premium-tv.org:80/wonton57/874893/216032
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXYrFWZAx45sssgGEsNLi8PNfOnr6lv8pE2Ax_7nAOkI11Viexx8_U7OCO1TUo4_AEVY4fLM3JV4xOf2M9DrsE_TkrcH8GV5gwWBDyX0E_Y1S-WuSafrgDAlVK6aCLE56x6Of9fRJJCgu1tZk2F1o7WuxBLy-wy2jEjp1XRR2JGdPWNJRWNoEpQR8cdfA/s1080/1000065708.jpg" group-title="OTT TV",NAT GEO WILD (SE)
 http://ott.premium-tv.org:80/wonton57/874893/283717
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
+
 
 #EXTINF:-1 tvg-id="SONY SAB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="TV MATE",SONY SAB (USA)
 http://tvmate.icu:8080/vNay0H/219352/125809
 #EXTINF:-1 tvg-id="TV ASIA" tvg-logo=" " group-title="TV MATE",TV ASIA (USA)
 http://tvmate.icu:8080/vNay0H/219352/125819
-#EXTINF:-1 tvg-id="COLORS RISHTEY" tvg-logo=" " group-title="TV MATE",COLORS RISHTEY (USA)
+#EXTINF:-1 tvg-id="COLORS RISHTEY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwKrKMatnF51BiKBScb1qKUNymf4fkujJ_sCCtOnGjJeiJVeSVJEAxAPtp2synTZQYXVNRXqIiPDyI90wpeZ7Pj6JW20W2zfQwCr09E1m5BQRLYJKGNA05z8zFZOw-F5xcUmWU0m2WKCERA4C5RxyORYu_RUX6M9xDfBoc_ZY3OqjINTNGnVGvCZq8ILk/s320/Picsart_24-10-13_11-32-53-179.jpg" group-title="TV MATE",COLORS RISHTEY (USA)
 http://tvmate.icu:8080/vNay0H/219352/125806
 #EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo=" " group-title="TV MATE",FOOD FOOD (USA)
 http://tvmate.icu:8080/vNay0H/219352/125807
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
 
 
-
-
+#EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" " group-title="DEFAULT GEN",STAR PLUS (CAR)
+http://defaultgen.com:3050/leevalj@gmail.com/dVgNLZibPF/609609
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim9Dk1wYDKxGZXNUMB4Nt8H7aE56yoBotPByL_UBg5nX9PYg6RDJ9eBr1BGcTnmAPVxY1dZisU1hgGHyVjxj8A2Q0yUTbdDMnCScCqL9ygLW4qv53rhoPkh8B8qxAQw0fSAfmMjF2e8cJGXZ0MqdtnS4_Y-J2Vx6JiLrwTR8cWYon9pjgxIdtQTtLAxkY/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="DEFAULT GEN",ZEE TV HD (CAR)
+http://defaultgen.com:3050/leevalj@gmail.com/dVgNLZibPF/609662
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
 
 
 
