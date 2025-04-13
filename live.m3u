@@ -93,6 +93,20 @@ http://tvmate.icu:8080/vNay0H/219352/125807
 http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/38143
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
 
+#EXTINF:-1 tvg-id="GALAXY" tvg-logo=" " group-title="VIP",GALAXY (ML)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2694.ts
+#EXTINF:-1 tvg-id="HBO SINGTURE" tvg-logo=" " group-title="VIP",HBO SINGTURE (ML)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2709.ts
+#EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-logo=" " group-title="VIP",STAR MOVIES HD (IND)
+https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2687.ts
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="VIP", (ML)
+
+
+
+
+
+
+
 
 
 
