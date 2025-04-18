@@ -7,12 +7,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 http://208.86.19.13:81/20.stream/index.m3u8
 #EXTINF:-1 tvg-id="BBC NEWS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEY3PxWPPJXaPgL2q8110TQWLbJ0KOH2GeYvwPBNyDrAd1EmNQmSB-V5e3PQ-vcG2FtuHtBiX-WWv376GNdCKjNkR9ByGfSpn5zUmlZdDkL-_jG-64fKfhiMy1NLcXG3v1qSpsRcytTGGp_td6C4OjAXbrnOtSBKlXKUVn-TfV3S2Z9RXLY15eWIUQ_aI/s2412/Picsart_24-09-06_11-38-14-506.jpg" group-title="STREAMING",BBC NEWS (UK)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 tvg-id="POGO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfId_T0V4HAriyHUZVbBbAw-RUkxp8n8e29dSpRjor74SBmLFTj0dojE9LQUgLOp7vCV-6Z2p54NTBfPkzr-W5M4V0fez-skjcadNSeLwyIk07x8OLadEc6jY_c3LwyFNZr3e7IdyEcFEUj531ft_1zvPRfCtEcQGFlgoYnGl-ry5GAFU7QcedD88lRRk/s320/Picsart_24-01-28_11-22-30-626.jpg" group-title="STREAMING",POGO (IND)
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo=" " group-title="STREAMING",NAT GEO WILD (USA)
-http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="NAT GEO" tvg-logo=" " group-title="STREAMING",NAT GEO (USA)
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="DANGAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimriUVOPAIp6TeNZ9-1JDs6RD38FxnVxia28ziPn3JIhvwcMILRjtKEPgBuaIsi8bfEN1_u_UZgM9iB0dx-Z72foq5SJQ_nPUnoiJeLf_eKpH9ddUd_7nbDreSIkIFI3BPaKmerWu3mTt9KabzbMi758qk9fJMl_6pBLzElqKe7Gp3i_4ZgS0OuD7VQ80/s320/1000065702.jpg" group-title="STREAMING", DANGAL (IND)
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj6qBOb_xsX2l3BJLNERkHb7FQDU0ZxA_8zjchb6vyQsETdYjYwR0pe76lKj2vlv2e5qXyn_tEULR4Ppi5R5iN41cZ0hlhqctbzw22nKpZ3B0noervQF244s-fZ22SSd7eubtPiPZ4YwN6YTGpRtwSGDF5xQvCR3dj1x6jxCG0Hm8yBdvz5aQIqY5zozA/s320/Picsart_24-09-21_13-17-37-880.jpg" group-title="STREAMING",ZEE TV (IL)
@@ -38,16 +32,12 @@ http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/69668
 
 
 
-
-
 #EXTINF:-1 tvg-id="AAJ TAK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGNFOla8Hgd9DKo8U9kaF3HdQMlSU1Pq_nhi-HVlayXRjIGwh4ettib_cINl61R6qOQQV2Hu_sqw5ZRAPtJfy3kbL8QIp7v3rEfjOhQFtSMnrxQXRWj2714JFVW_nicV74KAHRcLbtdOI04f9DmIHB5u0OOpolUhg7mIUpkEBPw-711t64p-gekGgP2H8/s320/Picsart_24-10-13_11-29-59-800.jpg" group-title="AP TV",AAJ TAK (UK)
 http://ahostingportal.com:2095/3875147095/3458182665/2883
 #EXTINF:-1 tvg-id="COLORS CINEPLEX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLuhyvwXvicW38ECgMjF1thXXOI0TKRo-oEhlhZhBUK6vvokCqTX_x3e57rbyQwtsR325U6o_Tspj_DpGr_yoFyNu8BjszBnY4_QFatS5U0jnXoQOq66GYIEzxcIq2EAhsi_nojgT108-nNnhHRr4133Ui2uqEC_xB0wxma_sxGhYTkKdMpkBR6SEsqqw/s320/Picsart_24-10-13_11-32-24-984.jpg" group-title="AP TV",COLORS CINEPLEX (UK)
 http://ahostingportal.com:2095/3875147095/3458182665/3010
 #EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxg8VDJTpVLICnadRVxEXY3dbNO5Ip2aArysbh1VGx8eu1tag6k4mYgdPlyjHHxIxYXmv3InrqYiwGZ9v_fWaPgbR5O-IAHeFRQVyD_ISv_NdjFgV52oGaucdqRzjHzDPW0g3TCTlt21_MU1Erfeh0HjnPp17p44SmHywac8nC8bQ0swcpxasXKR53bN0/s320/Picsart_24-10-13_11-33-57-020.jpg" group-title="AP TV",SONY MAX 2 (UK)
 http://ahostingportal.com:2095/3875147095/3458182665/3016
-#EXTINF:-1 tvg-id="GEO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFsDHaLJUplpD0YAqWt0u_PWDoUAArwEV1FFWm2Hmu3lP9FBK3GVlEUrX4GGdxzVoycNjygWg6Kdv7TouovKYQlKqoLuxp_q7zoLvV6EX8q9aTL9veL6B6oZnX_uECg2K-EGymnvfWkc0y-9Ys7wP7rKaIXACWbPXjhbhN8gosxbGRQXu_KPMG37szPQ0/s320/Picsart_24-10-13_11-29-45-353.jpg" group-title="AP TV",GEO (UK)
-http://ahostingportal.com:2095/3875147095/3458182665/2896
 #EXTINF:-1 tvg-id="HUM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBQx4EVPi_-WsXqXYUoPDkza7DdBktC2pycFitlg3ccvxgkSwyf6m5I1vc0c_Enoq4YxeCiHkNjzK0hffT4LP3KuKLSCeKCnyak05An1B27DyGPsbYLwJDObfKb7xxBskZy8dbOKXA5Ro3U9V5IQwaSzTT9hn6Vf3Hr97jh6WnCMkjGsclrDXl4XEtZZQ/s320/Picsart_24-10-13_11-29-17-991.jpg" group-title="AP TV",HUM (UK)
 http://ahostingportal.com:2095/3875147095/3458182665/2918
 #EXTINF:-1 tvg-id="HUM MASALA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAkjqHe3HJCx9KZxvfySSn2l02hBgCNIy6gUB8hm0oz5nTmZRPOduQRI8kiLOgHxT-N0C3RAnaHuyIpRXKPqWQPTsyZME6azLAFjvQanY6u8UEgzvnCIApHIyCZ6BGMimVqz1JX34eBwwE3UCz2U7Tcv6Y5IKich9nufWDA5ok-mpvJ-CLytQsXw9HnaY/s320/Picsart_24-10-13_11-29-00-857.jpg" group-title="AP TV",HUM MASALA (UK)
