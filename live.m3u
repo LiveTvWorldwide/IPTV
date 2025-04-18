@@ -13,6 +13,8 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 http://ott.premium-tv.org:8789/wonton57/874893/332295
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo=" " group-title="STREAMING",NAT GEO WILD (NL)
 http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/38143
+#EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo=" " group-title="STREAMING",FOOD FOOD (USA)
+http://tvmate.icu:8080/vNay0H/219352/125807
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 
 
@@ -69,12 +71,6 @@ http://ahostingportal.com:2095/3875147095/3458182665/3017
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
 
 
-
-#EXTINF:-1 tvg-id="TV ASIA" tvg-logo=" " group-title="TV MATE",TV ASIA (USA)
-http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/125819
-#EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo=" " group-title="TV MATE",FOOD FOOD (USA)
-http://tvmate.icu:8080/vNay0H/219352/125807
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
 
 
 
