@@ -15,6 +15,10 @@ http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="DANGAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimriUVOPAIp6TeNZ9-1JDs6RD38FxnVxia28ziPn3JIhvwcMILRjtKEPgBuaIsi8bfEN1_u_UZgM9iB0dx-Z72foq5SJQ_nPUnoiJeLf_eKpH9ddUd_7nbDreSIkIFI3BPaKmerWu3mTt9KabzbMi758qk9fJMl_6pBLzElqKe7Gp3i_4ZgS0OuD7VQ80/s320/1000065702.jpg" group-title="STREAMING", DANGAL (IND)
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj6qBOb_xsX2l3BJLNERkHb7FQDU0ZxA_8zjchb6vyQsETdYjYwR0pe76lKj2vlv2e5qXyn_tEULR4Ppi5R5iN41cZ0hlhqctbzw22nKpZ3B0noervQF244s-fZ22SSd7eubtPiPZ4YwN6YTGpRtwSGDF5xQvCR3dj1x6jxCG0Hm8yBdvz5aQIqY5zozA/s320/Picsart_24-09-21_13-17-37-880.jpg" group-title="STREAMING",ZEE TV (IL)
+http://ott.premium-tv.org:8789/wonton57/874893/332295
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo=" " group-title="STREAMING",NAT GEO WILD (NL)
+http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/38143
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 
 
@@ -75,12 +79,6 @@ http://ahostingportal.com:2095/3875147095/3458182665/3017
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
 
 
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj6qBOb_xsX2l3BJLNERkHb7FQDU0ZxA_8zjchb6vyQsETdYjYwR0pe76lKj2vlv2e5qXyn_tEULR4Ppi5R5iN41cZ0hlhqctbzw22nKpZ3B0noervQF244s-fZ22SSd7eubtPiPZ4YwN6YTGpRtwSGDF5xQvCR3dj1x6jxCG0Hm8yBdvz5aQIqY5zozA/s320/Picsart_24-09-21_13-17-37-880.jpg" group-title="OTT TV",ZEE TV (IL)
-http://ott.premium-tv.org:8789/wonton57/874893/332295
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXYrFWZAx45sssgGEsNLi8PNfOnr6lv8pE2Ax_7nAOkI11Viexx8_U7OCO1TUo4_AEVY4fLM3JV4xOf2M9DrsE_TkrcH8GV5gwWBDyX0E_Y1S-WuSafrgDAlVK6aCLE56x6Of9fRJJCgu1tZk2F1o7WuxBLy-wy2jEjp1XRR2JGdPWNJRWNoEpQR8cdfA/s1080/1000065708.jpg" group-title="OTT TV",NAT GEO WILD (SE)
-http://ott.premium-tv.org:80/wonton57/874893/283717
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
-
 
 #EXTINF:-1 tvg-id="TV ASIA" tvg-logo=" " group-title="TV MATE",TV ASIA (USA)
 http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/125819
@@ -89,9 +87,6 @@ http://tvmate.icu:8080/vNay0H/219352/125807
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
 
 
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo=" " group-title="DDNS NET",NAT GEO WILD (NL)
-http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/38143
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
 
 #EXTINF:-1 tvg-id="GALAXY" tvg-logo=" " group-title="VIP",GALAXY (ML)
 https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2694.ts
