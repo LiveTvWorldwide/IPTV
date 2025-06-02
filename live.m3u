@@ -9,30 +9,12 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj6qBOb_xsX2l3BJLNERkHb7FQDU0ZxA_8zjchb6vyQsETdYjYwR0pe76lKj2vlv2e5qXyn_tEULR4Ppi5R5iN41cZ0hlhqctbzw22nKpZ3B0noervQF244s-fZ22SSd7eubtPiPZ4YwN6YTGpRtwSGDF5xQvCR3dj1x6jxCG0Hm8yBdvz5aQIqY5zozA/s320/Picsart_24-09-21_13-17-37-880.jpg" group-title="STREAMING",ZEE TV (IL)
 http://ott.premium-tv.org:8789/wonton57/874893/332295
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo=" " group-title="STREAMING",NAT GEO WILD (NL)
-http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/38143
 #EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo=" " group-title="STREAMING",FOOD FOOD (USA)
 http://tvmate.icu:8080/vNay0H/219352/125807
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 
 
 
-#EXTINF:-1 tvg-id="SEX TREME" tvg-logo=" " group-title="ADULT TV",SEX TREME (USA)
-http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/69628
-#EXTINF:-1 tvg-id="BRAZERS" tvg-logo=" " group-title="ADULT TV",BRAZERS (USA)
-http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/2450
-#EXTINF:-1 tvg-id="VUNES" tvg-logo=" " group-title="ADULT TV",VUNES (USA)
-http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/69633
-#EXTINF:-1 tvg-id="HUSTLERS HD" tvg-logo=" " group-title="ADULT TV",HUSTLERS HD (USA)
-http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/69655
-#EXTINF:-1 tvg-id="PRIVATE" tvg-logo=" " group-title="ADULT TV",PRIVATE (USA)
-http://playlistpanel.ddns.net:8080/Iptvestable/m----wuueuwie/69668
-#EXTINF:-1 tvg-id="VIVID TV" tvg-logo=" " group-title="ADULT TV",VIVID TV (USA)
-http://akur.xyz:80/jbastos/9kbSyJg887mN/81313
-#EXTINF:-1 tvg-id="BBC PIC" tvg-logo=" " group-title="ADULT TV",BBC PIC (USA)
-http://akur.xyz:80/jbastos/9kbSyJg887mN/124588
-#EXTINF:-1 tvg-id="FAMILY STROKES" tvg-logo=" " group-title="ADULT TV", FAMILY STROKES (USA)
-http://akur.xyz:80/jbastos/9kbSyJg887mN/124615
 #EXTINF:-1 tvg-id="XMO" tvg-logo=" " group-title="ADULT TV",XMO (USA)
 http://d029dcec.kazmazpaz.ru/iptv/EBUCGK992DRF6L/6285/manifest.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="ADULT TV", (USA)
@@ -82,17 +64,7 @@ http://ahostingportal.com:2095/3875147095/3458182665/3017
 
 
 
-#EXTINF:-1 tvg-id="GALAXY" tvg-logo=" " group-title="VIP",GALAXY (ML)
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2694.ts
-#EXTINF:-1 tvg-id="HBO SINGTURE" tvg-logo=" " group-title="VIP",HBO SINGTURE (ML)
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2709.ts
-#EXTINF:-1 tvg-id="STAR MOVIES HD" tvg-logo=" " group-title="VIP",STAR MOVIES HD (IND)
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2687.ts
-#EXTINF:-1 tvg-id="GALAXY PRIMIUM" tvg-logo=" " group-title="VIP", GALAXY  PRIMIUM (ML)
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2695.ts
-#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo=" " group-title="VIP",SONY PIX HD (IND)
-https://83.142.30.171:443/live/vip_3klp0es8/wg3piwEs/2688.ts
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="VIP", (ML)
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title=" ", ( )
 
 
 
