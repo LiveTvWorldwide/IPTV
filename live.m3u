@@ -7,7 +7,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="DANGAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimriUVOPAIp6TeNZ9-1JDs6RD38FxnVxia28ziPn3JIhvwcMILRjtKEPgBuaIsi8bfEN1_u_UZgM9iB0dx-Z72foq5SJQ_nPUnoiJeLf_eKpH9ddUd_7nbDreSIkIFI3BPaKmerWu3mTt9KabzbMi758qk9fJMl_6pBLzElqKe7Gp3i_4ZgS0OuD7VQ80/s320/1000065702.jpg" group-title="STREAMING", DANGAL (IND)
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ZEE TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj6qBOb_xsX2l3BJLNERkHb7FQDU0ZxA_8zjchb6vyQsETdYjYwR0pe76lKj2vlv2e5qXyn_tEULR4Ppi5R5iN41cZ0hlhqctbzw22nKpZ3B0noervQF244s-fZ22SSd7eubtPiPZ4YwN6YTGpRtwSGDF5xQvCR3dj1x6jxCG0Hm8yBdvz5aQIqY5zozA/s320/Picsart_24-09-21_13-17-37-880.jpg" group-title="STREAMING",ZEE TV (IL)
+#EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" " group-title="STREAMING",ZEE TV (IL)
 http://ott.premium-tv.org:8789/wonton57/874893/332295
 #EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo=" " group-title="STREAMING",FOOD FOOD (USA)
 http://tvmate.icu:8080/vNay0H/219352/125807
@@ -40,9 +40,9 @@ http://ahostingportal.com:2095/3875147095/3458182665/3019
 http://ahostingportal.com:2095/3875147095/3458182665/2817
 #EXTINF:-1 tvg-id="USTAV PLUS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvCbB06e641K8alW8IPklGImLT9_EX-bqRdN05STRzEmROUQeG3sxMS2AgNe7uPiPIZdf-FgFQKYQZ28KHRmYpeCgZ6ppjCJe9JLqYFqJStVVOTguY4Yn-TPx-l_m9qG58TA-jOrLzO5ZqfVlU3sJb70I9uRkldPsS1HHkgPyagF0rIAB0n2_C8qoGVg/s320/Picsart_24-08-14_17-36-05-227.jpg" group-title="AP TV",USTAV PLUS (UK)
 http://ahostingportal.com:2095/3875147095/3458182665/3021
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim9Dk1wYDKxGZXNUMB4Nt8H7aE56yoBotPByL_UBg5nX9PYg6RDJ9eBr1BGcTnmAPVxY1dZisU1hgGHyVjxj8A2Q0yUTbdDMnCScCqL9ygLW4qv53rhoPkh8B8qxAQw0fSAfmMjF2e8cJGXZ0MqdtnS4_Y-J2Vx6JiLrwTR8cWYon9pjgxIdtQTtLAxkY/s204/Picsart_24-03-13_20-48-45-283.jpg" group-title="AP TV",ZEE TV HD (UK)
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo=" " group-title="AP TV",ZEE TV HD (UK)
 http://ahostingportal.com:2095/3875147095/3458182665/2816
-#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrVYUlnxqwlW8sQMt1HFtcg4iTMAouVtHyVWU5e1YhR5tdjVliGuTGUBQUtFR170LZ_PPUTgj9LrTvJnl-xJ1qc-7dhknnbWDV0YJ34oiCYJdlPyStM6Zg4MoUGKrQcutL9gwbmWz8rj_NdOecpWouTCr-v0z-atis9UD6S9VqprZTFXHwn8TZv5GRQw0/s320/Picsart_24-09-21_14-31-55-566.jpg" group-title="AP TV",ZEE CINEMA (UK)
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" " group-title="AP TV",ZEE CINEMA (UK)
 http://ahostingportal.com:2095/3875147095/3458182665/10858
 #EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm7bB23wQ2c-9vUcNPdELJsZflwsjOiXDb_guyK1EBIMXfHjDmOOzLj2RgjtN7DJYPXWflg0e2u_aSFSUT5h_-mkJm0RwRKkDbt-HJFKIYvhRCNtQ1XMZTCO9Pnn9mNBkYPdtB9RnLjFX6VVTKGKPyC1lrVrFSncYlpfG75nY6Ws3FG41lpwtbQUhoLws/s320/Picsart_24-10-13_11-34-25-596.jpg" group-title="AP TV",B4U MOVIES (UK)
 http://ahostingportal.com:2095/3875147095/3458182665/3174
