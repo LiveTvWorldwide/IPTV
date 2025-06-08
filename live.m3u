@@ -9,6 +9,8 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 http://ott.premium-tv.org:8789/wonton57/874893/332295
 #EXTINF:-1 tvg-id="FOOD FOOD" tvg-logo=" " group-title="STREAMING",FOOD FOOD (USA)
 http://tvmate.icu:8080/vNay0H/219352/125807
+#EXTINF:-1 tvg-id="DESI PLAY TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVr_B_z9w1XyTDZoC6G0alWNUqnV0TUigxltrJJ0jtLLLN0Q03zDSiUIE3i7bihyf7lay5ATA023oXcbm44TnZ5eezGvXTMqS4AEUKUroPcoF2UEavIzmTyzodSPpCMY63roinNZgtt3iFUihIxKsIKY1NfcFZ1D-527flrHeFn4fcbpcLdKw12KtidEM/s2060/Picsart_24-09-04_07-46-04-187.jpg" group-title="STREAMING",DESI PLAY TV (ME)
+https://desiplaylive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-660691/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 
 
