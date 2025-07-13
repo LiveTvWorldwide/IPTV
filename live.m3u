@@ -24,12 +24,10 @@ http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/215650
 
 
 
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4S-Et1bVPVl5rpj1wY_gU6sja3qkE4HIyPRkd6khf8k2Lhs2CgZsRVGyGFEy9R-X0F3FYct3q8AuTAQ4J-ANHXeQTLM59tP17OnzQZ73ehzD03y_XxPDRLYrnTvPzWJg41_YPa4g0sfFPljfbGC2xSZE0BQOpdfPFo-P2ykbbSgx0WmYSrhidM9aDLg/s320/1000088673.jpg" group-title="SYTES NET",ZEE TV HD (UK)
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4S-Et1bVPVl5rpj1wY_gU6sja3qkE4HIyPRkd6khf8k2Lhs2CgZsRVGyGFEy9R-X0F3FYct3q8AuTAQ4J-ANHXeQTLM59tP17OnzQZ73ehzD03y_XxPDRLYrnTvPzWJg41_YPa4g0sfFPljfbGC2xSZE0BQOpdfPFo-P2ykbbSgx0WmYSrhidM9aDLg/s320/1000088673.jpg" group-title="SYTES NET",ZEE TV HD (CAR)
 http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/701290
-#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" " group-title="STYES NET",ZEE CINEMA HD (MY)
+#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" " group-title="SYTES NET",ZEE CINEMA HD (MY)
 http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/699793
-#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwJlZIMqec8Z8ALZ3gSA719FgKPlBcFKDy8ugHQ0xGvEzS6cFY5eNJlCsTSP3UKSkpZNvGR0xYqsslvPAuMDjF2Eu_kgwsAyS0vtwftEQ-0Y_o63cHw3lcikL4k6ErCOCaOtpN1KorkfCPaHoW3snG1EXouNkkY9K9y_yLpOr4LDZ-FC4DzpIBiCGx6O0/s320/1000088661.jpg" group-title="SYTES NET",ZEE CINEMA (US)
-
 #EXTINF:-1 tvg-id="MTV INDIA" tvg-logo=" " group-title="SYTES NET", MTV INDIA (MY)
 http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/701206
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo=" " group-title="SYTES NET",&TV HD (US)
@@ -40,11 +38,21 @@ http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/701208
 http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/701220
 #EXTINF:-1 tvg-id="COLORS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhONqYj7FFVltmEq9bqK4i14jEAFbRQ3M8Ic_x_VW-XhWGvSujfxdPUwG1_XrqpjBxIMMJqOOeBB7_KAmmLHmsF_LmB0apzL_V2bLiQZ2k2LD8kt21129s82cxennTngGcBaPUx2T-BKDKMhLGpPwJP3VY-oGtr5YwM00VsahPUh_plUhwiVqnQHbeFOvc/s320/Picsart_24-11-02_13-51-28-305.jpg" group-title="SYTES NET",COLORS (US)
 http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/701221
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" " group-title="SYTES NET",B4U MUSIC (US)
+http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/701500
+#EXTINF:-1 tvg-id="STAR GOLD" tvg-logo=" " group-title="SYTES NET",STAR GOLD (ME)
+http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/698711
+#EXTINF:-1 tvg-id="SONY MAX" tvg-logo="" group-title="SYTES NET",SONY MAX (ME)
+http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/698710
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo=" " group-title="SYTES NET",COLORS HD( MY)
+http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/699827
+#EXTINF:-1 tvg-id="COLORS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhONqYj7FFVltmEq9bqK4i14jEAFbRQ3M8Ic_x_VW-XhWGvSujfxdPUwG1_XrqpjBxIMMJqOOeBB7_KAmmLHmsF_LmB0apzL_V2bLiQZ2k2LD8kt21129s82cxennTngGcBaPUx2T-BKDKMhLGpPwJP3VY-oGtr5YwM00VsahPUh_plUhwiVqnQHbeFOvc/s320/Picsart_24-11-02_13-51-28-305.jpg" group-title="SYTES NET",COLORS (ME)
+http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/698689
+#EXTINF:-1 tvg-id="SONY" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr9SqsNHe8lgqHzyLiQ-6bo7bevc7QbTXf31T8v_QNvGY-gAJEjWGJYM9nlYc78XHWgc7cRjvhi1uwYnElT0tutHwLZs6Zv2jCcB8hnBce1KMBzUKtT50TolZFZZu4CtW9uDPCkwvxjvIZyUIH6S_CzditlMAMFcZupLo2F1CcxB9IAH7KuajabnDbCpo/s320/Picsart_24-11-02_13-51-54-942.jpg" group-title="SYTES NET",SONY (ME)
+http://416streams.sytes.net:5050/JaniRard290/bWLVH2UH8F/698709
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="SYTES NET", ( )
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="SYTES NET", ( )
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="SYTES NET", ( )
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="SYTES NET", ( )
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="SYTES NET", ( )
 
 
 
