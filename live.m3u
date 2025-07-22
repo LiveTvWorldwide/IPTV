@@ -13,7 +13,10 @@ http://tvmate.icu:8080/vNay0H/219352/125807
 http://fortv.cc:8080/TJ6258608/5066258608/125809
 #EXTINF:-1 tvg-id="DESI PLAY TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVr_B_z9w1XyTDZoC6G0alWNUqnV0TUigxltrJJ0jtLLLN0Q03zDSiUIE3i7bihyf7lay5ATA023oXcbm44TnZ5eezGvXTMqS4AEUKUroPcoF2UEavIzmTyzodSPpCMY63roinNZgtt3iFUihIxKsIKY1NfcFZ1D-527flrHeFn4fcbpcLdKw12KtidEM/s2060/Picsart_24-09-04_07-46-04-187.jpg" group-title="STREAMING",DESI PLAY TV (ME)
 https://desiplaylive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-660691/playlist.m3u8
+#EXTINF:-1 tvg-id="ZEE BOLLYWORLD" tvg-logo=" " group-title="STREAMING",ZEE BOLLYWORLD ( )
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
+
 
 
 
