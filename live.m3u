@@ -13,20 +13,6 @@ http://fortv.cc:8080/TJ6258608/5066258608/125809
 https://desiplaylive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-660691/playlist.m3u8
 #EXTINF:-1 tvg-id="DD NATIONAL HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9m4_yYjW_19JBGvpxy0OQEEXzONPpIs0_2dZH4sNpwax4YeP6KbH84-QVLUuAac3LU3CNr5v1rqXxtjNTOcHmd4hshv3dxrjrlN9H9Ky7ufE32rvuSIHGdkF-sZbXxCJof5ni9gqmRjErbWicUKhNRdH2xPPePEFsNz8Aj6jaxkUCr7YBz04oRMQNsk/s320/1000096233.jpg" group-title="STREAMING",DD NATIONAL HD (IND)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
-
-
-#EXTINF:-1 tvg-id="VENUS" tvg-logo=" " group-title="ADULT TV",VENUS (USA)
-http://aztv.cx:80/live/az_doril/2525/32.ts
-#EXTINF:-1 tvg-id="GAY TV" tvg-logo="" group-title="ADULT TV",GAY TV (USA)
-http://aztv.cx:80/live/az_doril/2525/1942.ts
-#EXTINF:-1 tvg-id="BISEXUAL" tvg-logo="" group-title="ADULT TV",BISEXUAL (USA)
-http://aztv.cx:80/live/az_doril/2525/2006.ts
-#EXTINF:-1 tvg-id="MEN X" tvg-logo="" group-title="ADULT TV",MEN X (USA)
-http://23.227.140.75:5050/jemel_waiters@yahoo.com/bPFTdFspMB/682826
-
-
-
 #EXTINF:-1 tvg-id="STAR GOLD" tvg-logo=" " group-title="STREAMING", STAR GOLD (ME)
 http://23.227.140.75:8880/jemel_waiters@yahoo.com/bPFTdFspMB/698711
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4S-Et1bVPVl5rpj1wY_gU6sja3qkE4HIyPRkd6khf8k2Lhs2CgZsRVGyGFEy9R-X0F3FYct3q8AuTAQ4J-ANHXeQTLM59tP17OnzQZ73ehzD03y_XxPDRLYrnTvPzWJg41_YPa4g0sfFPljfbGC2xSZE0BQOpdfPFo-P2ykbbSgx0WmYSrhidM9aDLg/s320/1000088673.jpg" group-title="STREAMING",ZEE TV HD (CAR)
@@ -43,6 +29,23 @@ http://23.227.140.75:8880/jemel_waiters@yahoo.com/bPFTdFspMB/698710
 http://23.227.140.75:5050/jemel_waiters@yahoo.com/bPFTdFspMB/699793
 #EXTINF:-1 tvg-id="&TV HD " tvg-logo=" " group-title="STREAMING",&TV HD (CAR)
 http://23.227.140.75:5050/jemel_waiters@yahoo.com/bPFTdFspMB/701211
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
+
+
+
+
+#EXTINF:-1 tvg-id="VENUS" tvg-logo=" " group-title="ADULT TV",VENUS (USA)
+http://aztv.cx:80/live/az_doril/2525/32.ts
+#EXTINF:-1 tvg-id="GAY TV" tvg-logo="" group-title="ADULT TV",GAY TV (USA)
+http://aztv.cx:80/live/az_doril/2525/1942.ts
+#EXTINF:-1 tvg-id="BISEXUAL" tvg-logo="" group-title="ADULT TV",BISEXUAL (USA)
+http://aztv.cx:80/live/az_doril/2525/2006.ts
+#EXTINF:-1 tvg-id="MEN X" tvg-logo="" group-title="ADULT TV",MEN X (USA)
+http://23.227.140.75:5050/jemel_waiters@yahoo.com/bPFTdFspMB/682826
+
+
+
 
 #EXTINF:-1 tvg-id="SONY SAB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="VISION NET",SONY SAB (UK)
 http://extra-terestrial-vision.net:80/live/kevindoran/ksX5oYT0V1/106448.m3u8
