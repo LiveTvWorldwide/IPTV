@@ -20,7 +20,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="SOPHIA LUX" group-title="ADULT TV",SOPHIA LUX (USA)
+#EXTINF:-1 tvg-id="SOPHIA LUX" tvg-logo=" " group-title="ADULT TV",SOPHIA LUX (USA)
 http://tv.nstvlatino.com:8080/Mitv2462/I8G5FfZBMw/17190
 #EXTINF:-1 tvg-id="GAY TV" tvg-logo="" group-title="ADULT TV",GAY TV (USA)
 http://shafak.xyz:8080/311521889776/277848346382/430933
