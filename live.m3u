@@ -20,14 +20,15 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING", ( )
 
 
-#EXTINF:-1 tvg-id="SOPHIA LUX" tvg-logo=" " group-title="ADULT TV",SOPHIA LUX (USA)
+#EXTINF:-1 tvg-id="VENUS" tvg-logo=" " group-title="ADULT TV",VENUS (USA)
+http://aztv.cx:80/live/az_doril/2525/32.ts
 http://tv.nstvlatino.com:8080/Mitv2462/I8G5FfZBMw/17190
 #EXTINF:-1 tvg-id="GAY TV" tvg-logo="" group-title="ADULT TV",GAY TV (USA)
-http://shafak.xyz:8080/311521889776/277848346382/430933
+http://aztv.cx:80/live/az_doril/2525/1942.ts
 #EXTINF:-1 tvg-id="BISEXUAL" tvg-logo="" group-title="ADULT TV", BISEXUAL (USA)
-http://update.miicrosoft.es:80/Popoviciu_Mihai_P/hfQiBppTrhB3SNsrTxSdxnWPIH69MF/75910
-
-
+http://aztv.cx:80/live/az_doril/2525/2006.ts
+#EXTINF:-1 tvg-id="GAY MEN" tvg-logo="" group-title="ADULT TV",GAY MEN (USA)
+http://23.227.140.75:5050/jemel_waiters@yahoo.com/bPFTdFspMB/682826
 
 
 
