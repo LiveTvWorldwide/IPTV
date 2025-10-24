@@ -31,7 +31,12 @@ http://23.227.140.75:5050/jemel_waiters@yahoo.com/bPFTdFspMB/701500
 
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="OTT STREAMING", ( )
+#EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo=" " group-title="OTT STREAMING",STAR BHARAT (IND)
+http://87.255.35.150:18853/
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo=" " group-title="OTT STREAMING",STAR PLUS HD (IND)
+http://87.255.35.150:18850/
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo=" " group-title="OTT STREAMING",STAR GOLD HD (IND)
+http://87.255.35.150:18859/
 
 
 
@@ -41,15 +46,16 @@ http://23.227.140.75:5050/jemel_waiters@yahoo.com/bPFTdFspMB/701500
 
 
 
-#EXTINF:-1 tvg-id="DORACEL TV" tvg-logo=" " group-title="ADULT ZONE",DORACEL TV (USA)
+
+#EXTINF:-1 tvg-id="DORACEL TV" tvg-logo=" " group-title="ADULT LIVE",DORACEL TV (USA)
 https://cdnsk003.panaccess.com/local/Dorcel/index.m3u8
-#EXTINF:-1 tvg-id="POSSISON XXX" tvg-logo="" group-title="ADULT ZONE",POSSISON XXX (USA)
+#EXTINF:-1 tvg-id="POSSISON XXX" tvg-logo="" group-title="ADULT LIVE",POSSISON XXX (USA)
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
-#EXTINF:-1 tvg-id="EROTICA" tvg-logo="" group-title="ADULT ZONE", EROTICA (USA)
+#EXTINF:-1 tvg-id="EROTICA" tvg-logo="" group-title="ADULT LIVE", EROTICA (USA)
 http://a0bn5xro.rostelekom.xyz/iptv/5NR6V3CDUZNTZL/9346/index.m3u8
-#EXTINF:-1 tvg-id="MEN X" tvg-logo="" group-title="ADULT ZONE",MEN X (USA)
+#EXTINF:-1 tvg-id="MEN X" tvg-logo="" group-title="ADULT LIVE",MEN X (USA)
 http://23.227.140.75:5050/jemel_waiters@yahoo.com/bPFTdFspMB/682826
-#EXTINF:-1 tvg-id="PORN HUB" tvg-logo="" group-title="ADULT ZONE",PORN  HUB (USA)
+#EXTINF:-1 tvg-id="PORN HUB" tvg-logo="" group-title="ADULT LIVE",PORN  HUB (USA)
 http://vipgerretger.top:8080/VIP0131169833740900/21698337409640/132420
 
 
