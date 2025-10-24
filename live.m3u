@@ -37,8 +37,8 @@ http://87.255.35.150:18853/
 http://87.255.35.150:18850/
 #EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo=" " group-title="OTT STREAMING",STAR GOLD HD (IND)
 http://87.255.35.150:18859/
-
-
+#EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-logo=" " group-title="OTT STREAMING",STAR SPORTS 1 HD (IND)
+http://87.255.35.150:18923/
 
 
 
