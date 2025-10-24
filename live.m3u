@@ -30,8 +30,8 @@ http://23.227.140.75:5050/jemel_waiters@yahoo.com/bPFTdFspMB/701500
 
 
 
-#EXTINF:-1 tvg-id="VENUS" tvg-logo=" " group-title="ADULT TV",VENUS (USA)
-http://aztv.cx:80/live/az_doril/2525/32.ts
+#EXTINF:-1 tvg-id="DORACEL TV" tvg-logo=" " group-title="ADULT TV",DORACEL TV (USA)
+https://cdnsk003.panaccess.com/local/Dorcel/index.m3u8
 #EXTINF:-1 tvg-id="GAY TV" tvg-logo="" group-title="ADULT TV",GAY TV (USA)
 http://aztv.cx:80/live/az_doril/2525/1942.ts
 #EXTINF:-1 tvg-id="BISEXUAL" tvg-logo="" group-title="ADULT TV",BISEXUAL (USA)
