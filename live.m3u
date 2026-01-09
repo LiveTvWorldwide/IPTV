@@ -32,7 +32,7 @@ http://87.255.35.150:18923/
 http://87.255.35.150:18811/
 #EXTINF:-1 tvg-id="SONY HD" tvg-logo=" " group-title="TERRESTRIAL TV",SONY HD (IND)
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/144.ts
-#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo=" " group-title="TERRESTRIAL TV",SONY SAB HD (IND
+#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo=" " group-title="TERRESTRIAL TV",SONY SAB HD (IND)
 http://217.20.112.199:8888/sabtvhd/index.m3u8
 #EXTINF:-1 tvg-id="SONY MAX HD" tvg-logo=" " group-title="TERRESTRIAL TV",SONY MAX HD (IND)
 http://87.255.35.150:18851/
@@ -54,7 +54,8 @@ http://87.255.35.150:18802/
 http://87.255.35.150:18922/
 #EXTINF:-1 tvg-id="AAJ TAK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGNFOla8Hgd9DKo8U9kaF3HdQMlSU1Pq_nhi-HVlayXRjIGwh4ettib_cINl61R6qOQQV2Hu_sqw5ZRAPtJfy3kbL8QIp7v3rEfjOhQFtSMnrxQXRWj2714JFVW_nicV74KAHRcLbtdOI04f9DmIHB5u0OOpolUhg7mIUpkEBPw-711t64p-gekGgP2H8/s320/Picsart_24-10-13_11-29-59-800.jpg" group-title="TERRESTRIAL TV",AAJ TAK (IND)
 http://87.255.35.150:18958/
-#EXTINF:-1 tvg-id="COLORS HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfr0h-NV7YRMyA1URXruzife389P_1YbpHrslHuhDWayTUaglDVUlrqVcb16CCpauJ3vX_IHmBGA_EMKitUx1GFCdDvCjQfKG8OnY6nHciY7wQQ3VvVxAY9zzt5lWgCRmDOHkhoNxhhJ1Qda2m4XH2kQB0Ndai4KCQv3Z0PWM-R75jqzUtAxjkWUjddAw/s320/Picsart_24-08-03_10-43-20-558.jpg" group-title="TERRESTRIhttp://217.20.112.199:8888/sabtvhd/index.m3u8://87.255.35.150:18890/
+#EXTINF:-1 tvg-id="COLORS HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfr0h-NV7YRMyA1URXruzife389P_1YbpHrslHuhDWayTUaglDVUlrqVcb16CCpauJ3vX_IHmBGA_EMKitUx1GFCdDvCjQfKG8OnY6nHciY7wQQ3VvVxAY9zzt5lWgCRmDOHkhoNxhhJ1Qda2m4XH2kQB0Ndai4KCQv3Z0PWM-R75jqzUtAxjkWUjddAw/s320/Picsart_24-08-03_10-43-20-558.jpg" group-title="TERRESTRIAL TV", COLORS HD (IND)
+http://217.20.112.199:8888/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-logo=" " group-title="TERRESTRIAL TV",MTV (IND)
 http://87.255.35.150:18901/
 #EXTINF:-1 tvg-id="NDTV" tvg-logo=" " group-title="TERRESTRIAL TV",NDTV (IND)
