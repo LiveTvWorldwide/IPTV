@@ -37,6 +37,8 @@ https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355478.ts
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/66165.ts
 #EXTINF:-1 tvg-id="DISCOVERY KIDZ" tvg-logo=" " group-title="TERRESTRIAL TV", DISCOVERY KIDZ (IND)
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/66164.ts
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" " group-title="TERRESTRIAL TV",B4U MUSIC (IND)
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/6207.ts
 
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo=" " group-title="TERRESTRIAL TV",SONY SAB HD (IND)
 http://217.20.112.199:8888/sabtvhd/index.m3u8
