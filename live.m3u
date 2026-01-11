@@ -77,6 +77,9 @@ https://mumt01.tangotv.in/RAMDHENU/index.m3u8
 https://mumt01.tangotv.in/RANG/index.m3u8
 #EXTINF:-1 tvg-id="PEAR TV" tvg-logo=" " group-title="TERRESTRIAL TV",PEAR TV (IND)
 https://mumt01.tangotv.in/PEARTV/index.m3u8
+#EXTINF:-1 tvg-id="UNIQUE TV" tvg-logo=" " group-title="TERRESTRIAL TV", UNIQUE TV (IND)
+https://mumt05.tangotv.in/UNIQUETV/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="DORACEL TV" tvg-logo=" " group-title="ADULT LIVE",DORACEL TV (USA)
