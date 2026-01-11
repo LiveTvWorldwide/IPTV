@@ -16,7 +16,11 @@ http://xxip25.top:8080/pCP9JK/180117/125819
 
 #EXTINF:-1 tvg-id="USTAV GOLD" tvg-logo=" " group-title="STREAMING MEDIA",USTAV GOLD (UK)
 http://ahostingportal.com:8000/62664054820/5271593547/3020
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="STREAMING MEDIA", ( )
+#EXTINF:-1 tvg-id="USTAV BHARAT" tvg-logo=" " group-title="STREAMING MEDIA",USTAV BHARAT (UK)
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/348.ts
+#EXTINF:-1 tvg-id="B4U PLUS" tvg-logo=" " group-title="STREAMING MEDIA",B4U PLUS (ME)
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/969.ts
+
 
 
 
@@ -36,8 +40,6 @@ https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/6207.ts
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/2439.ts
 #EXTINF:-1 tvg-id="ZING" tvg-logo=" " group-title="TERRESTRIAL TV",ZING (IND)
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/970.ts
-#EXTINF:-1 tvg-id="B4U PLUS" tvg-logo=" " group-title="TERRESTRIAL TV",B4U PLUS (ME)
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/969.ts
 #EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" " group-title="TERRESTRIAL TV",ZEE TV (IND)
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/1359.ts
 
