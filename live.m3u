@@ -51,6 +51,9 @@ http://87.255.35.150:18848/
 #EXTINF:-1 tvg-id="ZOOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNGujOFayb74p5Sc6t16yxJdHQoSP4lCBYlPOvbbY9o098ST9c5wXkcAJ3o3D5tZkZsLOxWlTmGEtcZ4UlXZYK0p8e4Az7HqxHGfubcoXfr1bMBUzuoIIrDw0-nJD6W3TnQxcV-QQABgZUll2MsnFW4ojIOlGKR2_89vutVM315vAXVcpKp5dqjaUm7M/s320/Picsart_24-11-02_14-03-21-170.jpg" group-title="TERRESTRIAL TV",ZOOM (IND)
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo=" " group-title="TERRESTRIAL TV",CARTOON NETWORK (IND)
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4S-Et1bVPVl5rpj1wY_gU6sja3qkE4HIyPRkd6khf8k2Lhs2CgZsRVGyGFEy9R-X0F3FYct3q8AuTAQ4J-ANHXeQTLM59tP17OnzQZ73ehzD03y_XxPDRLYrnTvPzWJg41_YPa4g0sfFPljfbGC2xSZE0BQOpdfPFo-P2ykbbSgx0WmYSrhidM9aDLg/s320/1000088673.jpg" group-title="TERRESTRIAL TV",ZEE TV HD (IND)
 http://87.255.35.150:18849/
 #EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXta6yZhPyaROwKu8UiMegIhrQvVONy1UCAVrE9Ej0tbg8bNa5Wr1a48_QReSTbgrFIoOfXDDZOxbaChsgylkVAW1w4pvI-q46k9dafGEPhF-E7gE6KHADDJdfbvIg_eqiAo7KaM43HF7BqriVPAQFnsoaAnnkFuKWwsGx7MYwvOvRIojCSuasgp-Fw_M/s320/1000094887.jpg" group-title="TERRESTRIAL TV",ZEE CINEMA HD (IND)
@@ -59,8 +62,6 @@ http://87.255.35.150:18808/
 http://87.255.35.150:18854/
 #EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_0xWhT3vwAXnoPcHx_bWP6e3aT6fvei8kpNZ6f5P8z7i9U1rMqWzkhEWnUB7JFkMFHMZhla5z3aJ6xxxeTbR7UjvPxMZrtXQRWZO_MMkHtIAzvts8ALaeFOCVhZw2cPmt14gB_VQYWakRHBna4-BlTNSLZXYUf21OKIDqC8W3FffESaHNdUFRbPOvua8/s320/1000093596.jpg" group-title="TERRESTRIAL TV",&TV HD (IND)
 http://87.255.35.150:18843/
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo=" " group-title="TERRESTRIAL TV",CARTOON NETWORK (IND)
-http://87.255.35.150:18802/
 #EXTINF:-1 tvg-id="DD SPORTS" tvg-logo=" " group-title="TERRESTRIAL TV",DD SPORTS (IND)
 http://87.255.35.150:18922/
 #EXTINF:-1 tvg-id="AAJ TAK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGNFOla8Hgd9DKo8U9kaF3HdQMlSU1Pq_nhi-HVlayXRjIGwh4ettib_cINl61R6qOQQV2Hu_sqw5ZRAPtJfy3kbL8QIp7v3rEfjOhQFtSMnrxQXRWj2714JFVW_nicV74KAHRcLbtdOI04f9DmIHB5u0OOpolUhg7mIUpkEBPw-711t64p-gekGgP2H8/s320/Picsart_24-10-13_11-29-59-800.jpg" group-title="TERRESTRIAL TV",AAJ TAK (IND)
@@ -76,6 +77,9 @@ http://103.182.170.32:8888/play/a02n
 http://103.182.170.32:8888/play/a03o
 #EXTINF:-1 tvg-id="DISNEY" tvg-logo=" " group-title="TERRESTRIAL TV", DISNEY (IND)
 http://103.182.170.32:8888/play/a04g
+#EXTINF:-1 tvg-id="SUN NEO" tvg-logo=" " group-title="TERRESTRIAL TV",SUN NEO (IND)
+http://103.78.149.54:8000/play/a00y/index.m3u8
+
 
 #EXTINF:-1 tvg-id="RAMDHENU" tvg-logo=" " group-title="TERRESTRIAL TV",RAMDHENU (IND)
 https://mumt01.tangotv.in/RAMDHENU/index.m3u8
