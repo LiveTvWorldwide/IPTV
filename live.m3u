@@ -33,6 +33,10 @@ https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/66162.ts
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/144.ts
 #EXTINF:-1 tvg-id="GOLDMINES BOLLYWOOD" tvg-logo=" " group-title="TERRESTRIAL TV",GOLDMINES  BOLLYWOOD (IND)
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355478.ts
+#EXTINF:-1 tvg-id="POGO" tvg-logo=" " group-title="TERRESTRIAL TV",POGO (IND)
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/66165.ts
+#EXTINF:-1 tvg-id="DISCOVERY KIDZ" tvg-logo=" " group-title="TERRESTRIAL TV", DISCOVERY KIDZ (IND)
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/66164.ts
 
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo=" " group-title="TERRESTRIAL TV",SONY SAB HD (IND)
 http://217.20.112.199:8888/sabtvhd/index.m3u8
@@ -81,6 +85,8 @@ https://mumt01.tangotv.in/RANG/index.m3u8
 https://mumt01.tangotv.in/PEARTV/index.m3u8
 #EXTINF:-1 tvg-id="UNIQUE TV" tvg-logo=" " group-title="TERRESTRIAL TV", UNIQUE TV (IND)
 https://mumt05.tangotv.in/UNIQUETV/index.m3u8
+
+
 
 
 
