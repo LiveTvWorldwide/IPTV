@@ -19,14 +19,6 @@ http://xxip25.top:8080/pCP9JK/180117/125819
 
 
 
-
-#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6Ym1JEFNhHb9UgGk9ow1aAqoCz2h3PIHQkqoGUi8OnNGyOcTVFJiqJVdWJEpsr1zpPdjqNMuFIKIT6Dj2D_eLj5wjqyfp_BCFEB2g4PEynE8WcWC6bnxU6HWPRgdFQmO4n2hv6cuVxi9C8bijrZ9DjB9AT1cw7W6n_wXGxOLdSVLLVuSkLJ3zF-ML_K0/s320/Picsart_24-09-21_14-11-21-290.jpg" group-title="TERRESTRIAL TV",STAR PLUS HD (IND)
-http://87.255.35.150:18850/
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo=" " group-title="TERRESTRIAL TV",STAR GOLD HD (IND)
-http://87.255.35.150:18859/
-#EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-logo=" " group-title="TERRESTRIAL TV",STAR SPORTS 1 HD (IND)
-http://87.255.35.150:18923/
-
 #EXTINF:-1 tvg-id="SUPER HUNGAMA" tvg-logo=" " group-title="TERRESTRIAL TV",SUPER HUNGAMA (IND)
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/66162.ts
 #EXTINF:-1 tvg-id="SONY HD" tvg-logo=" " group-title="TERRESTRIAL TV",SONY HD (IND)
@@ -39,16 +31,19 @@ https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/66165.ts
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/66164.ts
 #EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" " group-title="TERRESTRIAL TV",B4U MUSIC (IND)
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/6207.ts
+#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo=" " group-title="TERRESTRIAL TV",ZEE CINEMA (IND)
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/2439.ts
 
-#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo=" " group-title="TERRESTRIAL TV",SONY SAB HD (IND)
-http://217.20.112.199:8888/sabtvhd/index.m3u8
-#EXTINF:-1 tvg-id=COLORS HD" tvg- logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfr0h-NV7YRMyA1URXruzife389P_1YbpHrslHuhDWayTUaglDVUlrqVcb16CCpauJ3vX_IHmBGA_EMKitUx1GFCdDvCjQfKG8OnY6nHciY7wQQ3VvVxAY9zzt5lWgCRmDOHkhoNxhhJ1Qda2m4XH2kQB0Ndai4KCQv3Z0PWM-R75jqzUtAxjkWUjddAw/s320/Picsart_24-08-03_10-43-20-558.jpg" group-title="TERRESTRIAL TV", COLORS HD (IND)
-http://217.20.112.199:8888/ColorsHD/index.m3u8
 
-#EXTINF:-1 tvg-id="SONY MAX HD" tvg-logo=" " group-title="TERRESTRIAL TV",SONY MAX HD (IND)
-http://87.255.35.150:18851/
-#EXTINF:-1 tvg-id="SONY TEN 3 HD" tvg-logo=" " group-title="TERRESTRIAL TV",SONY TEN 3 HD (IND)
-http://87.255.35.150:18848/
+#EXTINF:-1 tvg-id="RAMDHENU" tvg-logo=" " group-title="TERRESTRIAL TV",RAMDHENU (IND)
+https://mumt01.tangotv.in/RAMDHENU/index.m3u8
+#EXTINF:-1 tvg-id="RANG" tvg-logo=" " group-title="TERRESTRIAL TV",RANG (IND)
+https://mumt01.tangotv.in/RANG/index.m3u8
+#EXTINF:-1 tvg-id="PEAR TV" tvg-logo=" " group-title="TERRESTRIAL TV",PEAR TV (IND)
+https://mumt01.tangotv.in/PEARTV/index.m3u8
+#EXTINF:-1 tvg-id="UNIQUE TV" tvg-logo=" " group-title="TERRESTRIAL TV", UNIQUE TV (IND)
+https://mumt05.tangotv.in/UNIQUETV/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ZOOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNGujOFayb74p5Sc6t16yxJdHQoSP4lCBYlPOvbbY9o098ST9c5wXkcAJ3o3D5tZkZsLOxWlTmGEtcZ4UlXZYK0p8e4Az7HqxHGfubcoXfr1bMBUzuoIIrDw0-nJD6W3TnQxcV-QQABgZUll2MsnFW4ojIOlGKR2_89vutVM315vAXVcpKp5dqjaUm7M/s320/Picsart_24-11-02_14-03-21-170.jpg" group-title="TERRESTRIAL TV",ZOOM (IND)
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
@@ -56,22 +51,6 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo=" " group-title="TERRESTRIAL TV",CARTOON NETWORK (IND)
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4S-Et1bVPVl5rpj1wY_gU6sja3qkE4HIyPRkd6khf8k2Lhs2CgZsRVGyGFEy9R-X0F3FYct3q8AuTAQ4J-ANHXeQTLM59tP17OnzQZ73ehzD03y_XxPDRLYrnTvPzWJg41_YPa4g0sfFPljfbGC2xSZE0BQOpdfPFo-P2ykbbSgx0WmYSrhidM9aDLg/s320/1000088673.jpg" group-title="TERRESTRIAL TV",ZEE TV HD (IND)
-http://87.255.35.150:18849/
-#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXta6yZhPyaROwKu8UiMegIhrQvVONy1UCAVrE9Ej0tbg8bNa5Wr1a48_QReSTbgrFIoOfXDDZOxbaChsgylkVAW1w4pvI-q46k9dafGEPhF-E7gE6KHADDJdfbvIg_eqiAo7KaM43HF7BqriVPAQFnsoaAnnkFuKWwsGx7MYwvOvRIojCSuasgp-Fw_M/s320/1000094887.jpg" group-title="TERRESTRIAL TV",ZEE CINEMA HD (IND)
-http://87.255.35.150:18808/
-#EXTINF:-1 tvg-id="ZEE NEWS" tvg-logo=" " group-title="TERRESTRIAL TV",ZEE NEWS (IND)
-http://87.255.35.150:18854/
-#EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_0xWhT3vwAXnoPcHx_bWP6e3aT6fvei8kpNZ6f5P8z7i9U1rMqWzkhEWnUB7JFkMFHMZhla5z3aJ6xxxeTbR7UjvPxMZrtXQRWZO_MMkHtIAzvts8ALaeFOCVhZw2cPmt14gB_VQYWakRHBna4-BlTNSLZXYUf21OKIDqC8W3FffESaHNdUFRbPOvua8/s320/1000093596.jpg" group-title="TERRESTRIAL TV",&TV HD (IND)
-http://87.255.35.150:18843/
-#EXTINF:-1 tvg-id="DD SPORTS" tvg-logo=" " group-title="TERRESTRIAL TV",DD SPORTS (IND)
-http://87.255.35.150:18922/
-#EXTINF:-1 tvg-id="AAJ TAK" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGNFOla8Hgd9DKo8U9kaF3HdQMlSU1Pq_nhi-HVlayXRjIGwh4ettib_cINl61R6qOQQV2Hu_sqw5ZRAPtJfy3kbL8QIp7v3rEfjOhQFtSMnrxQXRWj2714JFVW_nicV74KAHRcLbtdOI04f9DmIHB5u0OOpolUhg7mIUpkEBPw-711t64p-gekGgP2H8/s320/Picsart_24-10-13_11-29-59-800.jpg" group-title="TERRESTRIAL TV",AAJ TAK (IND)
-http://87.255.35.150:18958/
-#EXTINF:-1 tvg-id="MTV" tvg-logo=" " group-title="TERRESTRIAL TV",MTV (IND)
-http://87.255.35.150:18901/
-#EXTINF:-1 tvg-id="NDTV" tvg-logo=" " group-title="TERRESTRIAL TV",NDTV (IND)
-http://87.255.35.150:18819/
 
 #EXTINF:-1 tvg-id="STAR BHARAT" tvg-logo=" " group-title="TERRESTRIAL TV",STAR BHARAT (IND)
 http://103.182.170.32:8888/play/a02n
@@ -87,15 +66,12 @@ http://103.182.170.32:8888/play/a03v
 http://103.78.149.54:8000/play/a00y/index.m3u8
 
 
+#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo=" " group-title="TERRESTRIAL TV",SONY SAB HD (IND)
+http://217.20.112.199:8888/sabtvhd/index.m3u8
+#EXTINF:-1 tvg-id=COLORS HD" tvg- logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfr0h-NV7YRMyA1URXruzife389P_1YbpHrslHuhDWayTUaglDVUlrqVcb16CCpauJ3vX_IHmBGA_EMKitUx1GFCdDvCjQfKG8OnY6nHciY7wQQ3VvVxAY9zzt5lWgCRmDOHkhoNxhhJ1Qda2m4XH2kQB0Ndai4KCQv3Z0PWM-R75jqzUtAxjkWUjddAw/s320/Picsart_24-08-03_10-43-20-558.jpg" group-title="TERRESTRIAL TV", COLORS HD (IND)
+http://217.20.112.199:8888/ColorsHD/index.m3u8
 
-#EXTINF:-1 tvg-id="RAMDHENU" tvg-logo=" " group-title="TERRESTRIAL TV",RAMDHENU (IND)
-https://mumt01.tangotv.in/RAMDHENU/index.m3u8
-#EXTINF:-1 tvg-id="RANG" tvg-logo=" " group-title="TERRESTRIAL TV",RANG (IND)
-https://mumt01.tangotv.in/RANG/index.m3u8
-#EXTINF:-1 tvg-id="PEAR TV" tvg-logo=" " group-title="TERRESTRIAL TV",PEAR TV (IND)
-https://mumt01.tangotv.in/PEARTV/index.m3u8
-#EXTINF:-1 tvg-id="UNIQUE TV" tvg-logo=" " group-title="TERRESTRIAL TV", UNIQUE TV (IND)
-https://mumt05.tangotv.in/UNIQUETV/index.m3u8
+
 
 
 
