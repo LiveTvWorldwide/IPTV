@@ -40,6 +40,10 @@ https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/969.ts
 #EXTINF:-1 tvg-id="ZEE TV" tvg-logo=" " group-title="TERRESTRIAL TV",ZEE TV (IND)
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/1359.ts
 
+#EXTINF:-1 tvg-id="ZOOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNGujOFayb74p5Sc6t16yxJdHQoSP4lCBYlPOvbbY9o098ST9c5wXkcAJ3o3D5tZkZsLOxWlTmGEtcZ4UlXZYK0p8e4Az7HqxHGfubcoXfr1bMBUzuoIIrDw0-nJD6W3TnQxcV-QQABgZUll2MsnFW4ojIOlGKR2_89vutVM315vAXVcpKp5dqjaUm7M/s320/Picsart_24-11-02_14-03-21-170.jpg" group-title="TERRESTRIAL TV",ZOOM (IND)
+https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="ZEE NEWS" tvg-logo=" " group-title="TERRESTRIAL TV",ZEE NEWS (IND)
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
 
 
@@ -61,14 +65,8 @@ https://mumt05.tangotv.in/NENEWS/index.m3u8
 #EXTINF:-1 tvg-id="PRATIDIN TIME" tvg-logo=" " group-title="TERRESTRIAL TV", PRATIDIN TIME (IND)
 https://server.thelegitpro.in/pratidintime/pratidintime/index.m3u8
 
-
-#EXTINF:-1 tvg-id="ZOOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNGujOFayb74p5Sc6t16yxJdHQoSP4lCBYlPOvbbY9o098ST9c5wXkcAJ3o3D5tZkZsLOxWlTmGEtcZ4UlXZYK0p8e4Az7HqxHGfubcoXfr1bMBUzuoIIrDw0-nJD6W3TnQxcV-QQABgZUll2MsnFW4ojIOlGKR2_89vutVM315vAXVcpKp5dqjaUm7M/s320/Picsart_24-11-02_14-03-21-170.jpg" group-title="TERRESTRIAL TV",ZOOM (IND)
-https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="ZEE NEWS" tvg-logo=" " group-title="TERRESTRIAL TV",ZEE NEWS (IND)
-https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
-
-
-
+#EXTINF:-1 tvg-id="PRATHAM KHABAR" tvg-logo=" " group-title="TERRESTRIAL TV", PRATHAM KHABAR (IND)
+https://livelegitpro.in/hls2/newstime/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo=" " group-title="TERRESTRIAL TV",CARTOON NETWORK (IND)
