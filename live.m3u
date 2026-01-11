@@ -31,6 +31,8 @@ http://87.255.35.150:18923/
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/66162.ts
 #EXTINF:-1 tvg-id="SONY HD" tvg-logo=" " group-title="TERRESTRIAL TV",SONY HD (IND)
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/144.ts
+#EXTINF:-1 tvg-id="GOLDMINES BOLLYWOOD" tvg-logo=" " group-title="TERRESTRIAL TV",GOLDMINES  BOLLYWOOD (IND)
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355478.ts
 
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo=" " group-title="TERRESTRIAL TV",SONY SAB HD (IND)
 http://217.20.112.199:8888/sabtvhd/index.m3u8
