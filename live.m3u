@@ -66,8 +66,10 @@ http://103.182.170.32:8888/play/a03o
 #EXTINF:-1 tvg-id="DISNEY" tvg-logo=" " group-title="TERRESTRIAL TV", DISNEY (IND)
 http://103.182.170.32:8888/play/a04g
 
-
-
+#EXTINF:-1 tvg-id="RAMDHENU" tvg-logo=" " group-title="TERRESTRIAL TV",RAMDHENU (IND)
+https://mumt01.tangotv.in/RAMDHENU/index.m3u8
+#EXTINF:-1 tvg-id="RANG" tvg-logo=" " group-title="TERRESTRIAL TV",RANG (IND)
+https://mumt01.tangotv.in/RANG/index.m3u8
 
 
 
