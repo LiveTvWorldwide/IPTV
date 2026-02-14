@@ -16,10 +16,8 @@ http://ahostingportal.com:8000/62664054820/5271593547/3020
 http://ahostingportal.com:8000/62664054820/5271593547/3019
 #EXTINF:-1 tvg-id="USTAV PLUS" tvg-logo=" " group-title="STREAMING MEDIA",USTAV PLUS (UK)
 http://ahostingportal.com:8000/62664054820/5271593547/2818
-#EXTINF:-1 tvg-id="ZEE ONE" tvg-logo=" " group-title="STREAMING MEDIA",ZEE ONE (US)
-https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="&TV HD" tvg-logo=" " group-title="STREAMING MEDIA",&TV HD (US)
-https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo=" " group-title="STREAMING MEDIA",ZEE CINEMA HD (ASIA)
+https://amg17931-zee-amg17931c5-kogan-au-9521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeecinema-koganau/playlist.m3u8
 
 
 
@@ -28,6 +26,11 @@ https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-a
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="ZEE NEWS" tvg-logo=" " group-title="TERRESTRIAL TV",ZEE NEWS (IND)
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+#EXTINF:-1 tvg-id="DD ASSAM" tvg-logo=" " group-title="TERRESTRIAL TV",DD ASSAM (IND)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo=" " group-title="TERRESTRIAL TV",B4U MOVIES (IND)
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
