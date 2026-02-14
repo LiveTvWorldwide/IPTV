@@ -60,8 +60,6 @@ https://server.thelegitpro.in/pratidintime/pratidintime/index.m3u8
 #EXTINF:-1 tvg-id="PRATHAM KHABAR" tvg-logo=" " group-title="TERRESTRIAL TV", PRATHAM KHABAR (IND)
 https://livelegitpro.in/hls2/newstime/index.m3u8
 
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo=" " group-title="TERRESTRIAL TV",CARTOON NETWORK (IND)
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SHEMAROO TV" tvg-logo=" " group-title="TERRESTRIAL TV",SHEMAROO TV (IND)
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
@@ -72,8 +70,6 @@ https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 #EXTINF:-1 tvg-id="ATRANGII" tvg-logo=" " group-title="TERRESTRIAL TV",ATRANGII (IND)
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28a659a4-a882-4bbc-baae-94a207e8b914/master.m3u8
 
-#EXTINF:-1 tvg-id="BBC WORLD NEWS" tvg-logo=" " group-title="TERRESTRIAL TV",BBC WORLD NEWS (IND)
-http://193.46.58.239:8080/BBCWorldNewsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="SUN NEO" tvg-logo=" " group-title="TERRESTRIAL TV",SUN NEO (IND)
 http://103.78.149.54:8000/play/a00y/index.m3u8
@@ -86,22 +82,10 @@ http://217.20.112.199:8888/ColorsHD/index.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="DORACEL TV" tvg-logo=" " group-title="ADULT LIVE",DORACEL TV (USA)
-https://cdnsk003.panaccess.com/local/Dorcel/index.m3u8
 #EXTINF:-1 tvg-id="PRONPROS" tvg-logo="" group-title="ADULT LIVE",PRONPROS (USA)
 http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451483
 #EXTINF:-1 tvg-id="PRIVATE" tvg-logo="" group-title="ADULT LIVE",PRIVATE (USA)
 http://pl.online24.pm/play/793/623939143BE8A4B/video.m3u8
-#EXTINF:-1 tvg-id="HOTTEST" tvg-logo="" group-title="ADULT LIVE",HOTTEST (USA)
-http://67.220.85.156:14880/
-#EXTINF:-1 tvg-id="X4" tvg-logo="" group-title="ADULT LIVE",X4 (USA)
-http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215650
-#EXTINF:-1 tvg-id="X4" tvg-logo="" group-title="ADULT LIVE",X4 (USA)
-http://206.212.244.47:8080/5Xchzg/411017/215688
 
 
 
