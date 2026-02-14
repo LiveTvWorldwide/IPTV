@@ -28,7 +28,10 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-id="DD ASSAM" tvg-logo=" " group-title="TERRESTRIAL TV",DD ASSAM (IND)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
-
+#EXTINF:-1 tvg-id="DD NATIONAL HD" tvg-logo=" " group-title="TERRESTRIAL TV",DD NATIONAL HD (IND)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-id="DD SPORTS 2.0" tvg-logo=" " group-title="TERRESTRIAL TV",DD SPORTS 2.0 (IND)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 
 
