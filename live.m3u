@@ -43,10 +43,6 @@ https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 https://mumt01.tangotv.in/RAMDHENU/index.m3u8
 #EXTINF:-1 tvg-id="RANG" tvg-logo=" " group-title="TERRESTRIAL TV",RANG (IND)
 https://mumt01.tangotv.in/RANG/index.m3u8
-#EXTINF:-1 tvg-id="PEAR TV" tvg-logo=" " group-title="TERRESTRIAL TV",PEAR TV (IND)
-https://mumt01.tangotv.in/PEARTV/index.m3u8
-#EXTINF:-1 tvg-id="UNIQUE TV" tvg-logo=" " group-title="TERRESTRIAL TV", UNIQUE TV (IND)
-https://mumt05.tangotv.in/UNIQUETV/index.m3u8
 #EXTINF:-1 tvg-id="E24" tvg-logo=" " group-title="TERRESTRIAL TV",E24 (IND)
 https://mumt04.tangotv.in/E24/index.m3u8
 #EXTINF:-1 tvg-id="ASSAM TALKS" tvg-logo=" " group-title="TERRESTRIAL TV",ASSAM TALKS (IND)
