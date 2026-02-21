@@ -74,7 +74,8 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 http://103.182.170.32:8888/play/a03o
 #EXTINF:-1 tvg-id="SUN NEO HD" tvg-logo=" " group-title="TERRESTRIAL TV",SUN NEO HD (IND)
 http://103.180.212.191:3500/live/3088.m3u8
-
+#EXTINF:-1 tvg-id=COLORS HD" tvg- logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfr0h-NV7YRMyA1URXruzife389P_1YbpHrslHuhDWayTUaglDVUlrqVcb16CCpauJ3vX_IHmBGA_EMKitUx1GFCdDvCjQfKG8OnY6nHciY7wQQ3VvVxAY9zzt5lWgCRmDOHkhoNxhhJ1Qda2m4XH2kQB0Ndai4KCQv3Z0PWM-R75jqzUtAxjkWUjddAw/s320/Picsart_24-08-03_10-43-20-558.jpg" group-title="TERRESTRIAL TV", COLORS HD (IND)
+http://103.180.212.191:3500/live/144.m3u8
 
 
 #EXTINF:-1 tvg-id="SONY HD" tvg-logo=" " group-title="TERRESTRIAL TV",SONY HD (IND)
