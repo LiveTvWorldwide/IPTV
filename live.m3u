@@ -72,6 +72,8 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 
 #EXTINF:-1 tvg-id="STAR PLUS" tvg-logo=" " group-title="TERRESTRIAL TV",STAR PLUS (IND)
 http://103.182.170.32:8888/play/a03o
+#EXTINF:-1 tvg-id="SUN NEO HD" tvg-logo=" " group-title="TERRESTRIAL TV",SUN NEO HD (IND)
+http://103.180.212.191:3500/live/3088.m3u8
 
 
 
