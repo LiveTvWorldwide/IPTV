@@ -77,7 +77,7 @@ http://217.20.112.199:8888/sabtvhd/index.m3u8
 http://217.20.112.199:8888/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo=" " group-title="TERRESTRIAL TV",STAR BHARAT HD (IND)
 http://217.20.112.199:8888/lifeokhd/index.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo=" " group-title="TERRESTRIAL TV",NAT GEO WILD HD (IND)
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGg3PuNn_1QDmAbrI0ICEBfo0gleo_SKqFBHw_OgADwwVXvRG6XU9kizjgnSHrG5IuqV3ZnCzRkLD6YtQu8MlINkdQ046HWVyxDJFA2y66K5UUAj6NBAPCUXXtnpxK7eozMDhUzcqkwlKP723JDV07UzaO0Q7GvGQgRDvSioudhydaJ2Cr3pm1RJ8_GWQ/s1600/Picsart_24-11-02_14-16-31-158.jpg" group-title="TERRESTRIAL TV",NAT GEO WILD HD (IND)
 http://217.20.112.199:8888/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo="https://dtil.tmsimg.com/assets/s157574_ld_h15_aa.png" group-title="TERRESTRIAL TV", ANIMAL PLANET HD (IND)
 http://217.20.112.199:8888/animalplanet/index.m3u8
