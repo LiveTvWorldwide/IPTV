@@ -79,7 +79,7 @@ http://217.20.112.199:8888/ColorsHD/index.m3u8
 http://217.20.112.199:8888/lifeokhd/index.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo=" " group-title="TERRESTRIAL TV",NAT GEO WILD HD (IND)
 http://217.20.112.199:8888/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo=" " group-title="TERRESTRIAL TV", ANIMAL PLANET HD (IND)
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo="https://dtil.tmsimg.com/assets/s157574_ld_h15_aa.png" group-title="TERRESTRIAL TV", ANIMAL PLANET HD (IND)
 http://217.20.112.199:8888/animalplanet/index.m3u8
 
 
