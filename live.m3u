@@ -53,12 +53,12 @@ https://mumt05.tangotv.in/ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="PRATIDIN TIME" tvg-logo="https://dtil.tmsimg.com/assets/s143674_ld_h15_aa.png" group-title="TERRESTRIAL TV", PRATIDIN TIME (IND)
 https://server.thelegitpro.in/pratidintime/pratidintime/index.m3u8
 
-#EXTINF:-1 tvg-id="PRATHAM KHABAR" tvg-logo=" " group-title="TERRESTRIAL TV", PRATHAM KHABAR (IND)
+#EXTINF:-1 tvg-id="PRATHAM KHABAR" tvg-logo="https://prathamkhabartv.com/wp-content/uploads/2021/05/pratham-khabar-logo.png" group-title="TERRESTRIAL TV", PRATHAM KHABAR (IND)
 https://livelegitpro.in/hls2/newstime/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SHEMAROO TV" tvg-logo=" " group-title="TERRESTRIAL TV",SHEMAROO TV (IND)
-httpsx://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ATRANGII" tvg-logo=" " group-title="TERRESTRIAL TV",ATRANGII (IND)
