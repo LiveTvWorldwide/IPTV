@@ -71,9 +71,9 @@ https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png" group-title="TERRESTRIAL TV",SONY HD (IND)
 http://217.20.112.199:8888/sethd/index.m3u8
-#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo=" " group-title="TERRESTRIAL TV",SONY SAB HD (IND)
+#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqAf3IGgs0onx0sUIyM48veBkyXLcGEdfy0i39N0PUldduN8I7G97kCZSc_9ydTVJ2O8T-PRkaQ722sNf-s5Xqo4hOnMFg6O9bprsvNt4LLjXy1OXjlnMTzF7qdHmIQGKoKFIJJ-riDDFaq4ioyGiLEAosoKLixViybV54KNgjlT-LsBlKDWvoOcHSwoM/s320/44967.png" group-title="TERRESTRIAL TV",SONY SAB HD (IND)
 http://217.20.112.199:8888/sabtvhd/index.m3u8
-#EXTINF:-1 tvg-id=COLORS HD" tvg- logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfr0h-NV7YRMyA1URXruzife389P_1YbpHrslHuhDWayTUaglDVUlrqVcb16CCpauJ3vX_IHmBGA_EMKitUx1GFCdDvCjQfKG8OnY6nHciY7wQQ3VvVxAY9zzt5lWgCRmDOHkhoNxhhJ1Qda2m4XH2kQB0Ndai4KCQv3Z0PWM-R75jqzUtAxjkWUjddAw/s320/Picsart_24-08-03_10-43-20-558.jpg" group-title="TERRESTRIAL TV", COLORS HD (IND)
+#EXTINF:-1 tvg-id=COLORS HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfr0h-NV7YRMyA1URXruzife389P_1YbpHrslHuhDWayTUaglDVUlrqVcb16CCpauJ3vX_IHmBGA_EMKitUx1GFCdDvCjQfKG8OnY6nHciY7wQQ3VvVxAY9zzt5lWgCRmDOHkhoNxhhJ1Qda2m4XH2kQB0Ndai4KCQv3Z0PWM-R75jqzUtAxjkWUjddAw/s320/Picsart_24-08-03_10-43-20-558.jpg" group-title="TERRESTRIAL TV", COLORS HD (IND)
 http://217.20.112.199:8888/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo=" " group-title="TERRESTRIAL TV",STAR BHARAT HD (IND)
 http://217.20.112.199:8888/lifeokhd/index.m3u8
