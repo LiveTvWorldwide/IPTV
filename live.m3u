@@ -37,7 +37,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 #EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png" group-title="TERRESTRIAL TV",B4U MOVIES (IND)
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo=" " group-title="TERRESTRIAL TV",B4U MUSIC (IND)
+#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="TERRESTRIAL TV",B4U MUSIC (IND)
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 
 
