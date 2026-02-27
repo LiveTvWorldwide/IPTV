@@ -68,6 +68,9 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 
 
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo=" " group-title="TERRESTRIAL TV",BOOMERANG (US)
+https://mac.zenplay.top/linear-live.php?id=1123&amp;vtoken=&amp;e=.m3u8
+
 
 #EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png" group-title="TERRESTRIAL TV",SONY HD (IND)
 http://217.20.112.199:8888/sethd/index.m3u8
