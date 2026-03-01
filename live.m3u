@@ -34,6 +34,8 @@ https://amg17931-zee-amg17931c5-kogan-au-9521.playouts.now.amagi.tv/ts-eu-w1-n2/
 https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="TRAVELXP HD" tvg-logo="https://dtil.tmsimg.com/assets/s144015_ld_h15_aa.png?lock=360x270" group-title="STREAMING MEDIA", TRAVELXP HD (UK)
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="https://i.ytimg.com/vi/aQMo3vWAYkg/maxresdefault.jpg" group-title="STREAMING MEDIA",BOOMERANG (US)
+https://mac.zenplay.top/linear-live.php?id=1123&amp;vtoken=&amp;e=.m3u8
 
 
 
@@ -87,8 +89,6 @@ https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="TERRESTRIAL TV", CARTOON NETWORK (IND)
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="https://i.ytimg.com/vi/aQMo3vWAYkg/maxresdefault.jpg" group-title="TERRESTRIAL TV",BOOMERANG (US)
-https://mac.zenplay.top/linear-live.php?id=1123&amp;vtoken=&amp;e=.m3u8
 
 
 #EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png" group-title="TERRESTRIAL TV",SONY HD (IND)
