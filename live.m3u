@@ -1,10 +1,6 @@
 
 #EXTM3U url-tvg="epg.xml"
 
-#EXTINF:-1 tvg-id="news1" tvg-name="News Channel",News Channel
-https://yourstream.com/live1.m3u8
-
-
 
 #EXTINF:-1 tvg-id="SONY MAX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNC6iEjdc_axBj-TUQ1mu9rA9R0bgI_Rrq9bMvwPv871porY7hJdumlYTU3zAEhZ719A8ep6-PQnhIunsM-SZsfoFv9bRtuwjl0QMnx9taTIFPU1478Ek4c-UD6P5eppXMXoDMm6i0Ujx48XknfFWrmqZVgUSDwvjfhNuEsXK1E-cz8kAKz0IpMyOWYY4/s320/Picsart_24-10-13_11-33-40-223.jpg" group-title="STREAMING MEDIA",SONY MAX (USA)
 http://nocable.cc:8080/789588/114528/125814
