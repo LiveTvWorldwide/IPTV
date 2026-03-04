@@ -1,23 +1,13 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
 
-#EXTINF:-1 tvg-id="Zoom.in" tvg-name="ZOOM (IND)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNGujOFayb74p5Sc6t16yxJdHQoSP4lCBYlPOvbbY9o098ST9c5wXkcAJ3o3D5tZkZsLOxWlTmGEtcZ4UlXZYK0p8e4Az7HqxHGfubcoXfr1bMBUzuoIIrDw0-nJD6W3TnQxcV-QQABgZUll2MsnFW4ojIOlGKR2_89vutVM315vAXVcpKp5dqjaUm7M/s320/Picsart_24-11-02_14-03-21-170.jpg" group-title="TERRESTRIAL TV",ZOOM (IND)
+#EXTINF:-1 tvg-id="Zoom.in" tvg-name="ZOOM (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Zoom_TV_logo.png" group-title="TERRESTRIAL TV",ZOOM (IND)
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="ZEE NEWS (IND)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VZQ9.png" group-title="TERRESTRIAL TV",ZEE NEWS (IND)
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="ZEE NEWS (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Zee_News_logo.png" group-title="TERRESTRIAL TV",ZEE NEWS (IND)
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
-#EXTINF:-1 tvg-id="DDAsam.in" tvg-name="DD ASSAM (IND)" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png" group-title="TERRESTRIAL TV",DD ASSAM (IND)
+#EXTINF:-1 tvg-id="DDAsam.in" tvg-name="DD ASSAM (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DD_Assam_logo.png" group-title="TERRESTRIAL TV",DD ASSAM (IND)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
 
-#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD NATIONAL HD (IND)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9m4_yYjW_19JBGvpxy0OQEEXzONPpIs0_2dZH4sNpwax4YeP6KbH84-QVLUuAac3LU3CNr5v1rqXxtjNTOcHmd4hshv3dxrjrlN9H9Ky7ufE32rvuSIHGdkF-sZbXxCJof5ni9gqmRjErbWicUKhNRdH2xPPePEFsNz8Aj6jaxkUCr7YBz04oRMQNsk/s320/1000096233.jpg" group-title="TERRESTRIAL TV",DD NATIONAL HD (IND)
+#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD NATIONAL HD (IND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/DD_National_logo.png" group-title="TERRESTRIAL TV",DD NATIONAL HD (IND)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-
-
-
-
-
-
-
-
-
-
