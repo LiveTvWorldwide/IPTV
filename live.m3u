@@ -1,5 +1,5 @@
 
-#https://iptv-org.github.io/epg/guides/all.xml
+#EXTINF
 
 
 #EXTINF:-1 tvg-id="SONY MAX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNC6iEjdc_axBj-TUQ1mu9rA9R0bgI_Rrq9bMvwPv871porY7hJdumlYTU3zAEhZ719A8ep6-PQnhIunsM-SZsfoFv9bRtuwjl0QMnx9taTIFPU1478Ek4c-UD6P5eppXMXoDMm6i0Ujx48XknfFWrmqZVgUSDwvjfhNuEsXK1E-cz8kAKz0IpMyOWYY4/s320/Picsart_24-10-13_11-33-40-223.jpg" group-title="STREAMING MEDIA",SONY MAX (USA)
@@ -12,8 +12,6 @@ http://nocable.cc:8080/789588/114528/125807
 http://best-livetv.xyz:8080/za0pE4qSXk4JpH5/fu3Q2UWB8JDhfMN/666718
 #EXTINF:-1 tvg-id="USTAV GOLD HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha_9I9d_zhfge4E2OsNP8OMPdElm2dShM2Phdce1Bijui-wEfvcnJvXY3aR1XsBJ1pnPu457re8L83-T3pyGu_keFgohazwbWvK2iJB0ReJPsIzULtcOIs8RvgIyyAH9iVmo9tPSXDwWL2LZnXXK25jWc1TV03tq1FDgIONeoIL3IR-RQkvfYxJK6kBHM/s320/44919.jpg" group-title="STREAMING MEDIA",USTAV GOLD HD (UK)
 http://ahostingportal.com:8000/62664054820/5271593547/3020
-#EXTINF:-1 tvg-id="USTAV BHARAT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQFPmm1UzgxJ86HcqDdQHuAYJHBsd5Q6QrHVRFbpX4pP0WJ2lu8IfrSRLcAy4ZiPwpF-KporCbfhTFjeDY4-Reevqw6nx1AOimblNrD8Xerae8RXaDkN8pAbWzEAIbDG2JYCAPAps1x3gSBbj4ZkQ1Abl29maNlOoa7n26qffsmlsg2xe9dStneg7QNRk/s320/Picsart_24-10-13_11-28-44-341.jpg" group-title="STREAMING MEDIA",USTAV BHARAT (UK)
-http://ahostingportal.com:8000/62664054820/5271593547/3019
 #EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png" group-title="STREAMING MEDIA",ZEE CINEMA HD (ASIA)
 https://amg17931-zee-amg17931c5-kogan-au-9521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeecinema-koganau/playlist.m3u8
 #EXTINF:-1 tvg-id="FOOD XP" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjciheyU-KLe3MezLr8V7gFZX1ymv2W_zckvN0nJYIGPvH7mshpfe6hNnPegRgclrCElERN5BkhWfn2jsi0MNMEXEzYneYllnmFlVShP_hHVuJppUbN4_pUVEMCdwK2j0iilkJV1qvCy484zsOLFJ6FIJ9W58_tzHNDrfZS-yrLJDKTSMYDlxVSm7d-n0c/s828/44867.png" group-title="STREAMING MEDIA",FOOD XP (UK)
@@ -21,7 +19,7 @@ https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="TRAVELXP HD" tvg-logo="https://dtil.tmsimg.com/assets/s144015_ld_h15_aa.png?lock=360x270" group-title="STREAMING MEDIA", TRAVELXP HD (UK)
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="https://i.ytimg.com/vi/aQMo3vWAYkg/maxresdefault.jpg" group-title="STREAMING MEDIA",BOOMERANG (US)
-https://mac.zenplay.top/linear-live.php?id=1123&amp;vtoken=&amp;e=.m3u8
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 
 
