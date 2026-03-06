@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="453" group-title="Sports" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png",DD Sports 
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://217.20.112.199:8888/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-id="291" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SET HD
@@ -10,24 +8,30 @@ http://217.20.112.199:8888/sethd/index.m3u8
 http://217.20.112.199:8888/sabtvhd/index.m3u8
 #EXTINF:-1 tvg-id="121" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguUJ4TKEvUimXEKZyatXI8LzpaW_D8sewYoX1ozpOCt4v4StY5qwgyF11T06S9iq2CR_lPLV2Gdl98jruxNDm3dcxQKHgNx5wrqH5Ty9DRe3Cv1RXGZFJV-KndxcIvT9_Y18y05Os6LzgeQkblklL56wfMAGfIV48EGsWXAKX2iPdqgTaDHA-2uMamzK8/s320/Picsart_24-09-21_14-23-09-062.jpg",Star Bharat HD
 http://217.20.112.199:8888/lifeokhd/index.m3u8
+
 #EXTINF:-1 tvg-id="771" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png",Foodxp
 https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="1056" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travel XP HD
-https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3
+https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+
 #EXTINF:-1 tvg-id="811" group-title="Music" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNGujOFayb74p5Sc6t16yxJdHQoSP4lCBYlPOvbbY9o098ST9c5wXkcAJ3o3D5tZkZsLOxWlTmGEtcZ4UlXZYK0p8e4Az7HqxHGfubcoXfr1bMBUzuoIIrDw0-nJD6W3TnQxcV-QQABgZUll2MsnFW4ojIOlGKR2_89vutVM315vAXVcpKp5dqjaUm7M/s320/Picsart_24-11-02_14-03-21-170.jpg",ZOOM
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="453" group-title="Sports" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png",DD Sports 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="114" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9m4_yYjW_19JBGvpxy0OQEEXzONPpIs0_2dZH4sNpwax4YeP6KbH84-QVLUuAac3LU3CNr5v1rqXxtjNTOcHmd4hshv3dxrjrlN9H9Ky7ufE32rvuSIHGdkF-sZbXxCJof5ni9gqmRjErbWicUKhNRdH2xPPePEFsNz8Aj6jaxkUCr7YBz04oRMQNsk/s320/1000096233.jpg",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-id="501" group-title="News" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158254_ld_h15_aa.png",DD News
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 #EXTINF:-1 tvg-id="511" group-title="News" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+
 #EXTINF:-1 tvg-id="822" group-title="Music" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music 
 https://amg00877-amg00877c3-samsung-in-6976.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-samsungin/p
 #EXTINF:-1 tvg-id="352" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies 
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="125" group-title="Movies" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png",Sony Max 
+http://nocable.cc:8080/789588/114528/125814
 
 
 
