@@ -6,6 +6,10 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 http://217.20.112.199:8888/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-id="291" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SET HD
 http://217.20.112.199:8888/sethd/index.m3u8
+#EXTINF:-1 tvg-id="132" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
+http://217.20.112.199:8888/sabtvhd/index.m3u8
+#EXTINF:-1 tvg-id="121" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguUJ4TKEvUimXEKZyatXI8LzpaW_D8sewYoX1ozpOCt4v4StY5qwgyF11T06S9iq2CR_lPLV2Gdl98jruxNDm3dcxQKHgNx5wrqH5Ty9DRe3Cv1RXGZFJV-KndxcIvT9_Y18y05Os6LzgeQkblklL56wfMAGfIV48EGsWXAKX2iPdqgTaDHA-2uMamzK8/s320/Picsart_24-09-21_14-23-09-062.jpg",Star Bharat HD
+http://217.20.112.199:8888/lifeokhd/index.m3u8
 #EXTINF:-1 tvg-id="771" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png",Foodxp
 https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="1056" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travel XP HD
@@ -89,12 +93,8 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 
 
 
-#EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png" group-title="TERRESTRIAL TV",SONY HD (IND)
-http://217.20.112.199:8888/sethd/index.m3u8
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqAf3IGgs0onx0sUIyM48veBkyXLcGEdfy0i39N0PUldduN8I7G97kCZSc_9ydTVJ2O8T-PRkaQ722sNf-s5Xqo4hOnMFg6O9bprsvNt4LLjXy1OXjlnMTzF7qdHmIQGKoKFIJJ-riDDFaq4ioyGiLEAosoKLixViybV54KNgjlT-LsBlKDWvoOcHSwoM/s320/44967.png" group-title="TERRESTRIAL TV",SONY SAB HD (IND)
 http://217.20.112.199:8888/sabtvhd/index.m3u8
-#EXTINF:-1 tvg-id=COLORS HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfr0h-NV7YRMyA1URXruzife389P_1YbpHrslHuhDWayTUaglDVUlrqVcb16CCpauJ3vX_IHmBGA_EMKitUx1GFCdDvCjQfKG8OnY6nHciY7wQQ3VvVxAY9zzt5lWgCRmDOHkhoNxhhJ1Qda2m4XH2kQB0Ndai4KCQv3Z0PWM-R75jqzUtAxjkWUjddAw/s320/Picsart_24-08-03_10-43-20-558.jpg" group-title="TERRESTRIAL TV",COLORS HD (IND)
-http://217.20.112.199:8888/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguUJ4TKEvUimXEKZyatXI8LzpaW_D8sewYoX1ozpOCt4v4StY5qwgyF11T06S9iq2CR_lPLV2Gdl98jruxNDm3dcxQKHgNx5wrqH5Ty9DRe3Cv1RXGZFJV-KndxcIvT9_Y18y05Os6LzgeQkblklL56wfMAGfIV48EGsWXAKX2iPdqgTaDHA-2uMamzK8/s320/Picsart_24-09-21_14-23-09-062.jpg" group-title="TERRESTRIAL TV",STAR BHARAT HD (IND)
 http://217.20.112.199:8888/lifeokhd/index.m3u8
 #EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj11bCHU7u44ExYkkmyhUf3fCPNzcPCHlg6wfTV_GQFgBIpysMgCKvETIE0Cyc2c-79bMzstelRoeaw4Zl5Ow9t04WeTT5EUSH-7ZCOGY9StvfDHTKtBYSt-Y4OgwLPQFm5gyj_sf7Qqr4ck5RsSs_0fMP0U74kNNd4tIedlEfMmVL9L51iufgIIvtI01s/s320/45040.jpg" group-title="TERRESTRIAL TV",NAT GEO WILD HD (IND)
