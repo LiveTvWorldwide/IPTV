@@ -11,6 +11,7 @@ http://217.20.112.199:8888/lifeokhd/index.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="811" group-title="Music" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNGujOFayb74p5Sc6t16yxJdHQoSP4lCBYlPOvbbY9o098ST9c5wXkcAJ3o3D5tZkZsLOxWlTmGEtcZ4UlXZYK0p8e4Az7HqxHGfubcoXfr1bMBUzuoIIrDw0-nJD6W3TnQxcV-QQABgZUll2MsnFW4ojIOlGKR2_89vutVM315vAXVcpKp5dqjaUm7M/s320/Picsart_24-11-02_14-03-21-170.jpg",ZOOM
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="453" group-title="Sports" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png",DD Sports 
@@ -50,8 +51,10 @@ http://nocable.cc:8080/789588/114528/125807
 #EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://zeetvcanada.ca/wp-content/uploads/2025/06/cropped-zcanada-eng-332-03.png",Zee TV Canada 
 https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="151" group-title="Kids" tvg-language="Hindi" tvg-logo="https://i.ytimg.com/vi/aQMo3vWAYkg/maxresdefault.jpg",Boomerang 
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+
 
 #EXTINF:-1 tvg-id="161" group-title="Kids" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png",Cartoon Network 
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
@@ -60,8 +63,8 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="3474" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/media_files/2025/07/22/atrangii-2025-07-22-11-38-36.jpg",Atrangii Fast
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28a659a4-a882-4bbc-baae-94a207e8b914/master.m3u8
 
-
-
+#EXTINF:-1 tvg-id="813" group-title="Music" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/E24-TV-Channel.jpg",E24 
+https://mumt04.tangotv.in/E24/index.m3u8
 
 
 
@@ -87,24 +90,9 @@ https://server.thelegitpro.in/pratidintime/pratidintime/index.m3u8
 https://livelegitpro.in/hls2/newstime/index.m3u8
 
 
-#EXTINF:-1 tvg-id="SHEMAROO TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSq5J-Wsz0c4l7ZO8SMO1aTjlumXG_7h51qWYw6liR80QjPpbQRyP9k-n9zNkKmMdv8ZtyVVGHFGxRJVC6axIB6wLJ6QqfmkJuG4JphLX8Z-QhFjIE7-o89pM9f1rBFLA5f6oP0r0AdMununRWaqhTGsuPXJ9U4o4HjI9c6jEnKjGLICLyKBzvmxKRlSQ/s1420/45029.jpg" group-title="TERRESTRIAL TV",SHEMAROO TV (IND)
-https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="ATRANGII" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6NIjCHF6NTeZTE44cCCuwB-aR7GiyYh83D10vsKpIstiuE8nbRsex9fzBZT4A-G1_jtyvz4GNDw8Ze4F1781OrWqA4BYGuZiqtBo_iPbd55FBwjSscGZOGaICEcyz6KPBgRWSFmQdIbDiBujZUUKvE828YbGtQ_saaJ9zyB4hUwe7uD24GdNEIpox0M/s320/44962.jpg" group-title="TERRESTRIAL TV",ATRANGII (IND)
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28a659a4-a882-4bbc-baae-94a207e8b914/master.m3u8
-
-#EXTINF:-1 tvg-id="EPIC" tvg-logo="https://dtil.tmsimg.com/assets/s159013_ld_h15_aa.png" group-title="TERRESTRIAL TV",EPIC (IND)
-https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj11bCHU7u44ExYkkmyhUf3fCPNzcPCHlg6wfTV_GQFgBIpysMgCKvETIE0Cyc2c-79bMzstelRoeaw4Zl5Ow9t04WeTT5EUSH-7ZCOGY9StvfDHTKtBYSt-Y4OgwLPQFm5gyj_sf7Qqr4ck5RsSs_0fMP0U74kNNd4tIedlEfMmVL9L51iufgIIvtI01s/s320/45040.jpg" group-title="TERRESTRIAL TV",NAT GEO WILD HD (IND)
-http://217.20.112.199:8888/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO4ZpLqawfGCVDQoSCFKsi3Tc3ROW-2PDgQcsWTnpM4of3OA6t9jKt6k5oqSLBs_3AFdGoy4O8qAN7haIAUmG22vpUt0lweAfQCHtFgkzKwI-ky16go_ibbeNCDVV0ynW8KIT7Ab0VzV51t5vryUE3eT9hbcGYVNaXV1xyxsJKwfnnxP6rH1Xp3FiDH88/s320/45039.jpg" group-title="TERRESTRIAL TV", ANIMAL PLANET HD (IND)
-http://217.20.112.199:8888/animalplanet/index.m3u8
 
 
 
