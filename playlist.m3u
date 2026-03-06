@@ -1,13 +1,15 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="zee_tv" tvg-name="Zee TV" tvg-logo="https://example.com/logo.png" group-title="India",Zee TV
-http://your-stream-link-here/zee.m3u8
+#EXTINF:-1 tvg-id="1918" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png",Jio Cricket English HD
+http://localhost/jiotv/app/live.php?id=1918&e=.m3u8
+#EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+http://217.20.112.199:8888/ColorsHD/index.m3u8
+#EXTINF:-1 tvg-id="291" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SET HD
+http://217.20.112.199:8888/sethd/index.m3u8
 
-#EXTINF:-1 tvg-id="star_plus" tvg-name="Star Plus" tvg-logo="https://example.com/logo.png" group-title="India",Star Plus
-http://your-stream-link-here/starplus.m3u8
 
-#EXTINF:-1 tvg-id="aaj_tak" tvg-name="Aaj Tak" tvg-logo="https://example.com/logo.png" group-title="News",Aaj Tak
-http://your-stream-link-here/aajtak.m3u8
+
+
 
 
 
