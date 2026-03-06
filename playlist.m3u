@@ -24,18 +24,19 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
 
 
-#EXTINF:-1 tvg-id="822" group-title="Music" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music 
-https://amg00877-amg00877c3-samsung-in-6976.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-samsungin/p
-#EXTINF:-1 tvg-id="352" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies 
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="771" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png",Foodxp
 https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="1056" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travel XP HD
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="352" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies 
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="319" group-title="Movies" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png",Zee Cinema HD
 https://amg17931-zee-amg17931c5-kogan-au-9521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeecinema-koganau/playlist.m3u8
+#EXTINF:-1 tvg-id="822" group-title="Music" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music 
+https://amg00877-amg00877c3-samsung-in-6976.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-samsungin/p
 #EXTINF:-1 tvg-id="137" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png",&TV HD
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="125" group-title="Movies" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png",Sony Max 
@@ -46,7 +47,7 @@ http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/125795
 http://nocable.cc:8080/789588/114528/125807
 
 
-
+https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
 
 
 
