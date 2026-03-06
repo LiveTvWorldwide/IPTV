@@ -58,18 +58,9 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 
 
 
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28a659a4-a882-4bbc-baae-94a207e8b914/master.m3u8
 
 
-#EXTINF:-1 tvg-id="ZEE CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwJlZIMqec8Z8ALZ3gSA719FgKPlBcFKDy8ugHQ0xGvEzS6cFY5eNJlCsTSP3UKSkpZNvGR0xYqsslvPAuMDjF2Eu_kgwsAyS0vtwftEQ-0Y_o63cHw3lcikL4k6ErCOCaOtpN1KorkfCPaHoW3snG1EXouNkkY9K9y_yLpOr4LDZ-FC4DzpIBiCGx6O0/s320/1000088661.jpg" group-title="STREAMING MEDIA",ZEE CINEMA (USA)
-http://best-livetv.xyz:8080/za0pE4qSXk4JpH5/fu3Q2UWB8JDhfMN/666718
-#EXTINF:-1 tvg-id="USTAV GOLD HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha_9I9d_zhfge4E2OsNP8OMPdElm2dShM2Phdce1Bijui-wEfvcnJvXY3aR1XsBJ1pnPu457re8L83-T3pyGu_keFgohazwbWvK2iJB0ReJPsIzULtcOIs8RvgIyyAH9iVmo9tPSXDwWL2LZnXXK25jWc1TV03tq1FDgIONeoIL3IR-RQkvfYxJK6kBHM/s320/44919.jpg" group-title="STREAMING MEDIA",USTAV GOLD HD (UK)
-http://ahostingportal.com:8000/62664054820/5271593547/3020
-#EXTINF:-1 tvg-id="ZEE TV CANADA" tvg-logo="https://zeetvcanada.ca/wp-content/uploads/2025/06/cropped-zcanada-eng-332-03.png" group-title="STREAMING MEDIA",ZEE TV CANADA (US)
-https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
-#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png" group-title="STREAMING MEDIA",ZEE CINEMA HD (ASIA)
-https://amg17931-zee-amg17931c5-kogan-au-9521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeecinema-koganau/playlist.m3u8
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="https://i.ytimg.com/vi/aQMo3vWAYkg/maxresdefault.jpg" group-title="STREAMING MEDIA",BOOMERANG (US)
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 
 
@@ -106,15 +97,10 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 #EXTINF:-1 tvg-id="EPIC" tvg-logo="https://dtil.tmsimg.com/assets/s159013_ld_h15_aa.png" group-title="TERRESTRIAL TV",EPIC (IND)
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="TERRESTRIAL TV", CARTOON NETWORK (IND)
-https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 
 
 
-#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqAf3IGgs0onx0sUIyM48veBkyXLcGEdfy0i39N0PUldduN8I7G97kCZSc_9ydTVJ2O8T-PRkaQ722sNf-s5Xqo4hOnMFg6O9bprsvNt4LLjXy1OXjlnMTzF7qdHmIQGKoKFIJJ-riDDFaq4ioyGiLEAosoKLixViybV54KNgjlT-LsBlKDWvoOcHSwoM/s320/44967.png" group-title="TERRESTRIAL TV",SONY SAB HD (IND)
-http://217.20.112.199:8888/sabtvhd/index.m3u8
-#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguUJ4TKEvUimXEKZyatXI8LzpaW_D8sewYoX1ozpOCt4v4StY5qwgyF11T06S9iq2CR_lPLV2Gdl98jruxNDm3dcxQKHgNx5wrqH5Ty9DRe3Cv1RXGZFJV-KndxcIvT9_Y18y05Os6LzgeQkblklL56wfMAGfIV48EGsWXAKX2iPdqgTaDHA-2uMamzK8/s320/Picsart_24-09-21_14-23-09-062.jpg" group-title="TERRESTRIAL TV",STAR BHARAT HD (IND)
-http://217.20.112.199:8888/lifeokhd/index.m3u8
+
 #EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj11bCHU7u44ExYkkmyhUf3fCPNzcPCHlg6wfTV_GQFgBIpysMgCKvETIE0Cyc2c-79bMzstelRoeaw4Zl5Ow9t04WeTT5EUSH-7ZCOGY9StvfDHTKtBYSt-Y4OgwLPQFm5gyj_sf7Qqr4ck5RsSs_0fMP0U74kNNd4tIedlEfMmVL9L51iufgIIvtI01s/s320/45040.jpg" group-title="TERRESTRIAL TV",NAT GEO WILD HD (IND)
 http://217.20.112.199:8888/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO4ZpLqawfGCVDQoSCFKsi3Tc3ROW-2PDgQcsWTnpM4of3OA6t9jKt6k5oqSLBs_3AFdGoy4O8qAN7haIAUmG22vpUt0lweAfQCHtFgkzKwI-ky16go_ibbeNCDVV0ynW8KIT7Ab0VzV51t5vryUE3eT9hbcGYVNaXV1xyxsJKwfnnxP6rH1Xp3FiDH88/s320/45039.jpg" group-title="TERRESTRIAL TV", ANIMAL PLANET HD (IND)
