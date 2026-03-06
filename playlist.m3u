@@ -29,6 +29,9 @@ https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist
 
 
 
+
+
+
 #EXTINF:-1 tvg-id="SONY MAX" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNC6iEjdc_axBj-TUQ1mu9rA9R0bgI_Rrq9bMvwPv871porY7hJdumlYTU3zAEhZ719A8ep6-PQnhIunsM-SZsfoFv9bRtuwjl0QMnx9taTIFPU1478Ek4c-UD6P5eppXMXoDMm6i0Ujx48XknfFWrmqZVgUSDwvjfhNuEsXK1E-cz8kAKz0IpMyOWYY4/s320/Picsart_24-10-13_11-33-40-223.jpg" group-title="STREAMING MEDIA",SONY MAX (USA)
 http://nocable.cc:8080/789588/114528/125814
 #EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxg8VDJTpVLICnadRVxEXY3dbNO5Ip2aArysbh1VGx8eu1tag6k4mYgdPlyjHHxIxYXmv3InrqYiwGZ9v_fWaPgbR5O-IAHeFRQVyD_ISv_NdjFgV52oGaucdqRzjHzDPW0g3TCTlt21_MU1Erfeh0HjnPp17p44SmHywac8nC8bQ0swcpxasXKR53bN0/s320/Picsart_24-10-13_11-33-57-020.jpg" group-title="STREAMING MEDIA",SONY MAX 2 (USA)
@@ -43,10 +46,6 @@ http://ahostingportal.com:8000/62664054820/5271593547/3020
 https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
 #EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png" group-title="STREAMING MEDIA",ZEE CINEMA HD (ASIA)
 https://amg17931-zee-amg17931c5-kogan-au-9521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeecinema-koganau/playlist.m3u8
-#EXTINF:-1 tvg-id="FOOD XP" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjciheyU-KLe3MezLr8V7gFZX1ymv2W_zckvN0nJYIGPvH7mshpfe6hNnPegRgclrCElERN5BkhWfn2jsi0MNMEXEzYneYllnmFlVShP_hHVuJppUbN4_pUVEMCdwK2j0iilkJV1qvCy484zsOLFJ6FIJ9W58_tzHNDrfZS-yrLJDKTSMYDlxVSm7d-n0c/s828/44867.png" group-title="STREAMING MEDIA",FOOD XP (UK)
-https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="TRAVELXP HD" tvg-logo="https://dtil.tmsimg.com/assets/s144015_ld_h15_aa.png?lock=360x270" group-title="STREAMING MEDIA", TRAVELXP HD (UK)
-https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="https://i.ytimg.com/vi/aQMo3vWAYkg/maxresdefault.jpg" group-title="STREAMING MEDIA",BOOMERANG (US)
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
@@ -54,23 +53,9 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ZOOM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNGujOFayb74p5Sc6t16yxJdHQoSP4lCBYlPOvbbY9o098ST9c5wXkcAJ3o3D5tZkZsLOxWlTmGEtcZ4UlXZYK0p8e4Az7HqxHGfubcoXfr1bMBUzuoIIrDw0-nJD6W3TnQxcV-QQABgZUll2MsnFW4ojIOlGKR2_89vutVM315vAXVcpKp5dqjaUm7M/s320/Picsart_24-11-02_14-03-21-170.jpg" group-title="TERRESTRIAL TV",ZOOM (IND)
-https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="ZEE NEWS" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VZQ9.png" group-title="TERRESTRIAL TV",ZEE NEWS (IND)
-https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
-#EXTINF:-1 tvg-id="DD ASSAM" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png" group-title="TERRESTRIAL TV",DD ASSAM (IND)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
-#EXTINF:-1 tvg-id="DD NATIONAL HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9m4_yYjW_19JBGvpxy0OQEEXzONPpIs0_2dZH4sNpwax4YeP6KbH84-QVLUuAac3LU3CNr5v1rqXxtjNTOcHmd4hshv3dxrjrlN9H9Ky7ufE32rvuSIHGdkF-sZbXxCJof5ni9gqmRjErbWicUKhNRdH2xPPePEFsNz8Aj6jaxkUCr7YBz04oRMQNsk/s320/1000096233.jpg" group-title="TERRESTRIAL TV",DD NATIONAL HD (IND)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1 tvg-id="DD SPORTS" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png" group-title="TERRESTRIAL TV",DD SPORTS (IND)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="B4U MOVIES" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png" group-title="TERRESTRIAL TV",B4U MOVIES (IND)
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="B4U MUSIC" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="TERRESTRIAL TV",B4U MUSIC (IND)
-https://amg00877-amg00877c3-samsung-in-6976.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-samsungin/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="RAMDHENU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Indradhanu.jpeg" group-title="TERRESTRIAL TV",RAMDHENU (IND)
