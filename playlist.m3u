@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-http://217.20.112.199:8888/ColorsHD/index.m3u8
+#EXTINF:-1 tvg-id="344" group-title="Movies" tvg-language="Hindi" tvg-logo="https://www.colorscineplex.com/in/wp-content/themes/colorscineplex/assets/images/Colors-Cineplex-Print.png",Colors Cineplex 
+http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/19741
 #EXTINF:-1 tvg-id="291" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SET HD
 http://217.20.112.199:8888/sethd/index.m3u8
 #EXTINF:-1 tvg-id="132" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
