@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="344" group-title="Movies" tvg-language="Hindi" tvg-logo="https://www.colorscineplex.com/in/wp-content/themes/colorscineplex/assets/images/Colors-Cineplex-Print.png",Colors Cineplex 
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/19741
+#EXTINF:-1 tvg-id="344" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
+http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/4867
 #EXTINF:-1 tvg-id="132" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",Sony Sab 
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1073
 #EXTINF:-1 tvg-id="115" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvCbB06e641K8alW8IPklGImLT9_EX-bqRdN05STRzEmROUQeG3sxMS2AgNe7uPiPIZdf-FgFQKYQZ28KHRmYpeCgZ6ppjCJe9JLqYFqJStVVOTguY4Yn-TPx-l_m9qG58TA-jOrLzO5ZqfVlU3sJb70I9uRkldPsS1HHkgPyagF0rIAB0n2_C8qoGVg/s320/Picsart_24-08-14_17-36-05-227.jpg",Ustav Plus
@@ -10,6 +10,8 @@ http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/60347
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/284583
 #EXTINF:-1 tvg-id="308" group-title="Movies" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLADB6Na8JIkkskcul0djLNLsmNMWhibpBTBfnbmBTDifMFjJdX-dS5qwtvUQS2eAGXViGRe15hhfNRtq1AM2iOoPdWRHL8N3-YKohfj5Ny0fR5T8cebHzUUDs6nsH8ZBXc_9yumu4QK3IlSvOBJrmi4_QugANBJwzd0IpU1lNXnVqevdwzsbtdPd3pKM/s320/Picsart_24-09-21_14-28-08-162.jpg",Ustav Gold
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/82623
+#EXTINF:-1 tvg-id="344" group-title="Movies" tvg-language="Hindi" tvg-logo="https://www.colorscineplex.com/in/wp-content/themes/colorscineplex/assets/images/Colors-Cineplex-Print.png",Colors Cineplex 
+http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/19741
 
 
 
