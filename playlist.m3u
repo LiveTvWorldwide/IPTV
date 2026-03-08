@@ -28,8 +28,12 @@ http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/49566
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/284213
 #EXTINF:-1 tvg-id="717" group-title="Infotainment" tvg-language="English" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png",Animal Planet 
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/144824
-#EXTINF:-1 tvg-id="455" group-title="Sports" tvg-language="English" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png",Star Sports 1HD
+#EXTINF:-1 tvg-id="455" group-title="Sports" tvg-language="Hindi" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png",Star Sports 1HD
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/3630
+#EXTINF:-1 tvg-id="473" group-title="Sports" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png",Ten Sports HD
+http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/151863
+#EXTINF:-1 tvg-id="470" group-title="Sports" tvg-language="English" tvg-logo="https://dtil.tmsimg.com/assets/s159126_ld_h15_aa.png",Sony Ten 1 HD 
+http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/16622
 
 
 
