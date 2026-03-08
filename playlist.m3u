@@ -15,6 +15,14 @@ http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/82623
 
 
 
+#EXTINF:-1 tvg-id="125" group-title="Movies" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png",Sony Max 
+http://nocable.cc:8080/789588/114528/125814
+#EXTINF:-1 tvg-id="477" group-title="Movies" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png",Sony Max 2
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/125795
+#EXTINF:-1 tvg-id="768" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/food-food-tv-black.png",Food Food
+http://nocable.cc:8080/789588/114528/125807
+
+
 
 
 #EXTINF:-1 tvg-id="811" group-title="Music" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNGujOFayb74p5Sc6t16yxJdHQoSP4lCBYlPOvbbY9o098ST9c5wXkcAJ3o3D5tZkZsLOxWlTmGEtcZ4UlXZYK0p8e4Az7HqxHGfubcoXfr1bMBUzuoIIrDw0-nJD6W3TnQxcV-QQABgZUll2MsnFW4ojIOlGKR2_89vutVM315vAXVcpKp5dqjaUm7M/s320/Picsart_24-11-02_14-03-21-170.jpg",ZOOM
@@ -43,12 +51,6 @@ https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-a
 
 
 
-#EXTINF:-1 tvg-id="125" group-title="Movies" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png",Sony Max 
-http://nocable.cc:8080/789588/114528/125814
-#EXTINF:-1 tvg-id="477" group-title="Movies" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png",Sony Max 2
-http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/125795
-#EXTINF:-1 tvg-id="768" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/food-food-tv-black.png",Food Food
-http://nocable.cc:8080/789588/114528/125807
 
 
 #EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://zeetvcanada.ca/wp-content/uploads/2025/06/cropped-zcanada-eng-332-03.png",Zee TV Canada 
