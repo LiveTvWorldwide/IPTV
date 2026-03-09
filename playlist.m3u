@@ -91,7 +91,8 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="415" group-title="Sports" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png",Sony Ten Sports 3
 http://103.229.254.25:7001/play/a09q/index.m3u8
-
+#EXTINF:-1 tvg-id="167" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NZHQ5.png",Colors HD
+http://103.229.254.25:7001/play/a0a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="161" group-title="Kids" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png",Cartoon Network 
