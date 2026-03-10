@@ -4,8 +4,6 @@
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/162529
 #EXTINF:-1 tvg-id="125" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/4867
-#EXTINF:-1 tvg-id="132" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",Sony Sab 
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1073
 #EXTINF:-1 tvg-id="115" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6Ym1JEFNhHb9UgGk9ow1aAqoCz2h3PIHQkqoGUi8OnNGyOcTVFJiqJVdWJEpsr1zpPdjqNMuFIKIT6Dj2D_eLj5wjqyfp_BCFEB2g4PEynE8WcWC6bnxU6HWPRgdFQmO4n2hv6cuVxi9C8bijrZ9DjB9AT1cw7W6n_wXGxOLdSVLLVuSkLJ3zF-ML_K0/s320/Picsart_24-09-21_14-11-21-290.jpg",Star Plus HD
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/60347
 #EXTINF:-1 tvg-id="121" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguUJ4TKEvUimXEKZyatXI8LzpaW_D8sewYoX1ozpOCt4v4StY5qwgyF11T06S9iq2CR_lPLV2Gdl98jruxNDm3dcxQKHgNx5wrqH5Ty9DRe3Cv1RXGZFJV-KndxcIvT9_Y18y05Os6LzgeQkblklL56wfMAGfIV48EGsWXAKX2iPdqgTaDHA-2uMamzK8/s320/Picsart_24-09-21_14-23-09-062.jpg",Star Bharat HD
@@ -46,6 +44,10 @@ http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/298503
 
 #EXTINF:-1 tvg-id="312" group-title="Movies" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png",Sony Max 
 http://nocable.cc:8080/789588/114528/125814
+#EXTINF:-1 tvg-id="113" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",Sony Sab 
+http://nocable.cc:8080/789588/114528/125809
+#EXTINF:-1 tvg-id="113" group-title="Entertainment" tvg-language="Hindi" tvg-logo=" ",TV Asia 
+http://nocable.cc:8080/789588/114528/125819
 #EXTINF:-1 tvg-id="477" group-title="Movies" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png",Sony Max 2
 http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/125795
 #EXTINF:-1 tvg-id="768" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/food-food-tv-black.png",Food Food
