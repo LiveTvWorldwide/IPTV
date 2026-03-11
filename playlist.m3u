@@ -83,6 +83,8 @@ https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-a
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="143" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLG3.png",ZeeTV HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8
 
 #EXTINF:-1 tvg-id="151" group-title="Kids" tvg-language="Hindi" tvg-logo="https://i.ytimg.com/vi/aQMo3vWAYkg/maxresdefault.jpg",Boomerang 
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
