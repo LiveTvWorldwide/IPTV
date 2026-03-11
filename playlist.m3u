@@ -2,18 +2,12 @@
 
 #EXTINF:-1 tvg-id="734" group-title="Entertainment" tvg-language="English" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/logos/axn_0.png",AXN
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/162529
-#EXTINF:-1 tvg-id="125" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/4867
-#EXTINF:-1 tvg-id="115" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6Ym1JEFNhHb9UgGk9ow1aAqoCz2h3PIHQkqoGUi8OnNGyOcTVFJiqJVdWJEpsr1zpPdjqNMuFIKIT6Dj2D_eLj5wjqyfp_BCFEB2g4PEynE8WcWC6bnxU6HWPRgdFQmO4n2hv6cuVxi9C8bijrZ9DjB9AT1cw7W6n_wXGxOLdSVLLVuSkLJ3zF-ML_K0/s320/Picsart_24-09-21_14-11-21-290.jpg",Star Plus HD
+#EXTINF:-1 tvg-id="115" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6Ym1JEFNhHb9UgGk9ow1aAqoCz2h3PIHQkqoGUi8OnNGyOcTVFJiqJVdWJEpsr1zpPdjqNMuFIKIT6Dj2D_eLj5wjqyfp_BCFEB2g4PEynE8WcWC6bnxU6HWPRgdFQmO4n2hv6cuVxi9C8bijrZ9DjB9AT1cw7W6n_wXGxOLdSVLLVuSkLJ3zF-ML_K0/s320/Picsart_24-09-21_14-11-21-290.jpg",Star Plus 
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/60347
-#EXTINF:-1 tvg-id="121" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguUJ4TKEvUimXEKZyatXI8LzpaW_D8sewYoX1ozpOCt4v4StY5qwgyF11T06S9iq2CR_lPLV2Gdl98jruxNDm3dcxQKHgNx5wrqH5Ty9DRe3Cv1RXGZFJV-KndxcIvT9_Y18y05Os6LzgeQkblklL56wfMAGfIV48EGsWXAKX2iPdqgTaDHA-2uMamzK8/s320/Picsart_24-09-21_14-23-09-062.jpg",Star Bharat HD
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/284583
 #EXTINF:-1 tvg-id="308" group-title="Movies" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLADB6Na8JIkkskcul0djLNLsmNMWhibpBTBfnbmBTDifMFjJdX-dS5qwtvUQS2eAGXViGRe15hhfNRtq1AM2iOoPdWRHL8N3-YKohfj5Ny0fR5T8cebHzUUDs6nsH8ZBXc_9yumu4QK3IlSvOBJrmi4_QugANBJwzd0IpU1lNXnVqevdwzsbtdPd3pKM/s320/Picsart_24-09-21_14-28-08-162.jpg",Ustav Gold
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/82623
 #EXTINF:-1 tvg-id="344" group-title="Movies" tvg-language="Hindi" tvg-logo="https://www.colorscineplex.com/in/wp-content/themes/colorscineplex/assets/images/Colors-Cineplex-Print.png",Colors Cineplex 
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/19741
-#EXTINF:-1 tvg-id="305" group-title="Kids" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/500px-2014_Disney_Channel_logo.svg.png",Disney 
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/192985
 #EXTINF:-1 tvg-id="125" group-title="Kids" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png",Sony Yay 
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1355
 #EXTINF:-1 tvg-id="670" group-title="Kids" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png",Pogo 
@@ -104,14 +98,13 @@ http://103.229.254.25:7001/play/a0a1/index.m3u8
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 
 
-#EXTINF:-1 tvg-id="3474" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/media_files/2025/07/22/atrangii-2025-07-22-11-38-36.jpg",Atrangii Fast
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28a659a4-a882-4bbc-baae-94a207e8b914/master.m3u8
 #EXTINF:-1 tvg-id="813" group-title="Music" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/E24-TV-Channel.jpg",E24 
 https://mumt04.tangotv.in/E24/index.m3u8
 
 #EXTINF:-1 tvg-id="822" group-title="Music" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music 
 https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8
-
+#EXTINF:-1 tvg-id="352" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies 
+https://edge2.roarzone.info:8447/roarzone/edge3/b4u-movies-apac/index.m3u8
 
 
 
