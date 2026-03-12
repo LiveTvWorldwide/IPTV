@@ -49,7 +49,8 @@ http://nocable.cc:8080/789588/114528/125807
 
 
 
-
+#EXTINF:-1 tvg-id="143" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLG3.png",ZeeTV HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8
 #EXTINF:-1 tvg-id="121" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguUJ4TKEvUimXEKZyatXI8LzpaW_D8sewYoX1ozpOCt4v4StY5qwgyF11T06S9iq2CR_lPLV2Gdl98jruxNDm3dcxQKHgNx5wrqH5Ty9DRe3Cv1RXGZFJV-KndxcIvT9_Y18y05Os6LzgeQkblklL56wfMAGfIV48EGsWXAKX2iPdqgTaDHA-2uMamzK8/s320/Picsart_24-09-21_14-23-09-062.jpg",Star Bharat
 http://iptvcasomsapi.jprdigital.in/x-media/C0388/master.m3u8
 
@@ -80,16 +81,9 @@ https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-a
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="143" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLG3.png",ZeeTV HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8
 
 #EXTINF:-1 tvg-id="151" group-title="Kids" tvg-language="Hindi" tvg-logo="https://i.ytimg.com/vi/aQMo3vWAYkg/maxresdefault.jpg",Boomerang 
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-
-#EXTINF:-1 tvg-id="415" group-title="Sports" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png",Sony Ten Sports 3
-http://103.229.254.25:7001/play/a09q/index.m3u8
-#EXTINF:-1 tvg-id="167" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NZHQ5.png",Colors HD
-http://103.229.254.25:7001/play/a0a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="161" group-title="Kids" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png",Cartoon Network 
