@@ -51,6 +51,10 @@ http://nocable.cc:8080/789588/114528/125807
 http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8
 #EXTINF:-1 tvg-id="121" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguUJ4TKEvUimXEKZyatXI8LzpaW_D8sewYoX1ozpOCt4v4StY5qwgyF11T06S9iq2CR_lPLV2Gdl98jruxNDm3dcxQKHgNx5wrqH5Ty9DRe3Cv1RXGZFJV-KndxcIvT9_Y18y05Os6LzgeQkblklL56wfMAGfIV48EGsWXAKX2iPdqgTaDHA-2uMamzK8/s320/Picsart_24-09-21_14-23-09-062.jpg",Star Bharat
 http://iptvcasomsapi.jprdigital.in/x-media/C0388/master.m3u8
+#EXTINF:-1 tvg-id="321" group-title="Movies" tvg-language="Hindi" tvg-logo="https://www.ethnicchannels.com/images/channels/zee-cinema-final-2.jpg",Zee Cinema 
+http://iptvcasomsapi.jprdigital.in/x-media/C0517/master.m3u8
+
+
 
 
 
@@ -71,11 +75,9 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="1056" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travel XP HD
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="319" group-title="Movies" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png",Zee Cinema HD
-https://amg17931-zee-amg17931c5-kogan-au-9521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeecinema-koganau/playlist.m3u8
 #EXTINF:-1 tvg-id="137" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png",&TV HD
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-#EXTINF:-1 tvg-id="953" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://www.historyindia.com/assets/images/history-HD.png",History TV18 HD 
+#EXTINF:-1 tvg-id="720" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://www.historyindia.com/assets/images/history-HD.png",History TV18 HD 
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 
 
