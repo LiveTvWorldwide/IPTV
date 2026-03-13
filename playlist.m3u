@@ -53,7 +53,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0528/master.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0388/master.m3u8
 #EXTINF:-1 tvg-id="321" group-title="Movies" tvg-language="Hindi" tvg-logo="https://www.ethnicchannels.com/images/channels/zee-cinema-final-2.jpg",Zee Cinema 
 http://iptvcasomsapi.jprdigital.in/x-media/C0517/master.m3u8
-#EXTINF:-1 tvg-id="321" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png",SONY TV HD
+#EXTINF:-1 tvg-id="128" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png",SONY TV HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0379/master.m3u8
 #EXTINF:-1 tvg-id="126" group-title="Movies" tvg-language="Hindi" tvg-logo="https://cdn.smartads.in/images/product/television/STAR-Gold.png",Star Gold
 http://iptvcasomsapi.jprdigital.in/x-media/C0389/master.m3u8
