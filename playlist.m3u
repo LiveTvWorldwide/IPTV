@@ -24,21 +24,19 @@ http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/3630
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/151863
 #EXTINF:-1 tvg-id="470" group-title="Sports" tvg-language="English" tvg-logo="https://dtil.tmsimg.com/assets/s159126_ld_h15_aa.png",Sony Ten 1 HD 
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/16622
-#EXTINF:-1 tvg-id="1056" group-title="Lifestyle" tvg-language="English" tvg-logo=" ", Asian Food Network 
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/298503
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="476" group-title="Movies" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png",Sony Max 
+#EXTINF:-1 tvg-id="289" group-title="Movies" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png",Sony Max 
 http://nocable.cc:8080/789588/114528/125814
 #EXTINF:-1 tvg-id="113" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",Sony Sab 
 http://nocable.cc:8080/789588/114528/125809
 #EXTINF:-1 tvg-id="1392" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://tvasiausa.com/wp-content/uploads/2023/08/TV_Asia_Logo_White_org.png",TV Asia 
 http://nocable.cc:8080/789588/114528/125819
-#EXTINF:-1 tvg-id="173" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158239_ld_h15_aa.png",Colors Rishtey 
+#EXTINF:-1 tvg-id="279" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158239_ld_h15_aa.png",Colors Rishtey 
 http://nocable.cc:8080/789588/114528/125806
 #EXTINF:-1 tvg-id="477" group-title="Movies" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png",Sony Max 2
 http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/125795
@@ -65,7 +63,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0389/master.m3u8
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="453" group-title="Sports" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png",DD Sports 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-id="114" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9m4_yYjW_19JBGvpxy0OQEEXzONPpIs0_2dZH4sNpwax4YeP6KbH84-QVLUuAac3LU3CNr5v1rqXxtjNTOcHmd4hshv3dxrjrlN9H9Ky7ufE32rvuSIHGdkF-sZbXxCJof5ni9gqmRjErbWicUKhNRdH2xPPePEFsNz8Aj6jaxkUCr7YBz04oRMQNsk/s320/1000096233.jpg",DD National HD
+#EXTINF:-1 tvg-id="202" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9m4_yYjW_19JBGvpxy0OQEEXzONPpIs0_2dZH4sNpwax4YeP6KbH84-QVLUuAac3LU3CNr5v1rqXxtjNTOcHmd4hshv3dxrjrlN9H9Ky7ufE32rvuSIHGdkF-sZbXxCJof5ni9gqmRjErbWicUKhNRdH2xPPePEFsNz8Aj6jaxkUCr7YBz04oRMQNsk/s320/1000096233.jpg",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-id="501" group-title="News" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158254_ld_h15_aa.png",DD News
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
@@ -80,7 +78,7 @@ https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg0
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="137" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png",&TV HD
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-#EXTINF:-1 tvg-id="578" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://www.historyindia.com/assets/images/history-HD.png",History TV18 HD 
+#EXTINF:-1 tvg-id="146" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://www.historyindia.com/assets/images/history-HD.png",History TV18 HD 
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 
 
@@ -96,9 +94,9 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="813" group-title="Music" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/E24-TV-Channel.jpg",E24 
 https://mumt04.tangotv.in/E24/index.m3u8
 
-#EXTINF:-1 tvg-id="822" group-title="Music" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music 
+#EXTINF:-1 tvg-id="183" group-title="Music" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music 
 https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8
-#EXTINF:-1 tvg-id="352" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies 
+#EXTINF:-1 tvg-id="182" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies 
 https://edge2.roarzone.info:8447/roarzone/edge3/b4u-movies-apac/index.m3u8
 
 
