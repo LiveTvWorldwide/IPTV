@@ -10,13 +10,13 @@ http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/82623
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/19741
 #EXTINF:-1 tvg-id="125" group-title="Kids" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png",Sony Yay 
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1355
-#EXTINF:-1 tvg-id="670" group-title="Kids" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png",Pogo 
+#EXTINF:-1 tvg-id="559" group-title="Kids" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png",Pogo 
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/192986
 #EXTINF:-1 tvg-id="811" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj11bCHU7u44ExYkkmyhUf3fCPNzcPCHlg6wfTV_GQFgBIpysMgCKvETIE0Cyc2c-79bMzstelRoeaw4Zl5Ow9t04WeTT5EUSH-7ZCOGY9StvfDHTKtBYSt-Y4OgwLPQFm5gyj_sf7Qqr4ck5RsSs_0fMP0U74kNNd4tIedlEfMmVL9L51iufgIIvtI01s/s320/45040.jpg",Nat Geo Wild HD 
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/49566
-#EXTINF:-1 tvg-id="766" group-title="Lifestyle" tvg-language="Hindi" tvg-logo=" ",TLC HD
+#EXTINF:-1 tvg-id="479" group-title="Lifestyle" tvg-language="Hindi" tvg-logo=" ",TLC HD
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/284213
-#EXTINF:-1 tvg-id="717" group-title="Infotainment" tvg-language="English" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png",Animal Planet 
+#EXTINF:-1 tvg-id="567" group-title="Infotainment" tvg-language="English" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png",Animal Planet 
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/144824
 #EXTINF:-1 tvg-id="455" group-title="Sports" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTegujQlTz4rLMCzlaC6JRXKeeQyogNeF0NnQKrUHnMt6XFVoylK28HcSCw5bV8fl2tLPFTzZeyu9mBZI2K40wZUbpMGbCbmHbZ5SrSGUn0WQb5qZQCc65Fpv6bV2-Nvenxz40dcb62vMpgXUGsKG7218JO3j4ODEZBAAtqMuI8oF5eyWRME3UrjzpJEE/s320/50952.jpg",Star Sports 1HD
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/3630
@@ -74,11 +74,11 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
 #EXTINF:-1 tvg-id="771" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_XP.png",Foodxp
 https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="164" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travel XP HD
+#EXTINF:-1 tvg-id="562" group-title="Lifestyle" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travel XP HD
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="137" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png",&TV HD
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-#EXTINF:-1 tvg-id="146" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://www.historyindia.com/assets/images/history-HD.png",History TV18 HD 
+#EXTINF:-1 tvg-id="578" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://www.historyindia.com/assets/images/history-HD.png",History TV18 HD 
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 
 
