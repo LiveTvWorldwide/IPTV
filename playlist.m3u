@@ -23,6 +23,8 @@ http://nocable.cc:8080/789588/114528/125814
 
 
 # 🎵 MUSIC 
+#EXTINF:-1 tvg-id="B4U.Music.uk" tvg-logo="http://b4utv.com/images/b4umusic_logo.png" group-title="🎵 Music",B4U Music • SG
+https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8
 
 
 
@@ -140,7 +142,7 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="813" group-title="Music" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/E24-TV-Channel.jpg",E24 
 https://mumt04.tangotv.in/E24/index.m3u8
 
-#EXTINF:-1 tvg-id="183" group-title="Music" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music 
+#EXTINF:-1 tvg-id="183" group-title="Music" tvg-language="Hindi" tvg-logo="http://b4utv.com/images/b4umusic_logo.png",B4U Music 
 https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8
 #EXTINF:-1 tvg-id="182" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies 
 https://edge2.roarzone.info:8447/roarzone/edge3/b4u-movies-apac/index.m3u8
