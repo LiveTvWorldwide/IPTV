@@ -4,8 +4,8 @@
 # 🎭 ENTERTAINMENT
 #EXTINF:-1 tvg-id="SONY.TV.HD.uk" tvg-logo="https://www.setindia.com/assests/images/logo.png" group-title="🎭 Entertainment",Sony • UK
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/281867
-
-
+#EXTINF:-1 tvg-id="and.TV.us2" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png" group-title="🎭 Entertainment",&TV HD • INT 
+https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 
 
 # 🎬 MOVIES 
@@ -47,6 +47,9 @@ http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/144824
 # ⚽ SPORTS
 #EXTINF:-1 tvg-id="DD.Sports.in" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png" group-title="⚽ Sports",DD Sports • IN
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+
+
 
 
 
