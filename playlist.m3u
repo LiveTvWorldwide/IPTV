@@ -1,4 +1,21 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+
+#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="logo.png" group-title="📰 News",Aaj Tak HD • IN
+http://stream-link1.m3u8
+
+#EXTINF:-1 tvg-id="Utsav.Plus.HD.uk" tvg-logo="logo.png" group-title="🎭 Entertainment",Utsav Plus HD • UK
+http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/60347
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="logo.png" group-title="📰 News",CNN • FHD
+http://stream-link3.m3u8
+
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-logo="logo.png" group-title="⚽ Sports",PTV Sports • HD
+http://stream-link4.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="734" group-title="Entertainment" tvg-language="English" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/logos/axn_0.png",AXN
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/162529
