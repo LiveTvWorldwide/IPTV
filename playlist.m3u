@@ -18,9 +18,9 @@ http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/60347
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/144824
 
 
-
-#EXTINF:-1 tvg-id="StarSports.HD" tvg-logo="logo.png" group-title="⚽ Sports",Star Sports HD
-http://example.com/stream5.m3u8
+# ⚽ SPORTS
+#EXTINF:-1 tvg-id="DD.Sports.in" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png" group-title="⚽ Sports",DD Sports • IN
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 
 
