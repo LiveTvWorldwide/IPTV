@@ -1,23 +1,27 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
+# 📰 NEWS
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/aajtak-logo-71X52.png" group-title="📰 News",Aaj Tak • IN
 https://feeds.intoday.in/aajtak/api/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Utsav.Plus.HD.uk" tvg-logo="logo.png" group-title="🎭 Entertainment",Utsav Plus HD • UK
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/60347
-
-
-
 
 #EXTINF:-1 tvg-id="Canal.CNN.Internacional.cl" tvg-logo="https://media.cnn.com/api/v1/images/stellar/prod/cnn-horizon-cnn-1920x1080-tiles-0808-20251014152758834.png" group-title="📰 News",CNN • INT
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="PTVSports.pk" tvg-logo="logo.png" group-title="⚽ Sports",PTV Sports • HD
-http://stream-link4.m3u8
+# 📺 ENTERTAINMENT
+#EXTINF:-1 tvg-id="Utsav.Plus.HD.uk" tvg-logo="logo.png" group-title="📺 Entertainment",Utsav Plus HD • UK
+http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/60347
+
+
+
+http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/144824
+
+
+
+# ⚽ SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="Sports Channel 1" group-title="⚽ Sports",DD Sports 
+http://yourstreamlink/sports1.m3u8
 
 
 
