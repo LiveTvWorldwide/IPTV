@@ -9,9 +9,16 @@ https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 
 
-# 📺 ENTERTAINMENT
-#EXTINF:-1 tvg-id="Utsav.Plus.HD.uk" tvg-logo="logo.png" group-title="📺 Entertainment",Utsav Plus HD • UK
+# 🎭 ENTERTAINMENT
+#EXTINF:-1 tvg-id="Utsav.Plus.HD.uk" tvg-logo="logo.png" group-title="🎭 Entertainment",Utsav Plus HD • UK
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/60347
+
+
+
+# 🎬 MOVIES 
+#EXTINF:-1 tvg-id="Utsav.Plus.HD.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLADB6Na8JIkkskcul0djLNLsmNMWhibpBTBfnbmBTDifMFjJdX-dS5qwtvUQS2eAGXViGRe15hhfNRtq1AM2iOoPdWRHL" group-title="🎬 Movies",Utsav Gold • UK
+http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/19741
+
 
 
 # 📚 KNOWLEDGE
