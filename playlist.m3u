@@ -19,9 +19,11 @@ http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/144824
 
 
 
-# ⚽ SPORTS
-#EXTINF:-1 tvg-id="" tvg-name="Sports Channel 1" group-title="⚽ Sports",DD Sports 
-http://yourstreamlink/sports1.m3u8
+#EXTINF:-1 tvg-id="StarSports.HD" tvg-logo="logo.png" group-title="⚽ Sports",Star Sports HD
+http://example.com/stream5.m3u8
+
+
+
 
 
 
