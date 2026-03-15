@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="logo.png" group-title="📰 News",Aaj Tak HD • IN
-http://stream-link1.m3u8
+#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/aajtak-logo-71X52.png" group-title="📰 News",Aaj Tak • IN
+https://feeds.intoday.in/aajtak/api/master.m3u8
 
 #EXTINF:-1 tvg-id="Utsav.Plus.HD.uk" tvg-logo="logo.png" group-title="🎭 Entertainment",Utsav Plus HD • UK
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/60347
