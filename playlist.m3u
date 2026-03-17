@@ -60,7 +60,7 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 # 📚 KNOWLEDGE
 #EXTINF:-1 tvg-id="Animal.Planet.ph" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png" group-title="📚 Knowledge", Animal Planet • PH
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/144824
-#EXTINF:-1 tvg-id="HISTORY.TV18.HD.in" tvg-logo="https://www.historyindia.com/assets/images/history-HD.png" group-title="📚 Knowledge", History TV18 HD • IN
+#EXTINF:-1 tvg-id="History.TV18.HD.Hindi.in" tvg-logo="https://www.historyindia.com/assets/images/history-HD.png" group-title="📚 Knowledge", History TV18 HD • IN
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 
 
