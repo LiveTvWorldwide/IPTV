@@ -41,6 +41,8 @@ https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d2f067kuhcp3tj.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="Zee.News.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png" group-title="📰 News",Zee News • IN
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+#EXTINF:-1 tvg-id="DD.News.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png" group-title="📰 News",DD News • IN
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 
 
 # 🧸 KIDS
