@@ -39,8 +39,8 @@ https://feeds.intoday.in/aajtak/api/master.m3u8
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 #EXTINF:-1 tvg-id="Wion.in" tvg-logo="https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png" group-title="📰 News",Wion • INT
 https://d2f067kuhcp3tj.cloudfront.net/index.m3u8
-
-
+#EXTINF:-1 tvg-id="Zee.News.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png" group-title="📰 News",Zee News • IN
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
 
 # 🧸 KIDS
@@ -177,21 +177,11 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg0
 
 
 
-#EXTINF:-1 tvg-id="151" group-title="Kids" tvg-language="Hindi" tvg-logo="https://i.ytimg.com/vi/aQMo3vWAYkg/maxresdefault.jpg",Boomerang 
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-
-
-#EXTINF:-1 tvg-id="816" group-title="Kids" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png",Cartoon Network 
-https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 
 
 #EXTINF:-1 tvg-id="813" group-title="Music" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/E24-TV-Channel.jpg",E24 
 https://mumt04.tangotv.in/E24/index.m3u8
 
-#EXTINF:-1 tvg-id="183" group-title="Music" tvg-language="Hindi" tvg-logo="http://b4utv.com/images/b4umusic_logo.png",B4U Music 
-https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8
-#EXTINF:-1 tvg-id="182" group-title="Movies" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies 
-https://edge2.roarzone.info:8447/roarzone/edge3/b4u-movies-apac/index.m3u8
 
 
 
