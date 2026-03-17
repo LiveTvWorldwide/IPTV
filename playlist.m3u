@@ -108,8 +108,6 @@ http://77.46.130.252:99/dorcel
 
 
 
-#EXTINF:-1 tvg-id="734" group-title="Entertainment" tvg-language="English" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/logos/axn_0.png",AXN
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/162529
 #EXTINF:-1 tvg-id="115" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6Ym1JEFNhHb9UgGk9ow1aAqoCz2h3PIHQkqoGUi8OnNGyOcTVFJiqJVdWJEpsr1zpPdjqNMuFIKIT6Dj2D_eLj5wjqyfp_BCFEB2g4PEynE8WcWC6bnxU6HWPRgdFQmO4n2hv6cuVxi9C8bijrZ9DjB9AT1cw7W6n_wXGxOLdSVLLVuSkLJ3zF-ML_K0/s320/Picsart_24-09-21_14-11-21-290.jpg",Star Plus 
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/60347
 #EXTINF:-1 tvg-id="308" group-title="Movies" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLADB6Na8JIkkskcul0djLNLsmNMWhibpBTBfnbmBTDifMFjJdX-dS5qwtvUQS2eAGXViGRe15hhfNRtq1AM2iOoPdWRHL8N3-YKohfj5Ny0fR5T8cebHzUUDs6nsH8ZBXc_9yumu4QK3IlSvOBJrmi4_QugANBJwzd0IpU1lNXnVqevdwzsbtdPd3pKM/s320/Picsart_24-09-21_14-28-08-162.jpg",Ustav Gold
@@ -122,10 +120,6 @@ http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/1355
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/192986
 #EXTINF:-1 tvg-id="811" group-title="Infotainment" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj11bCHU7u44ExYkkmyhUf3fCPNzcPCHlg6wfTV_GQFgBIpysMgCKvETIE0Cyc2c-79bMzstelRoeaw4Zl5Ow9t04WeTT5EUSH-7ZCOGY9StvfDHTKtBYSt-Y4OgwLPQFm5gyj_sf7Qqr4ck5RsSs_0fMP0U74kNNd4tIedlEfMmVL9L51iufgIIvtI01s/s320/45040.jpg",Nat Geo Wild HD 
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/49566
-#EXTINF:-1 tvg-id="479" group-title="Lifestyle" tvg-language="Hindi" tvg-logo=" ",TLC HD
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/284213
-#EXTINF:-1 tvg-id="567" group-title="Infotainment" tvg-language="English" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png",Animal Planet 
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/144824
 #EXTINF:-1 tvg-id="455" group-title="Sports" tvg-language="Hindi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTegujQlTz4rLMCzlaC6JRXKeeQyogNeF0NnQKrUHnMt6XFVoylK28HcSCw5bV8fl2tLPFTzZeyu9mBZI2K40wZUbpMGbCbmHbZ5SrSGUn0WQb5qZQCc65Fpv6bV2-Nvenxz40dcb62vMpgXUGsKG7218JO3j4ODEZBAAtqMuI8oF5eyWRME3UrjzpJEE/s320/50952.jpg",Star Sports 1HD
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/3630
 #EXTINF:-1 tvg-id="473" group-title="Sports" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png",Ten Sports HD
@@ -140,22 +134,14 @@ http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/16622
 
 
 
-#EXTINF:-1 tvg-id="813" group-title="Music" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/E24-TV-Channel.jpg",E24 
-https://mumt04.tangotv.in/E24/index.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="" group-title="Adult" tvg-language="English" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN-XT6BIFFJjxgaxmsvQCutK6HHMaV5CiOWn_eGrhkKoptPXPUSnXsVmOuW7FyxOZOUyRv8AmcecavbVw3DtQ2fGgiUlBgNlXxrtdlxphgmfrhT7XBC7MSIWv06Klx7Nw_nqOkqMOzXNFl7_bH3rdqthgJJKpKJZ_CjLSGoJIXCmkzyM7M6UKSQY29YBE/s320/45028.jpg",Private 
-http://pl.online24.pm/play/793/623939143BE8A4B/video.m3u8
 #EXTINF:-1 tvg-id="" group-title="Adult" tvg-language="English"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW5UFzjp_qpyYNN4iz7j5FJvR42fSntDvRkRNTr0GSW-b1ESXc9F6clLR1b3y4vIltGV1unTjgzyUQJ8RQBzWC0r0fJ8btpQK9nSmAIp-KLkvagJDVWzCD_-MG0Lf57iKZWyINDmNZDnsGQaucyVCrgLr9fSRLpab2BYlUe2MV9lnZj7tGryTtApaaaGs/s200/45017.png",Eroluxe Gays
 http://u.vipl.one/high/hc6s5fzmde/1691.m3u8
 #EXTINF:-1 tvg-id="" group-title="Adult" tvg-language="English"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq12uiPVBA2f0Ut3S0SAvb1mOSmchgZbVo6M3FMj9KCHK6bR8NfS4etLrzcEbWdD9slqpyUEJPYpbYCs3zW8QfWEwOZamN415nesQVfH8Nz_bKZzelcuBIkEDHcUiuFC1dhT3XII-gYfr2iZFTaI3PznZGOzHUpRw5w_x2HmEpMfj04pSIy_Ep0cvzLUQ/s1600/45025.png",Eroluxe Blowjob
 http://u.vipl.one/high/hc6s5fzmde/1687.m3u8
 #EXTINF:-1 tvg-id="" group-title="Adult" tvg-language="English" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9XZRLlCZr_OxkU_4i7nwvXcZYQkGfyNIeaTwXjgZ9t8FhS1co3a60arpdsG-WSBrUqzWJang8QhPxZsZ89HLCbnDG061hYklMgx6pVeVeqbTX0_RIt258l5ys05jSsjF7ZkLbbF_NtbiScmXa3gsmlPrnjgKoUQLHeZzj04uTrSDCmRda22a6tANRHag/s1600/45026.png",Eroluxe Orgy
 http://u.vipl.one/high/hc6s5fzmde/1699.m3u8
-#EXTINF:-1 tvg-id="" group-title="Adult" tvg-language="English" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/Venus-tv-logo.png",Venus
-http://www.1play.cool:25461/ULtR63183811dd/kquFuCz3EpNa/134331
 #EXTINF:-1 tvg-id="" group-title="Adult" tvg-language="English" tvg-logo=" ", Legal Prono
 http://162.19.227.109/716/manifest.m3u8?token=Cdb904d80a
 #EXTINF:-1 tvg-id="" group-title="Adult" tvg-language="English" tvg-logo=" ",Gay TV HD
