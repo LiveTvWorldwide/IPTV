@@ -45,6 +45,8 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 
 
+
+
 # 🧸 KIDS
 #EXTINF:-1 tvg-id="Cartoon.Network.Hindi.in" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="🧸 Kids",Cartoon Network • IN
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
@@ -55,12 +57,10 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 
 
-
-
 # 📚 KNOWLEDGE
 #EXTINF:-1 tvg-id="Animal.Planet.ph" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png" group-title="📚 Knowledge", Animal Planet • PH
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/144824
-#EXTINF:-1 tvg-id="HISTORY.TV18.HD.in" tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white.png" group-title="📚 Knowledge", History TV18 HD • IN
+#EXTINF:-1 tvg-id="HISTORY.TV18.HD.in" tvg-logo="https://www.historyindia.com/assets/images/history-HD.png" group-title="📚 Knowledge", History TV18 HD • IN
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 
 
@@ -70,8 +70,6 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg0
 # ⚽ SPORTS
 #EXTINF:-1 tvg-id="DD.Sports.in" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png" group-title="⚽ Sports",DD Sports • IN
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-
-
 
 
 
