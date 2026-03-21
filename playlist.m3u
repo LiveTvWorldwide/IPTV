@@ -41,7 +41,8 @@ http://103.99.249.139/stargold/index.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:-1 tvg-id="ZOOM.in" tvg-logo="https://www.zoomtventertainment.com/assets/icons/svg/zoom.png" group-title="🎵 Music",Zoom • IN
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-
+#EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" group-title="🎵 Music",9xm • IN
+https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
 
 
 # 📰 NEWS
