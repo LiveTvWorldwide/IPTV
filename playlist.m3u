@@ -47,7 +47,7 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 # 📰 NEWS
 #EXTINF:-1 tvg-id="AAJ.TAK.in" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-126x55.png" group-title="📰 News",Aaj Tak HD • IN
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-id="Canal.CNN.Internacional.cl" tvg-logo="https://media.cnn.com/api/v1/images/stellar/prod/cnn-horizon-cnn-1920x1080-tiles-0808-20251014152758834.png" group-title="📰 News",CNN • INT
+#EXTINF:-1 tvg-id="Canal.CNN.Internacional.cl" tvg-logo="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png" group-title="📰 News",CNN • INT
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 #EXTINF:-1 tvg-id="Wion.in" tvg-logo="https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png" group-title="📰 News",Wion • INT
 https://d2f067kuhcp3tj.cloudfront.net/index.m3u8
