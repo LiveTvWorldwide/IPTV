@@ -41,7 +41,7 @@ http://103.99.249.139/stargold/index.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:-1 tvg-id="ZOOM.in" tvg-logo="https://www.zoomtventertainment.com/assets/icons/svg/zoom.png" group-title="🎵 Music",Zoom • IN
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" group-title="🎵 Music",9xm • IN
+#EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" group-title="🎵 Music",9XM • IN
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
 
 
@@ -63,7 +63,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/in
 https://mediacorp-nca-prod-videos-bclive.akamaized.net/6379472319112/ap-southeast-1/6057994443001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGE2ODB1LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjA1Nzk5NDQ0MzAwMSIsImVobiI6Im1lZGlhY29ycC1uY2EtcHJvZC12aWRlb3MtYmNsaXZlLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYwNTc5OTQ0NDMwMDEiXSwianRpIjoiNjM3OTQ3MjMxOTExMiJ9.Cw77amOc6efNO32Sw9nD0SOhjQUc5ewKN8ZWJOPt15Y/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="Channel.News.Asia.International.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil05_Cm8HoXfhyphenhypheniRmiFA3L1A5yMPA8FekVm3-2Wg3vVwjwH05hKMDuvMCmBX73DcfHcVxL9v-m8AwJ0vXyJWPdWSQxr0OUMmRU6Ah8_j9n2CBWzuTdY_qs9-pLF0_q5UheOL6NaaRkdckBoJv2GtpJQgy119Rn8HXF8vrV5K8J2vaWykATPAaVhrRTSJc/s320/55907.jpg" group-title="📰 News",BBC News • INT
 https://4fb3f38a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQkJDTmV3cy0xX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel.News.Asia.International.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil05_Cm8HoXfhyphenhypheniRmiFA3L1A5yMPA8FekVm3-2Wg3vVwjwH05hKMDuvMCmBX73DcfHcVxL9v-m8AwJ0vXyJWPdWSQxr0OUMmRU6Ah8_j9n2CBWzuTdY_qs9-pLF0_q5UheOL6NaaRkdckBoJv2GtpJQgy119Rn8HXF8vrV5K8J2vaWykATPAaVhrRTSJc/s320/55907.jpg" group-title="📰 News",Al Jazeera • INT
+#EXTINF:-1 tvg-id="Channel.News.Asia.International.in" tvg-logo="https://i.imgur.com/jzlVxJM.gif"  group-title="📰 News",Al Jazeera • INT
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 
 
