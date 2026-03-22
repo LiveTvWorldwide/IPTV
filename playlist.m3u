@@ -67,8 +67,8 @@ https://4fb3f38a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQk
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-id="CGTN.(CN,EN).no" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH375xiJBEXyI5Kf5Hkb_-jD98ECE_1_3VXk6IOKdDxI7OBxRhfEIhG3FaBXPVwwaO6vQP2g5yUIvxm3Gou5xP0tXH975ZAZoNGmk0xOCxVab3yH6wuqKwGJ0ZdrPjAg8LINQCMOk9L8_sSlSWM4tUjdKPYMSQ94sBLQ3dVbvda6_PQSCZEKnKyyiif_M/s800/55922.jpg"  group-title="📰 News",CGTN • NO
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
-
-
+#EXTINF:-1 tvg-id="Republic.Bharat.in" tvg-logo="https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png"  group-title="📰 News",Republic Bharat • IN
+https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,news-hls.m3u8
 
 
 # 🧸 KIDS
