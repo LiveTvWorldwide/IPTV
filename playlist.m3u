@@ -38,7 +38,7 @@ http://103.99.249.139/stargold/index.m3u8
 
 # 🎵 MUSIC 
 #EXTINF:-1 tvg-id="B4U.Music.in" tvg-logo="http://b4utv.com/images/b4umusic_logo.png" group-title="🎵 Music",B4U Music • IN
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+http://103.213.31.109:90/B4UMusic/playlist.m3u8
 #EXTINF:-1 tvg-id="ZOOM.in" tvg-logo="https://www.zoomtventertainment.com/assets/icons/svg/zoom.png" group-title="🎵 Music",Zoom • IN
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" group-title="🎵 Music",9XM • IN
