@@ -13,6 +13,8 @@ http://nocable.cc:8080/789588/114528/125809
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 #EXTINF:-1 tvg-id="DD.National.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9m4_yYjW_19JBGvpxy0OQEEXzONPpIs0_2dZH4sNpwax4YeP6KbH84-QVLUuAac3LU3CNr5v1rqXxtjNTOcHmd4hshv3dxrjrlN9H9Ky7ufE32rvuSIHGdkF-sZbXxCJof5ni9gqmRjErbWicUKhNRdH2xPPePEFsNz8Aj6jaxkUCr7YBz04oRMQNsk/s320/1000096233.jpg" group-title="🎭 Entertainment",DD National HD • IN
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-id="DD.bharati.in" tvg-logo="https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png" group-title="🎭 Entertainment",DD Bharati • IN
+http://103.213.31.109:90/DDBharati/playlist.m3u8
 #EXTINF:-1 tvg-id="DANGAL.in" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png" group-title="🎭 Entertainment",Dangal • IN
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="SET.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png" group-title="🎭 Entertainment",Sony TV HD • IN
@@ -120,8 +122,7 @@ https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00
 http://nocable.cc:8080/789588/114528/125807
 #EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/1280px-TLC-Logo_2016.svg.png" group-title="🏡 Lifestyle",TLC HD • AR
 http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/284213
-#EXTINF:-1 tvg-id="DD.bharati.in" tvg-logo="https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png" group-title="🏡 Lifestyle",DD Bharati • IN
-http://103.213.31.109:90/DDBharati/playlist.m3u8
+
 
 
 
