@@ -21,6 +21,9 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 http://116.90.120.151:8000/play/a0gp/index.m3u8
 #EXTINF:-1 tvg-id="Star.Bharat.in" tvg-logo="https://cdn.smartads.in/images/product/television/Star-Bharat.png" group-title="🎭 Entertainment",Star Bharat • IN
 http://116.90.120.151:8000/play/a0h2/index.m3u8
+#EXTINF:-1 tvg-id="Star.Bharat.in" tvg-logo="https://tv-asia.keylines.net.in/wp-content/uploads/2023/08/TV_Asia_Logo_White_org.png" group-title="🎭 Entertainment",TV Asia • US
+http://tvscreen.icu:8080/3D7Qnm/742180/125819
+
 
 
 
