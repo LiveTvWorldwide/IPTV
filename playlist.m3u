@@ -2,9 +2,9 @@
 
 # 🎭 ENTERTAINMENT
 
-#EXTINF:-1 tvg-id="ATN.Colors.Rishtey.dk" tvg-logo="https://dtil.tmsimg.com/assets/s158239_ld_h15_aa.png" group-title="🎭 Entertainment",Colors Rishtey • DK
+#EXTINF:-1 tvg-id="ATN.Colors.Rishtey.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158239_ld_h15_aa.png" group-title="🎭 Entertainment",Colors Rishtey • CA
 http://nocable.cc:8080/789588/114528/125806
-#EXTINF:-1 tvg-id="ATN.SAB.TV.dk" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • DK
+#EXTINF:-1 tvg-id="ATN.SAB.TV.ca" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • CA
 http://nocable.cc:8080/789588/114528/125809
 #EXTINF:-1 tvg-id="and.TV.us2" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png" group-title="🎭 Entertainment",&TV HD • UK 
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
@@ -113,9 +113,8 @@ https://aps11.playlist.live-video.net/v1/playlist/CrgFEs43onzaRNYzfvV7UgPJtfvvOT
 https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="Travelxp.HD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="🏡 Lifestyle",TravelXP HD • UK
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="ATN.Food.Food.dk" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/food-food-tv-black.png" group-title="🏡 Lifestyle",Food Food • DK
+#EXTINF:-1 tvg-id="ATN.Food.Food.ca" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/food-food-tv-black.png" group-title="🏡 Lifestyle",Food Food • CA
 http://nocable.cc:8080/789588/114528/125807
-
 
 
 
@@ -125,7 +124,7 @@ http://nocable.cc:8080/789588/114528/125807
 # 🛐 Religion
 #EXTINF:-1 tvg-id="Sanskar.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8sLIvwGycgnYdURJ7WyBC0K6gFiwaiavL58k0OMQ7In_kuIKgpbKWxU8ABVVGGluYffa6c8vfKWENFuKdsl0iLBWL4shPb5wKfQfdrf4bNwbfmZQcefAvotQFX9v7dVJGekOa79Po1dDi4yE7s1V9eyv77pjkVTTnPP13UX1JlOeAv3RBZJbGzHPnt0I/s320/55958.jpg"  group-title="🛐 Religion",Sanskar HD • UK
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
-#EXTINF:-1 tvg-id="ATN.Aastha.dk" tvg-logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png"  group-title="🛐 Religion",Aastha • US
+#EXTINF:-1 tvg-id="ATN.Aastha.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png"  group-title="🛐 Religion",Aastha • CA
 https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8
 
 
