@@ -14,10 +14,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 http://103.213.31.109:90/DDBharati/playlist.m3u8
 #EXTINF:-1 tvg-id="DANGAL.in" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png" group-title="🎭 Entertainment",Dangal • IN
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="SET.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png" group-title="🎭 Entertainment",Sony TV HD • IN
-http://116.90.120.151:8000/play/a0gp/index.m3u8
-#EXTINF:-1 tvg-id="Star.Bharat.in" tvg-logo="https://cdn.smartads.in/images/product/television/Star-Bharat.png" group-title="🎭 Entertainment",Star Bharat • IN
-http://116.90.120.151:8000/play/a0h2/index.m3u8
 #EXTINF:-1 tvg-id="TV.Asia.Powered.by.Shemaroo.in" tvg-logo="https://tv-asia.keylines.net.in/wp-content/uploads/2023/08/TV_Asia_Logo_White_org.png" group-title="🎭 Entertainment",TV Asia • US
 http://tvscreen.icu:8080/3D7Qnm/742180/125819
 
@@ -30,10 +26,6 @@ http://tvscreen.icu:8080/3D7Qnm/742180/125819
 http://nocable.cc:8080/789588/114528/125814
 #EXTINF:-1 tvg-id="B4u.Movies.Tv.Channel.Today.Movies.in2" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png" group-title="🎬 Movies",B4U Movies • IN
 https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="Zee.Cinema.Hd.Tv.Channel.Today.in2" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png" group-title="🎬 Movies",Zee Cinema HD • IN
-http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:-1 tvg-id="Star.Gold.Tv.Channel.Today.in2" tvg-logo="https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png" group-title="🎬 Movies",Star Gold HD • IN
-http://103.99.249.139/stargold/index.m3u8
 #EXTINF:-1 tvg-id="Zee.Bollywood.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png" group-title="🎬 Movies",Zee Bollywood • IN
 http://212.102.34.8:9080/ZeeBollywood/index.m3u8
 #EXTINF:-1 tvg-id="SONY.MAX.2.uk" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • US
