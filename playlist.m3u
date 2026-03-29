@@ -39,6 +39,10 @@ http://103.99.249.139/zeecinema/index.m3u8
 http://103.99.249.139/stargold/index.m3u8
 #EXTINF:-1 tvg-id="Zee.Bollywood.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png" group-title="🎬 Movies",Zee Bollywood • IN
 http://212.102.34.8:9080/ZeeBollywood/index.m3u8
+#EXTINF:-1 tvg-id="Zee.Bollywood.in" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • US
+http://fortv.cc:8080/96019003/96019003/125795
+
+
 
 
 
