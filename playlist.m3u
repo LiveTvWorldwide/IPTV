@@ -16,6 +16,8 @@ http://103.213.31.109:90/DDBharati/playlist.m3u8
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV.Asia.Powered.by.Shemaroo.in" tvg-logo="https://tv-asia.keylines.net.in/wp-content/uploads/2023/08/TV_Asia_Logo_White_org.png" group-title="🎭 Entertainment",TV Asia • US
 http://tvscreen.icu:8080/3D7Qnm/742180/125819
+#EXTINF:-1 tvg-id="Utsav.Plus.HD.uk" tvg-logo="https://tv-asia.keylines.net.in/wp-content/uploads/2023/08/TV_Asia_Logo_White_org.png" group-title="🎭 Entertainment",Utsav Plus HD • UK
+http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/60347
 
 
 
