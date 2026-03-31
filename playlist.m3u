@@ -72,6 +72,8 @@ https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,news-h
 https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8
 #EXTINF:-1 tvg-id="DD.India.in" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png"  group-title="📰 News",DD India • IN
 https://test-yupptv.cachefly.net/120723/smil:ddindiahd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ABP.News.India.in" tvg-logo="https://static.vidgyor.com/player/account/abp/img/ABP-Hindi.png"  group-title="📰 News",ABP News • IN
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 
 
 
