@@ -151,8 +151,8 @@ http://ru.iptv.monster/play/8074/manifest.m3u8?token=623939143BE8A4B
 http://goldtv.lat:80//live/Trento276/hTXB5kHvQfzu/316894.ts
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="🔞 Adult",Royalangel • US
 http://goldtv.lat:80//live/Trento276/hTXB5kHvQfzu/316897.ts
-
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://extasy.tv/img/extasy-logo-pro-web.png" group-title="🔞 Adult",Extasy TV • US
+http://dns.fontedecanais.com.br:80//live/playercodestv/947942/2263.ts
 
 
 
