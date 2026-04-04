@@ -84,8 +84,8 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="Boomerang.F.ch" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/36/2025/03/27192107/Boomerang-logo-2.png" group-title="🧸 Kids",Boomerang • CH
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-
-
+#EXTINF:-1 tvg-id="Boomerang.F.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/500px-2014_Disney_Channel_logo.svg.png" group-title="🧸 Kids",Disney Channel• IN
+http://ajkiptv.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
 
 
 
