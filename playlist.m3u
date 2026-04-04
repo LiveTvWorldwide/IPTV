@@ -76,7 +76,7 @@ https://test-yupptv.cachefly.net/120723/smil:ddindiahd.smil/playlist.m3u8
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 #EXTINF:-1 tvg-id="TRT.WORLD.HD.tr" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/02/01/thumbs_b_c_9eee6cf0c00ca6f933fb24533f934197.jpg"  group-title="📰 News",TRT World • INT
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ATN.Times.Now.ca" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/02/01/thumbs_b_c_9eee6cf0c00ca6f933fb24533f934197.jpg"  group-title="📰 News",Times Now • CA
+#EXTINF:-1 tvg-id="ATN.Times.Now.ca" tvg-logo="https://dtil.tmsimg.com/assets/s144006_ld_h15_aa.png"  group-title="📰 News",Times Now • CA
 http://nocable.cc:8080/789588/114528/125817
 
 
