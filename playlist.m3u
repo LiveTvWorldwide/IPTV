@@ -74,7 +74,8 @@ https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8
 https://test-yupptv.cachefly.net/120723/smil:ddindiahd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ABP.News.India.in" tvg-logo="https://static.vidgyor.com/player/account/abp/img/ABP-Hindi.png"  group-title="📰 News",ABP News • IN
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-
+#EXTINF:-1 tvg-id="DD.India.in" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/02/01/thumbs_b_c_9eee6cf0c00ca6f933fb24533f934197.jpg"  group-title="📰 News",TRT World • INT
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 
 
@@ -111,7 +112,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 
 # 🏡 LIFESTYLE
-#EXTINF:-1 tvg-id="FoodXP.uk" tvg-logo="https://www.foodxp.com/images/foodxplogo.png" group-title="🏡 Lifestyle",FoodXP • UK
+#EXTINF:-1 tvg-id="Foodxp.uk" tvg-logo="https://www.foodxp.com/images/foodxplogo.png" group-title="🏡 Lifestyle",FoodXP • UK
 https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="Travelxp.HD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="🏡 Lifestyle",TravelXP HD • UK
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
