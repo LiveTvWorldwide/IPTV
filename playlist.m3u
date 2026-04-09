@@ -6,6 +6,8 @@
 http://nocable.cc:8080/789588/114528/125806
 #EXTINF:-1 tvg-id="ATN.SAB.TV.ca" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • CA
 http://nocable.cc:8080/789588/114528/125809
+#EXTINF:-1 tvg-id="TV.Asia.Powered.by.Shemaroo.in" tvg-logo="https://tv-asia.keylines.net.in/wp-content/uploads/2023/08/TV_Asia_Logo_White_org.png" group-title="🎭 Entertainment",TV Asia • US
+http://tvscreen.icu:8080/3D7Qnm/742180/125819
 #EXTINF:-1 tvg-id="ATN.Sahara.One.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sahara_One.webp/500px-Sahara_One.webp.png" group-title="🎭 Entertainment",Sahara One • CA
 http://206.212.244.71:8080/5Xchzg/411017/125812
 #EXTINF:-1 tvg-id="and.TV.us2" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png" group-title="🎭 Entertainment",&TV HD • UK 
@@ -16,8 +18,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 http://103.213.31.109:90/DDBharati/playlist.m3u8
 #EXTINF:-1 tvg-id="DANGAL.in" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png" group-title="🎭 Entertainment",Dangal • IN
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="TV.Asia.Powered.by.Shemaroo.in" tvg-logo="https://tv-asia.keylines.net.in/wp-content/uploads/2023/08/TV_Asia_Logo_White_org.png" group-title="🎭 Entertainment",TV Asia • US
-http://tvscreen.icu:8080/3D7Qnm/742180/125819
 #EXTINF:-1 tvg-id="Utsav.Plus.HD.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsyfij7g1UHYwPAquvocUt7ZKJoPN1ykUCkV0qMNIBZ-9J77pVN5lcdbUYKc5_FTCvP1PMFmbdBh1gdYnoogBXL_HKHkurZLdH0p3P3rUMB3iUM1mr3ykf03PBQBAxB5hBbkztXLHBGU6APaK5lJYKxyfh6XVpj29CoGGMcf-QekQTC7CYWwVao6-CFEU/s320/54352.jpg" group-title="🎭 Entertainment",Utsav Plus HD • UK
 http://195.128.27.185:80/Juice11/5566651/709461
 #EXTINF:-1 tvg-id="Zee.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/1280px-Zee_TV_2025.svg.png" group-title="🎭 Entertainment",Zee TV • US
