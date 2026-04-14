@@ -18,8 +18,6 @@ https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 http://103.213.31.109:90/DDBharati/playlist.m3u8
 #EXTINF:-1 tvg-id="DANGAL.in" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png" group-title="🎭 Entertainment",Dangal • IN
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_TV_2025.svg/1280px-Zee_TV_2025.svg.png" group-title="🎭 Entertainment",Zee TV • US
-http://31.43.191.125:8080/VIP013371748882788474/954e9959e510/7407
 #EXTINF:-1 tvg-id="SONY.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • UK
 http://195.128.27.185:80/Juice11/5566651/276627
 #EXTINF:-1 tvg-id="Utsav.Bharat.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQFPmm1UzgxJ86HcqDdQHuAYJHBsd5Q6QrHVRFbpX4pP0WJ2lu8IfrSRLcAy4ZiPwpF-KporCbfhTFjeDY4-Reevqw6nx1AOimblNrD8Xerae8RXaDkN8pAbWzEAIbDG2JYCAPAps1x3gSBbj4ZkQ1Abl29maNlOoa7n26qffsmlsg2xe9dStneg7QNRk/s320/Picsart_24-10-13_11-28-44-341.jpg"  group-title="🎭 Entertainment",Utsav Bharat • UK
@@ -126,10 +124,6 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg0
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 tvg-id="Discovery.Asia.hk" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="📚 Knowledge",Discovery Asia • SG
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 tvg-id="Animal.Planet.(HD).sg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJhOzgvWYpicswNc7xIRziG7dyHmUOdBHu5RIbkFHTJWQRebscLDq-2gtFqiaCi0XN2jiS37d0YNnNJ90HI08PbGNryVtU6lR1icwgksgU9xNY8kClhTTFStSvrnkCMpGQ8O786V2Dc4EWtKLVJtjiMgqxc9quGPfsNXUx159y4GqXyEJZxVkFM1ozjoY/s720/62579.png" group-title="📚 Knowledge",Animal Planet • PH
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/144824
-#EXTINF:-1 tvg-id="Nat.Geo.Wild.nl" tvg-logo="https://i.pinimg.com/736x/aa/e3/8b/aae38b594cac1bb03aeb943463181e6b.jpg" group-title="📚 Knowledge",Nat Geo Wild • NL
-http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/2475
 
 
 
@@ -138,7 +132,7 @@ http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/2475
 #EXTINF:-1 tvg-id="DD.Sports.in" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png" group-title="⚽ Sports",DD Sports • IN
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="STAR.SPORTS.1.HINDI.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/6729ddc245ff04393d8187db/images/LANDSCAPE_169/LANDSCAPE_169_ltxN6mi9I_STAR-SPORTS-1-HINDI.png" group-title="⚽ Sports",Star Sports 1 • IN
-http://103.157.248.140:8000/play/a00g/index.m3u8
+
 
 
 # 🏡 LIFESTYLE
@@ -169,10 +163,6 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8
 # 🔞 ADULT 
 #EXTINF:-1 tvg-id="Private.TV.hu" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN-XT6BIFFJjxgaxmsvQCutK6HHMaV5CiOWn_eGrhkKoptPXPUSnXsVmOuW7FyxOZOUyRv8AmcecavbVw3DtQ2fGgiUlBgNlXxrtdlxphgmfrhT7XBC7MSIWv06Klx7Nw_nqOkqMOzXNFl7_bH3rdqthgJJKpKJZ_CjLSGoJIXCmkzyM7M6UKSQY29YBE/s320/45028.jpg" group-title="🔞 Adult",Private TV • HU
 http://pl.online24.pm/play/793/623939143BE8A4B/video.m3u8
-#EXTINF:-1 tvg-id="[VNUS].Venus.uy" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/Venus-tv-logo.png" group-title="🔞 Adult",Venus • HU
-http://www.1play.cool:25461/ULtR63183811dd/kquFuCz3EpNa/134331
-#EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Sextreme_logo.png" group-title="🔞 Adult",SexTreme • US
-http://www.1play.cool:60001/ULtR63183811dd/kquFuCz3EpNa/134323
 #EXTINF:-1 tvg-id="DorcelTV.lu" tvg-logo="https://ga.dorcel.com/resources/d-header-logo-dorceltv-strait/1638277978.png" group-title="🔞 Adult",DorcelTV • LU
 http://77.46.130.252:99/dorcel
 #EXTINF:-1 tvg-id="Dorcel.XXX.cz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8g0kue5GL0qFK63yzzVkHMfNx51dv8GMOf4dbXz2X5w4hjhIoz7dDVasrLDj5QY0jGzqwoOmVqJS85dbi0I1uonNPF6D7iUUI1KIR-ctGCnM8FQOLSdpOas4aCdia6Sa2BUhfcu6Bfkahv-PXeZbjqkAbayunmPxvbIagURafHUkqxRa4WD-smi2lmZM/s320/48575.jpg" group-title="🔞 Adult",LegalPorno • US
