@@ -16,6 +16,8 @@ https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 http://103.213.31.109:90/DDBharati/playlist.m3u8
 #EXTINF:-1 tvg-id="DANGAL.in" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png" group-title="🎭 Entertainment",Dangal • IN
 http://103.213.31.109:90/Dangal/playlist.m3u8
+#EXTINF:-1 tvg-id="Zee.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png" group-title="🎭 Entertainment",Zee TV HD • UK
+http://41.223.30.230/ZEETV/index.m3u8
 #EXTINF:-1 tvg-id="SONY.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • UK
 http://195.128.27.185:80/Juice11/5566651/276627
 #EXTINF:-1 tvg-id="Utsav.Bharat.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQFPmm1UzgxJ86HcqDdQHuAYJHBsd5Q6QrHVRFbpX4pP0WJ2lu8IfrSRLcAy4ZiPwpF-KporCbfhTFjeDY4-Reevqw6nx1AOimblNrD8Xerae8RXaDkN8pAbWzEAIbDG2JYCAPAps1x3gSBbj4ZkQ1Abl29maNlOoa7n26qffsmlsg2xe9dStneg7QNRk/s320/Picsart_24-10-13_11-28-44-341.jpg"  group-title="🎭 Entertainment",Utsav Bharat • UK
@@ -24,8 +26,6 @@ http://195.128.27.185:80/Juice11/5566651/689947
 http://195.128.27.185:80/Juice11/5566651/709461
 #EXTINF:-1 tvg-id="Zee.TV.HD.USA.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png" group-title="🎭 Entertainment",Zee TV HD • CAR
 http://195.128.27.185:80/Juice11/5566651/303470
-#EXTINF:-1 tvg-id="Zee.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png" group-title="🎭 Entertainment",Zee TV HD • UK
-http://195.128.27.185:80/Juice11/5566651/694069
 #EXTINF:-1 tvg-id="COLORS.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158144_ld_h15_aa.png"  group-title="🎭 Entertainment",Colors • UK
 http://195.128.27.185:80/Juice11/5566651/709697
 #EXTINF:-1 tvg-id="ATN.Star.Plus.ca2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPRjzVWC79PC_d0-E6rqzCEgPE0WpTUX0Y94d_8MZuHVYEYuz8PWTAfPk5yLbULzC3tUz-Ot3HRnmxS1E04m12_ZEwYSZd3rEwPlYBFetP20vKC647-NXJV6G_n0fSe3H64ON4sqGlrqr8Zv1SmHWm6zy0zNTynO03GZAu_MixRZVi28ObErrmL11GYFE/s1085/Picsart_24-11-04_18-16-52-420.jpg"  group-title="🎭 Entertainment",Star Plus • CAR
