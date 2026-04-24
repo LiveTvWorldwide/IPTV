@@ -4,8 +4,6 @@
 
 #EXTINF:-1 tvg-id="ATN.Colors.Rishtey.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158239_ld_h15_aa.png" group-title="🎭 Entertainment",Colors Rishtey • CA
 http://nocable.cc:8080/789588/114528/125806
-#EXTINF:-1 tvg-id="ATN.SAB.TV.ca" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • CA
-http://nocable.cc:8080/789588/114528/125809
 #EXTINF:-1 tvg-id="TV.Asia.Powered.by.Shemaroo.in" tvg-logo="https://tv-asia.keylines.net.in/wp-content/uploads/2023/08/TV_Asia_Logo_White_org.png" group-title="🎭 Entertainment",TV Asia • US
 http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/125819
 #EXTINF:-1 tvg-id="ATN.Sahara.One.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sahara_One.webp/500px-Sahara_One.webp.png" group-title="🎭 Entertainment",Sahara One • CA
@@ -36,8 +34,10 @@ http://195.128.27.185:80/Juice11/5566651/694090
 http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/507237
 #EXTINF:-1 tvg-id="Zee.TV.Canada.ca2" tvg-logo="https://dtil.tmsimg.com/assets/s158144_ld_h15_aa.png"  group-title="🎭 Entertainment",ZeeTV Canada • CA
 http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/966525
-
-
+#EXTINF:-1 tvg-id="SONY.SAB.uk" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • UK
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/364031
+#EXTINF:-1 tvg-id="ATN.SAB.TV.ca" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • CA
+http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1015802
 
 
 
