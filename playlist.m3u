@@ -14,6 +14,8 @@ https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 https://mumbai-edge.smartplaytv.in/DDBharathi/index.m3u8
 #EXTINF:-1 tvg-id="DANGAL.in" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png" group-title="🎭 Entertainment",Dangal • IN
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="🎭 Entertainment",&TV HD • US
+https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png" group-title="🎭 Entertainment",Zee TV HD • UK
 https://mini.allinonereborn.fun/tata.php?id=11783
 #EXTINF:-1 tvg-id="SONY.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • UK
@@ -123,7 +125,7 @@ https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 tvg-id="Discovery.Asia.hk" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="📚 Knowledge",Discovery Asia • SG
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="EPIC.TV.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png" group-title="📚 Knowledge",Epic TV • IN
-http://195.128.27.185:80/Juice11/5566651/694188
+https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.(HD).sg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJhOzgvWYpicswNc7xIRziG7dyHmUOdBHu5RIbkFHTJWQRebscLDq-2gtFqiaCi0XN2jiS37d0YNnNJ90HI08PbGNryVtU6lR1icwgksgU9xNY8kClhTTFStSvrnkCMpGQ8O786V2Dc4EWtKLVJtjiMgqxc9quGPfsNXUx159y4GqXyEJZxVkFM1ozjoY/s720/62579.png"  group-title="📚 Knowledge",Animal Planet • SG
 http://195.128.27.185:80/Juice11/5566651/706036
 #EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.HD.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEW3r273C0qGokVlspwMBaDz-Stz8D5SraSl8_45lSpipwM1EyzmeLhtLp-jBgjkhkHkyOjvfd0LJnYg9axghbDd3iHlK0Xdoqbc2Y7hNsM3pRWqL1Xr3gniSyAEYYlnWlHQmEN5-7BxJbV09et2bpUMOQRFD-M9Cp4pBpshFZUdaSD4QoyI0EeMv7SfY/s320/67177.jpg" group-title="📚 Knowledge",Nat Geo HD • IN
