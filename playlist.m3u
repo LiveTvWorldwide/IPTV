@@ -14,7 +14,7 @@ https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 https://mumbai-edge.smartplaytv.in/DDBharathi/index.m3u8
 #EXTINF:-1 tvg-id="DANGAL.in" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png" group-title="🎭 Entertainment",Dangal • IN
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="🎭 Entertainment",&TV HD • US
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png" group-title="🎭 Entertainment",&TV HD • US
 https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • UK
 http://195.128.27.185:80/Juice11/5566651/276627
@@ -26,7 +26,7 @@ http://195.128.27.185:80/Juice11/5566651/303470
 http://195.128.27.185:80/Juice11/5566651/303524
 #EXTINF:-1 tvg-id="SONY.SAB.uk" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • UK
 http://195.211.191.219:80/simo823992/s6au55huvd/417050
-#EXTINF:-1 tvg-id="Colors.HD.in" tvg-logo=" " group-title="🎭 Entertainment",Colors • IND
+#EXTINF:-1 tvg-id="Colors.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s158144_ld_h15_aa.png" group-title="🎭 Entertainment",Colors • IND
 http://103.159.180.34:5001/live/144.m3u8
 #EXTINF:-1 tvg-id="COLORS.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158144_ld_h15_aa.png"  group-title="🎭 Entertainment",Colors • UK
 http://xtreme-tv.is:18800/live/ksB5UsCT/kfYtsq8/40443.ts
