@@ -16,8 +16,6 @@ https://mumbai-edge.smartplaytv.in/DDBharathi/index.m3u8
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="and.TV.us2" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png" group-title="🎭 Entertainment",&TV HD • US
 https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="SONY.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • UK
-http://195.128.27.185:80/Juice11/5566651/276627
 #EXTINF:-1 tvg-id="Utsav.Bharat.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQFPmm1UzgxJ86HcqDdQHuAYJHBsd5Q6QrHVRFbpX4pP0WJ2lu8IfrSRLcAy4ZiPwpF-KporCbfhTFjeDY4-Reevqw6nx1AOimblNrD8Xerae8RXaDkN8pAbWzEAIbDG2JYCAPAps1x3gSBbj4ZkQ1Abl29maNlOoa7n26qffsmlsg2xe9dStneg7QNRk/s320/Picsart_24-10-13_11-28-44-341.jpg"  group-title="🎭 Entertainment",Utsav Bharat • UK
 http://195.128.27.185:80/Juice11/5566651/689947
 #EXTINF:-1 tvg-id="Zee.TV.HD.USA.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png" group-title="🎭 Entertainment",Zee TV HD • CAR
@@ -28,6 +26,8 @@ http://195.128.27.185:80/Juice11/5566651/303524
 http://195.211.191.219:80/simo823992/s6au55huvd/417050
 #EXTINF:-1 tvg-id="Colors.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s158144_ld_h15_aa.png" group-title="🎭 Entertainment",Colors • IND
 http://103.159.180.34:5001/live/144.m3u8
+#EXTINF:-1 tvg-id="SONY.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • UK
+http://xtreme-tv.is:18800/live/ksB5UsCT/kfYtsq8/56997.ts
 #EXTINF:-1 tvg-id="COLORS.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158144_ld_h15_aa.png"  group-title="🎭 Entertainment",Colors • UK
 http://xtreme-tv.is:18800/live/ksB5UsCT/kfYtsq8/40443.ts
 #EXTINF:-1 tvg-id="AXN.HD.my" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlh0ZYd3g5nZTKHJbFfmWOhv8CtNG4VIjpn-VJi6tRCFcJkl78JvC118RpE2cQ5pcVdqLewB4I4zbOk0t44dbYaUqFqdecuKmO5QuWQhSs_LsTfFe5c02vwX2gUExa4_n0ZtGIXOdmGDjDbzouiuSPx4KV5snMO2Vn8uwiftLDqqOVoYswRnpGJ1EpzCM/s1600/62406.png"  group-title="🎭 Entertainment",AXN • MY
