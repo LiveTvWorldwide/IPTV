@@ -24,8 +24,6 @@ http://195.128.27.185:80/Juice11/5566651/303470
 http://195.128.27.185:80/Juice11/5566651/303524
 #EXTINF:-1 tvg-id="SONY.SAB.uk" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • UK
 http://195.211.191.219:80/simo823992/s6au55huvd/417050
-#EXTINF:-1 tvg-id="Colors.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s158144_ld_h15_aa.png" group-title="🎭 Entertainment",Colors • IND
-http://103.159.180.34:5001/live/144.m3u8
 #EXTINF:-1 tvg-id="SONY.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • UK
 http://xtreme-tv.is:18800/live/ksB5UsCT/kfYtsq8/56997.ts
 #EXTINF:-1 tvg-id="COLORS.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158144_ld_h15_aa.png"  group-title="🎭 Entertainment",Colors • UK
@@ -48,8 +46,8 @@ http://195.128.27.185:80/Juice11/5566651/709462
 http://195.128.27.185:80/Juice11/5566651/694162
 #EXTINF:-1 tvg-id="Zee.Cinema.uk" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"  group-title="🎬 Movies",Zee Cinema • UK
 http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1869980
-#EXTINF:-1 tvg-id="ColorsCineplex.uk" tvg-logo="https://www.colorscineplex.com/in/wp-content/themes/colorscineplex/assets/images/Colors-Cineplex-Print.png"  group-title="🎬 Movies",Colors Cineplex • UK
-http://ahostingportal.com:8000/62664054820/5271593547/3010
+#EXTINF:-1 tvg-id="ColorsCineplex.uk" tvg-logo="https://www.colorscineplex.com/in/wp-content/themes/colorscineplex/assets/images/Colors-Cineplex-Print.png"  group-title="🎬 Movies",Colors Cineplex • US
+
 #EXTINF:-1 tvg-id="B4U.Movies.uk" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png" group-title="🎬 Movies",B4U Movies • UK
 http://ahostingportal.com:8000/62664054820/5271593547/3174
 
