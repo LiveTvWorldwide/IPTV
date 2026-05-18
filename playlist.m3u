@@ -26,6 +26,10 @@ http://195.128.27.185:80/Juice11/5566651/303524
 http://germanydns15.com:8000/live/SLuRjStCUR/q0mK8n7U8b/108662.ts
 #EXTINF:-1 tvg-id="SONY.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • UK
 http://germanydns15.com:8000/live/SLuRjStCUR/q0mK8n7U8b/108661.ts
+#EXTINF:-1 tvg-id="ATN.Sony.ca" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • US
+http://darpro4k.com:8080/live/d003dfff0e23/khrVgdORfeyPVH/475560.ts
+#EXTINF:-1 tvg-id="Zee.TV.HD.Canada.in" tvg-logo="https://zeetvcanada.ca/wp-content/uploads/2025/06/cropped-zcanada-eng-332-03.png"  group-title="🎭 Entertainment",Zee TV Canada • CA
+http://darpro4k.com:8080/live/d003dfff0e23/khrVgdORfeyPVH/475539.ts
 #EXTINF:-1 tvg-id="SONY.SAB.uk" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • UK
 http://vu4040.top:80/live/4230840782/7418745969/788949.ts
 #EXTINF:-1 tvg-id="COLORS.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158144_ld_h15_aa.png"  group-title="🎭 Entertainment",Colors • UK
