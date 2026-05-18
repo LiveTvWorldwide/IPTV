@@ -69,7 +69,8 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://mumbai-edge.smartplaytv.in/9xm/index.m3u8
 #EXTINF:-1 tvg-id="B4U.Music.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="🎵 Music",B4U Music • UK
 http://datahub11.com:80/live/1Aoen7elp5/IgMJ60tmAa/6207.ts
-
+#EXTINF:-1 tvg-id="Zing.USA.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png" group-title="🎵 Music",Zing • US
+http://datahub11.com:80/live/1Aoen7elp5/IgMJ60tmAa/215.ts
 
 
 # 📰 NEWS
