@@ -2,12 +2,6 @@
 
 # 🎭 ENTERTAINMENT
 
-#EXTINF:-1 tvg-id="ATN.Colors.Rishtey.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158239_ld_h15_aa.png" group-title="🎭 Entertainment",Colors Rishtey • CA
-http://nocable.cc:8080/789588/114528/125806
-#EXTINF:-1 tvg-id="TV.Asia.Powered.by.Shemaroo.in" tvg-logo="https://tv-asia.keylines.net.in/wp-content/uploads/2023/08/TV_Asia_Logo_White_org.png" group-title="🎭 Entertainment",TV Asia • US
-http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/125819
-#EXTINF:-1 tvg-id="ATN.Sahara.One.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sahara_One.webp/500px-Sahara_One.webp.png" group-title="🎭 Entertainment",Sahara One • CA
-http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/125812
 #EXTINF:-1 tvg-id="DD.National.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0030QZCZ.png"  group-title="🎭 Entertainment",DD National HD • IN
 https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 #EXTINF:-1 tvg-id="DD.bharati.in" tvg-logo="https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png" group-title="🎭 Entertainment",DD Bharati • IN
@@ -28,8 +22,6 @@ http://germanydns15.com:8000/live/SLuRjStCUR/q0mK8n7U8b/108662.ts
 http://watchit.sbs/live/aliabudayeh83/ali085854873/450121.ts
 #EXTINF:-1 tvg-id="ATN.Sony.ca" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • US
 http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/1416786.ts
-#EXTINF:-1 tvg-id="Zee.TV.us2" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png"  group-title="🎭 Entertainment",Zee TV HD • US
-http://darpro4k.com:8080/live/d003dfff0e23/khrVgdORfeyPVH/475539.ts
 #EXTINF:-1 tvg-id="SONY.SAB.uk" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • UK
 http://vu4040.top:80/live/4230840782/7418745969/788949.ts
 #EXTINF:-1 tvg-id="COLORS.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158144_ld_h15_aa.png"  group-title="🎭 Entertainment",Colors • UK
@@ -44,8 +36,6 @@ http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/507237
 
 # 🎬 MOVIES 
 
-#EXTINF:-1 tvg-id="ATN.Max.2.ca" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png" group-title="🎬 Movies",Sony Max 2 • CA
-http://fortv.cc:8080/96019003/96019003/125795
 #EXTINF:-1 tvg-id="SONY.MAX.HD.uk" tvg-logo="https://www.sonymax.tv/assests/images/logo.png" group-title="🎬 Movies",Sony Max • UK
 http://datahub11.com:80/live/1Aoen7elp5/IgMJ60tmAa/24582.ts
 #EXTINF:-1 tvg-id="Utsav.Gold.HD.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGPBXff0ZAA2c8hY717c9o-Cifedj3eshelRf8y_mU1ZMDh4eQnumKKogrAkHgjTx2s0sAir-NSlmpwbRasC8pEZzSF8rkdiatzE66QU-058RD75Asq1q1D8pmgRusVe0x31sOMNVrSEivxPf_X4QKIW1Y8UTZoLxdJtke05OYxFvm3kkkWlaBtBSPStw/s320/61589.jpg" group-title="🎬 Movies",Utsav Gold HD • UK
@@ -71,8 +61,6 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://mumbai-edge.smartplaytv.in/9xm/index.m3u8
 #EXTINF:-1 tvg-id="ATN.B4U.Music.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="🎵 Music",B4U Music • US
 http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/316369.ts
-#EXTINF:-1 tvg-id="Zing.USA.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png" group-title="🎵 Music",Zing • US
-http://datahub11.com:80/live/1Aoen7elp5/IgMJ60tmAa/215.ts
 
 
 # 📰 NEWS
