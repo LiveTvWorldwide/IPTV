@@ -101,8 +101,8 @@ http://nocable.cc:8080/789588/114528/125817
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="Boomerang.F.ch" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/36/2025/03/27192107/Boomerang-logo-2.png" group-title="🧸 Kids",Boomerang • CH
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-
-
+#EXTINF:-1 tvg-id="Sony.yay.in" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png" group-title="🧸 Kids",Sony Yay • IN
+https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
 
 
 # 📚 KNOWLEDGE
