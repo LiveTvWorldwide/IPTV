@@ -26,8 +26,6 @@ http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125812.ts
 http://xtreme-tv.is:18800/live/ksB5UsCT/kfYtsq8/40586.ts
 #EXTINF:-1 tvg-id="COLORS.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158144_ld_h15_aa.png"  group-title="🎭 Entertainment",Colors • UK
 http://xtreme-tv.is:18800/live/ksB5UsCT/kfYtsq8/40443.ts
-#EXTINF:-1 tvg-id="COLORS.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NZHQ5.png"  group-title="🎭 Entertainment",Colors HD • IN
-http://a1.media1.london:8080/live/Keith2025/Keith2025/5450854.ts
 #EXTINF:-1 tvg-id="AXN.HD.my" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlh0ZYd3g5nZTKHJbFfmWOhv8CtNG4VIjpn-VJi6tRCFcJkl78JvC118RpE2cQ5pcVdqLewB4I4zbOk0t44dbYaUqFqdecuKmO5QuWQhSs_LsTfFe5c02vwX2gUExa4_n0ZtGIXOdmGDjDbzouiuSPx4KV5snMO2Vn8uwiftLDqqOVoYswRnpGJ1EpzCM/s1600/62406.png"  group-title="🎭 Entertainment",AXN • MY
 http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/507237
 #EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png" group-title="🎭 Entertainment",Zee TV HD • CAR
@@ -49,8 +47,8 @@ http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1869980
 http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/316373.ts
 #EXTINF:-1 tvg-id="Zee.Cinema.my" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"  group-title="🎬 Movies",Zee Cinema • MY
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
-#EXTINF:-1 tvg-id="ColorsCineplex.uk" tvg-logo="https://www.colorscineplex.com/in/wp-content/themes/colorscineplex/assets/images/Colors-Cineplex-Print.png"  group-title="🎬 Movies",Colors Cineplex • UK
-http://line.smootvone.vip:80/live/8K47DZ/FUS8BL/859005.ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://www.colorscineplex.com/in/wp-content/themes/colorscineplex/assets/images/Colors-Cineplex-Print.png"  group-title="🎬 Movies",Colors Cineplex • US
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/544086.ts
 #EXTINF:-1 tvg-id="B4U.Movies.uk" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png" group-title="🎬 Movies",B4U Movies • UK
 http://vu4040.top:80/live/4230840782/7418745969/789048.ts
 
@@ -104,9 +102,8 @@ http://nocable.cc:8080/789588/114528/125817
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="Boomerang.F.ch" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/36/2025/03/27192107/Boomerang-logo-2.png" group-title="🧸 Kids",Boomerang • CH
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-id="Sony.yay.in" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png" group-title="🧸 Kids",Sony Yay • IN
-https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
-
+#EXTINF:-1 tvg-id="ATN.Sony.YAY.ca" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png" group-title="🧸 Kids",Sony Yay • US
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/544127.ts
 
 # 📚 KNOWLEDGE
 #EXTINF:-1 tvg-id="History.TV18.HD.Hindi.in" tvg-logo="https://www.historyindia.com/assets/images/history-HD.png" group-title="📚 Knowledge", History TV18 HD • IN
