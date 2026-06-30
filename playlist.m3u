@@ -60,7 +60,8 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://mumbai-edge.smartplaytv.in/9xm/index.m3u8
 #EXTINF:-1 tvg-id="ATN.B4U.Music.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="🎵 Music",B4U Music • US
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/544088.ts
-
+#EXTINF:-1 tvg-id="MTV.India.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="🎵 Music",MTV India • US
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/544075.ts
 
 # 📰 NEWS
 #EXTINF:-1 tvg-id="AAJ.TAK.in" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-126x55.png" group-title="📰 News",Aaj Tak HD • IN
