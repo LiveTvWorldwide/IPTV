@@ -56,7 +56,8 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://9x.cdn.runn.tv/9XM/master.m3u8
 #EXTINF:-1 tvg-id="ATN.B4U.Music.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="🎵 Music",B4U Music • US
 http://user.scalecdn.co:8080/live/1234567/7654321/544066.ts
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="🎵 Music",B4U Music • APAC 
+https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8
 
 # 📰 NEWS
 
