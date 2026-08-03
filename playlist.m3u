@@ -47,7 +47,8 @@ http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1869980
 http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/316373.ts
 #EXTINF:-1 tvg-id="Zee.Cinema.ME.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"  group-title="🎬 Movies",Zee Cinema • ME
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
-
+#EXTINF:-1 tvg-id="ATN.B4U.Music.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="🎵 Music",B4U Music • US
+https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8
 
 
 # 🎵 MUSIC 
