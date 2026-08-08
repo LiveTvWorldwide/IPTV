@@ -47,8 +47,6 @@ http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1869980
 http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/316373.ts
 #EXTINF:-1 tvg-id="Zee.Cinema.ME.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"  group-title="🎬 Movies",Zee Cinema • ME
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
-#EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png" group-title="🎬 Movies",B4U Movies • APAC
-https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8
 
 
 # 🎵 MUSIC 
@@ -59,8 +57,6 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://9x.cdn.runn.tv/9XM/master.m3u8
 #EXTINF:-1 tvg-id="ATN.B4U.Music.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="🎵 Music",B4U Music • US
 http://user.scalecdn.co:8080/live/1234567/7654321/544066.ts
-#EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="🎵 Music",B4U Music • APAC 
-https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8
 
 # 📰 NEWS
 
