@@ -6,6 +6,8 @@
 https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 #EXTINF:-1 tvg-id="DANGAL.in" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png" group-title="🎭 Entertainment",Dangal • IN
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="RANG.in" tvg-logo="https://rangtv.org/images/logo.png" group-title="🎭 Entertainment",Rang • IN
+https://mumt01.tangotv.in/O5aw8Zn3RANG/mpegts
 #EXTINF:-1 tvg-id="Shemaroo.TV.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggHLw1kYQskJwnVhtz__ZOdXuRmnJmrKjyhhirt92pOzuiHHJXuFOPjEWfd5umgcXLwvtqYCINSeE1hC3ljNJhTeXeL_o8teWac73prx4Rx-WU7MnmBSK4-fcZsphNp3MEAECK6nzWs-dtbZnfgg7kDz-h_BENc6rh3WmcHyJU0Ick6VDvsrcG1c1QGuQ/s1536/44960.jpg" group-title="🎭 Entertainment",Shemaroo TV • IN
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png" group-title="🎭 Entertainment",Zee TV HD • DE
@@ -30,8 +32,7 @@ http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/507237
 http://vca.easy747.com/live/349823134727342/4010043920/1212488.ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png" group-title="🎭 Entertainment",Zee TV HD • TT
 http://vca.easy747.com/live/349823134727342/4010043920/316374.ts
-#EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png" group-title="🎭 Entertainment",Zee TV HD • IN
-https://mumt01.tangotv.in/O5aw8Zn3RANG/mpegts
+
 
 
 # 🎬 MOVIES 
@@ -63,7 +64,7 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://9x.cdn.runn.tv/9XM/master.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="🎵 Music",B4U Music • APAC
 https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="🎵 Music",B4U Music •h
+#EXTINF:-1 tvg-id="Ramdhenu.in" tvg-logo="https://dtil.tmsimg.com/assets/s143717_ld_h15_aa.png" group-title="🎵 Music",Ramdhenu •IN
 https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/mpegts
 
 # 📰 NEWS
