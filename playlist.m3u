@@ -19,7 +19,7 @@ http://streamlyy.space/live/078e607b24/bc20eb3e6542/1394137.ts
 #EXTINF:-1 tvg-id="Sony.SAB.hk" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • HK
 http://streamlyy.space/live/078e607b24/bc20eb3e6542/1394135.ts
 #EXTINF:-1 tvg-id="Colors.HD.ae" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2025/01/colorstvindialogo.png" group-title="🎭 Entertainment",Colors • ME
-http://streamlyy.space/live/078e607b24/bc20eb3e6542/1394178.ts
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sahara_One.webp/500px-Sahara_One.webp.png" group-title="🎭 Entertainment",Sahara One • US
 http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125812.ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvasiausa.com/wp-content/uploads/2023/08/TV_Asia_Logo_White_org.png" group-title="🎭 Entertainment",TV ASIA • US
@@ -49,7 +49,10 @@ http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1869980
 http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/316373.ts
 #EXTINF:-1 tvg-id="Zee.Cinema.ME.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"  group-title="🎬 Movies",Zee Cinema • ME
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png"  group-title="🎬 Movies",B4U Movies • APAC 
+https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png"  group-title="🎬 Movies",Colors Cineplex • UK
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
 
 # 🎵 MUSIC 
 
@@ -57,8 +60,8 @@ https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png" group-title="🎵 Music",9XM • IN
 https://9x.cdn.runn.tv/9XM/master.m3u8
-#EXTINF:-1 tvg-id="ATN.B4U.Music.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="🎵 Music",B4U Music • US
-http://user.scalecdn.co:8080/live/1234567/7654321/544066.ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" group-title="🎵 Music",B4U Music • APAC
+https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8
 
 # 📰 NEWS
 
