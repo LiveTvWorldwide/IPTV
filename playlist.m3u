@@ -105,6 +105,8 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ATN.Times.Now.ca" tvg-logo="https://dtil.tmsimg.com/assets/s144006_ld_h15_aa.png"  group-title="📰 News",Times Now • CA
 http://nocable.cc:8080/789588/114528/125817
+#EXTINF:-1 tvg-id="NEWS.LIVE.in" tvg-logo="https://newslivetv.com/wp-content/uploads/2022/07/news-live-logo-2-300x131.png"  group-title="📰 News",News Live • IN
+https://prideeast.thelegitpro.in/newslive/newslive/index.fmp4.m3u8
 
 
 # 🧸 KIDS
