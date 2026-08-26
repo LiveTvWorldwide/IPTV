@@ -16,12 +16,6 @@ https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="ATN.Sony.ca" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • US
 http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/1416786.ts
-#EXTINF:-1 tvg-id="Sony.TV.(India).hk" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • HK
-http://streamlyy.space/live/078e607b24/bc20eb3e6542/1394137.ts
-#EXTINF:-1 tvg-id="SONY.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • UK
-https://ccctv.xyz:2096/live/n24/SUZsBNHv12/103223.ts
-#EXTINF:-1 tvg-id="ATN.SAB.TV.ca" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • HK
-http://63043-keep.tx-4kott.com/live/68a86df442/7900780c8fe0/1423397.ts
 #EXTINF:-1 tvg-id="SONY.SAB.uk" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • CA
 http://skytv4k.org:8080/live/ajA72trobH/x8oK6dpJNP/6014.ts
 #EXTINF:-1 tvg-id="Colors.HD.ae" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2025/01/colorstvindialogo.png" group-title="🎭 Entertainment",Colors • ME
@@ -29,7 +23,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sahara_One.webp/500px-Sahara_One.webp.png" group-title="🎭 Entertainment",Sahara One • US
 http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125812.ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvasiausa.com/wp-content/uploads/2023/08/TV_Asia_Logo_White_org.png" group-title="🎭 Entertainment",TV ASIA • US
-http://nocable.cc:8080/live/uh4BeE/493375/125819.ts
+http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125819.ts
 #EXTINF:-1 tvg-id="AXN.HD.my" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlh0ZYd3g5nZTKHJbFfmWOhv8CtNG4VIjpn-VJi6tRCFcJkl78JvC118RpE2cQ5pcVdqLewB4I4zbOk0t44dbYaUqFqdecuKmO5QuWQhSs_LsTfFe5c02vwX2gUExa4_n0ZtGIXOdmGDjDbzouiuSPx4KV5snMO2Vn8uwiftLDqqOVoYswRnpGJ1EpzCM/s1600/62406.png"  group-title="🎭 Entertainment",AXN • MY
 http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/507237
 #EXTINF:-1 tvg-id="Zee.TV.Canada.ca2" tvg-logo="https://zeetvcanada.ca/wp-content/uploads/2025/06/cropped-zcanada-eng-332-03.png" group-title="🎭 Entertainment",Zee TV Canada • CA
@@ -38,8 +32,7 @@ http://vca.easy747.com/live/349823134727342/4010043920/1212488.ts
 http://vca.easy747.com/live/349823134727342/4010043920/316374.ts
 #EXTINF:-1 tvg-id="Utsav.Plus.HD.uk" tvg-logo=" " group-title="🎭 Entertainment",Star Plus HD • UK
 http://pinkponyclub.online:80/live/DGaffSr23/ayisLWpRZw/107199.ts
-#EXTINF:-1 tvg-id="ATN.Star.Plus.ca" tvg-logo=" " group-title="🎭 Entertainment",Star Plus HD • CA
-http://63043-keep.tx-4kott.com/live/68a86df442/7900780c8fe0/1423406.ts
+
 
 # 🎬 MOVIES 
 
