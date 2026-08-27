@@ -42,14 +42,14 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chun
 #EXTINF:-1 tvg-id="Zee.Cinema.ME.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"  group-title="🎬 Movies",Zee Cinema • ME
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
 
-#EXTINF:-1 tvg-id="Utsav.Gold.HD.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGPBXff0ZAA2c8hY717c9o-Cifedj3eshelRf8y_mU1ZMDh4eQnumKKogrAkHgjTx2s0sAir-NSlmpwbRasC8pEZzSF8rkdiatzE66QU-058RD75Asq1q1D8pmgRusVe0x31sOMNVrSEivxPf_X4QKIW1Y8UTZoLxdJtke05OYxFvm3kkkWlaBtBSPStw/s320/61589.jpg" group-title="🎬 Movies",Utsav Gold HD • UK
-http://lordstreams.live:80/live/mszala@comcast.net/0323910031/276577.ts
 #EXTINF:-1 tvg-id="Sony.MAX.hk" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • HK
 http://streamlyy.space/live/078e607b24/bc20eb3e6542/1394136.ts
-#EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png" group-title="🎬 Movies",Sony Max 2 • US
-http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts
 #EXTINF:-1 tvg-id="Zee.Cinema.uk" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"  group-title="🎬 Movies",Zee Cinema • UK
 http://delta.cloudf-nettv.xyz:80/mehj9l0sub/qh1u5prkk0/1869980
+#EXTINF:-1 tvg-id="Utsav.Gold.HD.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGPBXff0ZAA2c8hY717c9o-Cifedj3eshelRf8y_mU1ZMDh4eQnumKKogrAkHgjTx2s0sAir-NSlmpwbRasC8pEZzSF8rkdiatzE66QU-058RD75Asq1q1D8pmgRusVe0x31sOMNVrSEivxPf_X4QKIW1Y8UTZoLxdJtke05OYxFvm3kkkWlaBtBSPStw/s320/61589.jpg" group-title="🎬 Movies",Utsav Gold HD • UK
+http://lordstreams.live:80/live/mszala@comcast.net/0323910031/276577.ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png" group-title="🎬 Movies",Sony Max 2 • US
+http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts
 #EXTINF:-1 tvg-id="Zee.Cinema.USA.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"  group-title="🎬 Movies",Zee Cinema • US
 http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/316373.ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png"  group-title="🎬 Movies",B4U Movies • APAC 
