@@ -14,12 +14,13 @@ https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="and.TV.us2" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png" group-title="🎭 Entertainment",&TV HD • UK
 https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="Colors.HD.ae" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2025/01/colorstvindialogo.png" group-title="🎭 Entertainment",Colors • ME
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ATN.Sony.ca" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • US
 http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/1416786.ts
 #EXTINF:-1 tvg-id="SONY.SAB.uk" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • CA
 http://skytv4k.org:8080/live/ajA72trobH/x8oK6dpJNP/6014.ts
-#EXTINF:-1 tvg-id="Colors.HD.ae" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2025/01/colorstvindialogo.png" group-title="🎭 Entertainment",Colors • ME
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sahara_One.webp/500px-Sahara_One.webp.png" group-title="🎭 Entertainment",Sahara One • US
 http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125812.ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvasiausa.com/wp-content/uploads/2023/08/TV_Asia_Logo_White_org.png" group-title="🎭 Entertainment",TV ASIA • US
