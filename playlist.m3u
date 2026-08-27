@@ -77,6 +77,7 @@ http://63043-keep.tx-4kott.com/live/68a86df442/7900780c8fe0/921073.ts
 
 
 # 📰 NEWS
+
 #EXTINF:-1 tvg-id="AAJ.TAK.in" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/at-hd-126x55.png" group-title="📰 News",Aaj Tak HD • IN
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="Canal.CNN.Internacional.cl" tvg-logo="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png" group-title="📰 News",CNN • INT
@@ -113,6 +114,7 @@ http://nocable.cc:8080/789588/114528/125817
 
 
 # 🧸 KIDS
+
 #EXTINF:-1 tvg-id="Cartoon.Network.Hindi.in" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="🧸 Kids",Cartoon Network • IN
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="Boomerang.F.ch" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/36/2025/03/27192107/Boomerang-logo-2.png" group-title="🧸 Kids",Boomerang • CH
@@ -123,6 +125,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/544127.ts
 
 
 # 📚 KNOWLEDGE
+
 #EXTINF:-1 tvg-id="History.TV18.HD.Hindi.in" tvg-logo="https://www.historyindia.com/assets/images/history-HD.png" group-title="📚 Knowledge", History TV18 HD • IN
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN-Documentary.sg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOdN1TKhhftt7E_5ZnMsFos4Abh1CJ3He6GJRlBM5SdzRXzGPoJ7IleR64RM7qrY_uOsuebMWp1OrlFJt2OKc9WZRABHrkGq7sLuoaSnoicRNI1FG8x18LHD2ZZgpKqwl3F29KdyT3TyvotBb-6V4EAxtzkzuhBF9cVV_9J-3qHMehPBkgokjExX3rXuE/s760/IMG_20251024_063240.jpg" group-title="📚 Knowledge",CGTN Documentry • SG
@@ -144,6 +147,7 @@ http://lordstreams.live:80/live/mszala@comcast.net/0323910031/786522.ts
 
 
 # ⚽ SPORTS
+
 #EXTINF:-1 tvg-id="DD.Sports.in" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png" group-title="⚽ Sports",DD Sports • IN
 https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="⚽ Sports",PK Sports • PK
@@ -159,6 +163,7 @@ http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/1273974.ts
 
 
 # 🏡 LIFESTYLE
+
 #EXTINF:-1 tvg-id="Foodxp.uk" tvg-logo="https://www.foodxp.com/images/foodxplogo.png" group-title="🏡 Lifestyle",FoodXP • UK
 https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="Travelxp.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="🏡 Lifestyle",TravelXP HD • UK
@@ -173,6 +178,7 @@ http://nocable.cc:8080/live/uh4BeE/493375/125807.ts
 
 
 # 🛐 Religion
+
 #EXTINF:-1 tvg-id="Sanskar.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8sLIvwGycgnYdURJ7WyBC0K6gFiwaiavL58k0OMQ7In_kuIKgpbKWxU8ABVVGGluYffa6c8vfKWENFuKdsl0iLBWL4shPb5wKfQfdrf4bNwbfmZQcefAvotQFX9v7dVJGekOa79Po1dDi4yE7s1V9eyv77pjkVTTnPP13UX1JlOeAv3RBZJbGzHPnt0I/s320/55958.jpg"  group-title="🛐 Religion",Sanskar HD • UK
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
 #EXTINF:-1 tvg-id="ATN.Aastha.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png"  group-title="🛐 Religion",Aastha • CA
