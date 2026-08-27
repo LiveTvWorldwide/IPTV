@@ -23,6 +23,8 @@ http://nmk.ioapk.com:5050/4gtv-live080/index.m3u8
 http://pinkponyclub.online:80/live/DGaffSr23/ayisLWpRZw/107199.ts
 #EXTINF:-1 tvg-id="ATN.Sony.ca" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • US
 http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/1416786.ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png" group-title="🎭 Entertainment",Zee TV HD • TT
+http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/316374.ts
 #EXTINF:-1 tvg-id="SONY.SAB.uk" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • UK
 http://skytv4k.org:8080/live/ajA72trobH/x8oK6dpJNP/6014.ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sahara_One.webp/500px-Sahara_One.webp.png" group-title="🎭 Entertainment",Sahara One • US
@@ -33,8 +35,6 @@ http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125819.ts
 http://hs.234003.xyz:8080/sitkierel01/QSbyTXxWJF/507237
 #EXTINF:-1 tvg-id="Zee.TV.Canada.ca2" tvg-logo="https://zeetvcanada.ca/wp-content/uploads/2025/06/cropped-zcanada-eng-332-03.png" group-title="🎭 Entertainment",Zee TV Canada • CA
 http://vca.easy747.com/live/349823134727342/4010043920/1212488.ts
-#EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png" group-title="🎭 Entertainment",Zee TV HD • TT
-http://vca.easy747.com/live/349823134727342/4010043920/316374.ts
 
 
 # 🎬 MOVIES 
