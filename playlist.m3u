@@ -187,6 +187,8 @@ https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8
 http://pl.online24.pm/play/793/623939143BE8A4B/video.m3u8
 #EXTINF:-1 tvg-id="DorcelTV.lu" tvg-logo="https://ga.dorcel.com/resources/d-header-logo-dorceltv-strait/1638277978.png" group-title="🔞 Adult",DorcelTV • LU
 http://77.46.130.252:99/dorcel
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="🔞 Adult",Babes TV • LU
+http://45.145.32.13:20440/babes_tv/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Reality.Kings.TV.us2" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reality-kings-tv-us.png" group-title="🔞 Adult",RK TV . US
 http://79.127.207.193:80/RealityKings/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://adult-tv-channels.click/assets/images/venus-porn-logo.png"  group-title="🔞 Adult",Vunes • US
