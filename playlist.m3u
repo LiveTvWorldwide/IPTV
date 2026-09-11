@@ -67,6 +67,8 @@ https://9x.cdn.runn.tv/9XM/master.m3u8
 #EXTINF:-1 tvg-id="Ramdhenu.in" tvg-logo="https://dtil.tmsimg.com/assets/s143717_ld_h15_aa.png" group-title="🎵 Music",Ramdhenu •IN
 https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/mpegts
 
+#EXTINF:-1 tvg-id="ZING.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png" group-title="🎵 Music",Zing • IN
+http://107.167.16.138/zing/index.m3u8?token=test
 #EXTINF:-1 tvg-id="B4U.Music.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png"  group-title="🎵 Music",B4U Music • UK 
 http://yolomax.pro/live/A1U3S8XPVM58B23/iHeFx423Ac/72514.ts
 
