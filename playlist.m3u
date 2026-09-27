@@ -66,8 +66,6 @@ https://9x.cdn.runn.tv/9XM/master.m3u8
 #EXTINF:-1 tvg-id="Ramdhenu.in" tvg-logo="https://dtil.tmsimg.com/assets/s143717_ld_h15_aa.png" group-title="🎵 Music",Ramdhenu •IN
 https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/mpegts
 
-#EXTINF:-1 tvg-id="ZING.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png" group-title="🎵 Music",Zing • IN
-http://107.167.16.138/zing/index.m3u8?token=test
 #EXTINF:-1 tvg-id="B4U.Music.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png"  group-title="🎵 Music",B4U Music • UK 
 http://yolomax.pro/live/A1U3S8XPVM58B23/iHeFx423Ac/72514.ts
 #EXTINF:-1 tvg-id="ATN.B4U.Music.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png"  group-title="🎵 Music",B4U Music • US 
@@ -128,8 +126,6 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/19741.ts
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN-Documentary.sg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOdN1TKhhftt7E_5ZnMsFos4Abh1CJ3He6GJRlBM5SdzRXzGPoJ7IleR64RM7qrY_uOsuebMWp1OrlFJt2OKc9WZRABHrkGq7sLuoaSnoicRNI1FG8x18LHD2ZZgpKqwl3F29KdyT3TyvotBb-6V4EAxtzkzuhBF9cVV_9J-3qHMehPBkgokjExX3rXuE/s760/IMG_20251024_063240.jpg" group-title="📚 Knowledge",CGTN Documentry • SG
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-#EXTINF:-1 tvg-id="Discovery.Asia.hk" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="📚 Knowledge",Discovery Asia • SG
-https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="EPIC.TV.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png" group-title="📚 Knowledge",Epic TV • IN
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="📚 Knowledge",Discovery World HD • US
