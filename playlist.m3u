@@ -119,6 +119,9 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 http://107.167.16.138/boomerang/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ATN.Sony.YAY.ca" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png" group-title="🧸 Kids",Sony Yay • US
 http://dsmqbfez.pardns.com/live/6CTB9BKG/4Q7Y9DFW/1084806.ts
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="🧸 Kids",Disney Channel HD • IN
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/19741.ts
+
 
 
 # 📚 KNOWLEDGE
