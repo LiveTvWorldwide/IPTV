@@ -121,6 +121,9 @@ http://107.167.16.138/boomerang/index.m3u8?token=test
 http://dsmqbfez.pardns.com/live/6CTB9BKG/4Q7Y9DFW/1084806.ts
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="🧸 Kids",Disney Channel HD • IN
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/19741.ts
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="🧸 Kids",Disney Junior • IN
+http://51.75.127.199:3141/disneyjunior/index.m3u8
+
 
 
 
