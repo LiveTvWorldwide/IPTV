@@ -21,6 +21,8 @@ http://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Colors.sg" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2025/01/colorstvindialogo.png" group-title="🎭 Entertainment",Colors • APAC
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
 
+http://51.75.127.199:3141/starbharathd/index.m3u8
+
 #EXTINF:-1 tvg-id="Utsav.Plus.HD.uk" tvg-logo=" " group-title="🎭 Entertainment",Star Plus HD • UK
 http://pinkponyclub.online:80/live/DGaffSr23/ayisLWpRZw/107199.ts
 #EXTINF:-1 tvg-id="ATN.Sony.ca" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • US
@@ -155,6 +157,9 @@ https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 tvg-id="Willow.2.Xtra.us2" tvg-logo="https://cdn.aptoide.com/imgs/6/5/7/65791b0d8e16df11b1ba6d8b9c8a571a_fgraphic.png"  group-title="⚽ Sports", Willow Sports • US
 https://df3xownvf1f4t.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/willow_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Star.Sports.1.in" tvg-logo=" " group-title="⚽ Sports",Star Sports 1 • IN
+http://51.75.127.199:3141/starsports1/index.m3u8
+
 
 
 # 🏡 LIFESTYLE
