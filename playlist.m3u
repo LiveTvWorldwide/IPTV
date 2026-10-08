@@ -8,6 +8,10 @@ https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="DD.North.east.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/DD_Assam_logo.jpeg"  group-title="🎭 Entertainment",DD Assam • IN
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+#EXTINF:-1 tvg-id="Colors.HD.ae" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2025/01/colorstvindialogo.png" group-title="🎭 Entertainment",Colors • ME
+http://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Utsav.Plus.HD.uk" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/star-new1-plus.jpg" group-title="🎭 Entertainment",Star Plus • UK
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 #EXTINF:-1 tvg-id="RANG.in" tvg-logo="https://rangtv.org/images/logo.png" group-title="🎭 Entertainment",Rang • IN
 https://mumt01.tangotv.in/O5aw8Zn3RANG/mpegts
 #EXTINF:-1 tvg-id="Shemaroo.TV.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggHLw1kYQskJwnVhtz__ZOdXuRmnJmrKjyhhirt92pOzuiHHJXuFOPjEWfd5umgcXLwvtqYCINSeE1hC3ljNJhTeXeL_o8teWac73prx4Rx-WU7MnmBSK4-fcZsphNp3MEAECK6nzWs-dtbZnfgg7kDz-h_BENc6rh3WmcHyJU0Ick6VDvsrcG1c1QGuQ/s1536/44960.jpg" group-title="🎭 Entertainment",Shemaroo TV • IN
@@ -16,24 +20,20 @@ https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="and.TV.us2" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png" group-title="🎭 Entertainment",&TV HD • UK
 https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="Colors.HD.ae" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2025/01/colorstvindialogo.png" group-title="🎭 Entertainment",Colors • ME
-http://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Colors.sg" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2025/01/colorstvindialogo.png" group-title="🎭 Entertainment",Colors • APAC
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
 #EXTINF:-1 tvg-id="STAR.BHARAT.HD.in" tvg-logo=" "  group-title="🎭 Entertainment",Star Bharat HD • IN
 http://51.75.127.199:3141/starbharathd/index.m3u8
-
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SET.(HINDI).sg" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • APAC
 http://stronger8k.vip:80/live/ganjo1984/29iuxxqbd6/1991669.ts
 #EXTINF:-1 tvg-id="SAB.TV.sg" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • MY
 http://stronger8k.vip:80/live/ganjo1984/29iuxxqbd6/1991667.ts
-#EXTINF:-1 tvg-id="Utsav.Plus.HD.uk" tvg-logo=" " group-title="🎭 Entertainment",Star Plus HD • UK
-http://3serverx.com:80/live/victor101/victor101/276555.ts
-#EXTINF:-1 tvg-id="ATN.Sony.ca" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • US
-http://5ghz.xyz/live/MAGRQ4P2V5/02uF4MKrT2/1416786.ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png" group-title="🎭 Entertainment",Zee TV HD • CAR
 http://3serverx.com:80/live/victor101/victor101/303471.ts
+#EXTINF:-1 tvg-id="ATN.Sony.ca" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • US
+http://5ghz.xyz/live/MAGRQ4P2V5/02uF4MKrT2/1416786.ts
 #EXTINF:-1 tvg-id="SONY.SAB.uk" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • UK
 http://skytv4k.org:8080/live/ajA72trobH/x8oK6dpJNP/6014.ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sahara_One.webp/500px-Sahara_One.webp.png" group-title="🎭 Entertainment",Sahara One • US
