@@ -20,13 +20,14 @@ https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 http://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Colors.sg" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2025/01/colorstvindialogo.png" group-title="🎭 Entertainment",Colors • APAC
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
-#EXTINF:-1 tvg-id="SET.(HINDI).sg" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • APAC
-http://stronger8k.vip:80/live/ganjo1984/29iuxxqbd6/1991669.ts
 #EXTINF:-1 tvg-id="STAR.BHARAT.HD.in" tvg-logo=" "  group-title="🎭 Entertainment",Star Bharat HD • IN
 http://51.75.127.199:3141/starbharathd/index.m3u8
 
 
-
+#EXTINF:-1 tvg-id="SET.(HINDI).sg" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • APAC
+http://stronger8k.vip:80/live/ganjo1984/29iuxxqbd6/1991669.ts
+#EXTINF:-1 tvg-id="SAB.TV.sg" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • MY
+http://stronger8k.vip:80/live/ganjo1984/29iuxxqbd6/1991667.ts
 #EXTINF:-1 tvg-id="Utsav.Plus.HD.uk" tvg-logo=" " group-title="🎭 Entertainment",Star Plus HD • UK
 http://3serverx.com:80/live/victor101/victor101/276555.ts
 #EXTINF:-1 tvg-id="ATN.Sony.ca" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • US
@@ -35,8 +36,6 @@ http://5ghz.xyz/live/MAGRQ4P2V5/02uF4MKrT2/1416786.ts
 http://3serverx.com:80/live/victor101/victor101/303471.ts
 #EXTINF:-1 tvg-id="SONY.SAB.uk" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • UK
 http://skytv4k.org:8080/live/ajA72trobH/x8oK6dpJNP/6014.ts
-#EXTINF:-1 tvg-id="SAB.TV.sg" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • MY
-http://stronger8k.vip:80/live/ganjo1984/29iuxxqbd6/1991667.ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sahara_One.webp/500px-Sahara_One.webp.png" group-title="🎭 Entertainment",Sahara One • US
 http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125812.ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://tvasiausa.com/wp-content/uploads/2023/08/TV_Asia_Logo_White_org.png" group-title="🎭 Entertainment",TV ASIA • US
@@ -52,6 +51,8 @@ http://dsmqbfez.pardns.com/live/6CTB9BKG/4Q7Y9DFW/1095574.ts
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="Zee.Cinema.ME.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"  group-title="🎬 Movies",Zee Cinema • ME
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
+#EXTINF:-1 tvg-id="Zee.Cinema.my" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png"  group-title="🎬 Movies",Zee Cinema HD • MY
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 
 #EXTINF:-1 tvg-id="SONY.MAX.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • UK
 http://3serverx.com:80/live/victor101/victor101/276630.ts
