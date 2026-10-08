@@ -127,10 +127,10 @@ https://prideeast.thelegitpro.in/newslive/newslive/index.fmp4.m3u8
 http://portal5458.com:8080/live/Shonnettab/8067384993/23354.ts
 #EXTINF:-1 tvg-id="ATN.Sony.YAY.ca" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png" group-title="🧸 Kids",Sony Yay • US
 http://dsmqbfez.pardns.com/live/6CTB9BKG/4Q7Y9DFW/1084806.ts
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="🧸 Kids",Disney Junior • IN
+#EXTINF:-1 tvg-id="DISNEY.JUNIOR.in" tvg-logo=" " group-title="🧸 Kids",Disney Junior • IN
 http://51.75.127.199:3141/disneyjunior/index.m3u8
-
-
+#EXTINF:-1 tvg-id="Disney.in" tvg-logo=" " group-title="🧸 Kids",Disney Channel • IN
+http://51.75.127.199:3141/disneychannel/index.m3u8
 
 
 # 📚 KNOWLEDGE
