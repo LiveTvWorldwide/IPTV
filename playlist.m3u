@@ -51,13 +51,13 @@ http://dsmqbfez.pardns.com/live/6CTB9BKG/4Q7Y9DFW/1095574.ts
 
 # 🎬 MOVIES 
 
-#EXTINF:-1 tvg-id="ColorsCineplex.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png"  group-title="🎬 Movies",Colors Cineplex • UK
-https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="Zee.Cinema.ME.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"  group-title="🎬 Movies",Zee Cinema • ME
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
 #EXTINF:-1 tvg-id="Zee.Cinema.my" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png"  group-title="🎬 Movies",Zee Cinema HD • MY
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 
+#EXTINF:-1 tvg-id="ColorsCineplex.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png"  group-title="🎬 Movies",Colors Cineplex • US
+http://dinka-iptv.live/live/TLapB0qLOT/QaiUGys0iT/392086.ts
 #EXTINF:-1 tvg-id="SONY.MAX.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • UK
 http://3serverx.com:80/live/victor101/victor101/276630.ts
 #EXTINF:-1 tvg-id="SONY.MAX.sg" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • MY
