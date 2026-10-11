@@ -61,7 +61,7 @@ https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplex.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png"  group-title="🎬 Movies",Colors Cineplex • US
-http://dinka-iptv.live/live/TLapB0qLOT/QaiUGys0iT/392086.ts
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 #EXTINF:-1 tvg-id="SONY.MAX.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • UK
 http://3serverx.com:80/live/victor101/victor101/276630.ts
 #EXTINF:-1 tvg-id="SONY.MAX.sg" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • MY
