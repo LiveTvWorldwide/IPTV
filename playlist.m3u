@@ -152,6 +152,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 https://df3xownvf1f4t.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/willow_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony.Ten.3.Hindi.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png" group-title="⚽ Sports",Sony Ten Sports 3 • IN
 http://103.151.60.162:2122/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="⚽ Sports",Star Sports 1 • IN
+http://bigdonkeyfanz.com:8080/live/AUPPLF5J/SZ1SHNG7/1481181.ts
+
 
 # 🏡 LIFESTYLE
 
