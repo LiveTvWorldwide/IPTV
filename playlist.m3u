@@ -107,12 +107,14 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 #EXTINF:-1 tvg-id="Wion.in" tvg-logo="https://dtil.tmsimg.com/assets/s144087_ld_h15_aa.png" group-title="📰 News",Wion • INT
 https://d2f067kuhcp3tj.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="Zee.News.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png" group-title="📰 News",Zee News • IN
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8?hdnts=st%3D1764791201~exp%3D1764812801~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeenews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F8744f9fb-d696-4204-9795-5215ad930c39%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.178.119.113_yuppfast_2_channel_13_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.178.119.113_yuppfast_2_channel_13_-1~hmac%3D55282627fd674257ce3521170a5c3efaa3db3efc9f01db87eb5c593d361be399
 #EXTINF:-1 tvg-id="DD.News.in" tvg-logo="https://dtil.tmsimg.com/assets/s158254_ld_h15_aa.png" group-title="📰 News",DD News • IN
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 #EXTINF:-1 tvg-id="ABP.News.India.in" tvg-logo="https://static.vidgyor.com/player/account/abp/img/ABP-Hindi.png"  group-title="📰 News",ABP News • IN
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
+#EXTINF:-1 tvg-id="Zee.News.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png" group-title="📰 News",Zee News • IN
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8?hdnts=st%3D1764791201~exp%3D1764812801~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-zeenews%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F8744f9fb-d696-4204-9795-5215ad930c39%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.178.119.113_yuppfast_2_channel_13_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.178.119.113_yuppfast_2_channel_13_-1~hmac%3D55282627fd674257ce3521170a5c3efaa3db3efc9f01db87eb5c593d361be399
+#EXTINF:-1 tvg-id="NDTV.24x7.uk" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2024/10/ndtvworld001.jpg"  group-title="📰 News",NDTV World • UK
+https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8
 #EXTINF:-1 tvg-id="Channel.News.Asia.International.in" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="📰 News",Channel News Asia • INT
 https://mediacorp-nca-prod-videos-bclive.akamaized.net/6379472319112/ap-southeast-1/6057994443001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGE2ODB1LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjA1Nzk5NDQ0MzAwMSIsImVobiI6Im1lZGlhY29ycC1uY2EtcHJvZC12aWRlb3MtYmNsaXZlLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYwNTc5OTQ0NDMwMDEiXSwianRpIjoiNjM3OTQ3MjMxOTExMiJ9.Cw77amOc6efNO32Sw9nD0SOhjQUc5ewKN8ZWJOPt15Y/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil05_Cm8HoXfhyphenhypheniRmiFA3L1A5yMPA8FekVm3-2Wg3vVwjwH05hKMDuvMCmBX73DcfHcVxL9v-m8AwJ0vXyJWPdWSQxr0OUMmRU6Ah8_j9n2CBWzuTdY_qs9-pLF0_q5UheOL6NaaRkdckBoJv2GtpJQgy119Rn8HXF8vrV5K8J2vaWykATPAaVhrRTSJc/s320/55907.jpg" group-title="📰 News",BBC News • INT
@@ -123,8 +125,6 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="Republic.Bharat.in" tvg-logo="https://dtil.tmsimg.com/assets/s143724_ld_h15_aa.png"  group-title="📰 News",Republic Bharat • IN
 https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,news-hls.m3u8
-#EXTINF:-1 tvg-id="NDTV.24x7.uk" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2024/10/ndtvworld001.jpg"  group-title="📰 News",NDTV World • UK
-https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8
 #EXTINF:-1 tvg-id="TRT.WORLD.HD.tr" tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/02/01/thumbs_b_c_9eee6cf0c00ca6f933fb24533f934197.jpg"  group-title="📰 News",TRT World • INT
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NEWS.LIVE.in" tvg-logo="https://newslivetv.com/wp-content/uploads/2022/07/news-live-logo-2-300x131.png"  group-title="📰 News",News Live • IN
@@ -146,6 +146,7 @@ http://dsmqbfez.pardns.com/live/6CTB9BKG/4Q7Y9DFW/1084806.ts
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN-Documentary.sg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOdN1TKhhftt7E_5ZnMsFos4Abh1CJ3He6GJRlBM5SdzRXzGPoJ7IleR64RM7qrY_uOsuebMWp1OrlFJt2OKc9WZRABHrkGq7sLuoaSnoicRNI1FG8x18LHD2ZZgpKqwl3F29KdyT3TyvotBb-6V4EAxtzkzuhBF9cVV_9J-3qHMehPBkgokjExX3rXuE/s760/IMG_20251024_063240.jpg" group-title="📚 Knowledge",CGTN Documentry • SG
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+
 #EXTINF:-1 tvg-id="NAT.GEO.WILD.HD.in" tvg-logo=" " group-title="📚 Knowledge",Nat Geo Wild HD • IN
 http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.HD.my" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJhOzgvWYpicswNc7xIRziG7dyHmUOdBHu5RIbkFHTJWQRebscLDq-2gtFqiaCi0XN2jiS37d0YNnNJ90HI08PbGNryVtU6lR1icwgksgU9xNY8kClhTTFStSvrnkCMpGQ8O786V2Dc4EWtKLVJtjiMgqxc9quGPfsNXUx159y4GqXyEJZxVkFM1ozjoY/s720/62579.png"  group-title="📚 Knowledge",Animal Planet • AR
@@ -174,14 +175,14 @@ http://bigdonkeyfanz.com:8080/live/AUPPLF5J/SZ1SHNG7/1481181.ts
 
 #EXTINF:-1 tvg-id="Foodxp.uk" tvg-logo="https://www.foodxp.com/images/foodxplogo.png" group-title="🏡 Lifestyle",FoodXP • UK
 https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="Travel.XP.HD.in" tvg-logo=" " group-title="🏡 Lifestyle",TravelXP 4K HD • US
-https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-id="Travelxp.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="🏡 Lifestyle",TravelXP HD • UK
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="Travelxp.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="🏡 Lifestyle",TravelXP • UK
-http://176.65.153.4:4005/play/a06g/index.m3u8
+#EXTINF:-1 tvg-id="Travel.XP.HD.in" tvg-logo=" " group-title="🏡 Lifestyle",TravelXP 4K HD • US
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-id="NDTV.GoodTimes.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBlUGI-bsG_uJyfMGfSyEwo6vf6EfEfN1NuqWXrmM4kE2N11rXzVgJRPi9VcfyQ3VAOdwCbBGWBJe62RNfqMPW1W7BF_UfwgKMaa2EBia3vrnJNs-c6E5e4lrMKI2loe06fWHYvFbTmiH_3Ad03XaYpuw8XzFrCGOvI9-zE-w7zAbkXWQZTzLn9WQcWDg/s1196/59284.jpg" group-title="🏡 Lifestyle",NDTV Goodtimes • IN
 https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8 
+#EXTINF:-1 tvg-id="Travelxp.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="🏡 Lifestyle",TravelXP • UK
+http://176.65.153.4:4005/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-id="ATN.Food.Food.ca" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/food-food-tv-black.png" group-title="🏡 Lifestyle",Food Food • CA
 http://nocable.cc:8080/live/uh4BeE/493375/125807.ts
