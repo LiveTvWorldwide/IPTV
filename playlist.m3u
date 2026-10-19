@@ -26,6 +26,8 @@ https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
 #EXTINF:-1 tvg-id="Utsav.Bharat.uk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjodJhCWxq2p3m1S2GKc0_OzuPvk7ljt4QDcoCIMDmXTOZj0LC-zLSi0u-V3yiMV9EUJIVMw3586Saj0yq59A1WlvNF8_8j0AUjEnpZImeibQYL1v8_7nFD8ppL4JGVSGJ8eKBkhqUl52wwblr1eHaAX-Bi6FXND_Bz2-Q_2eB8gVECq4lhhkJQohvC23M/s1136/1000053597.jpg"  group-title="🎭 Entertainment",Star Bharat • UK
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
+#EXTINF:-1 tvg-id="SET.(HINDI).sg" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • APAC
+https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="Star.Plus.HD.in" tvg-logo=" " group-title="🎭 Entertainment",Star Plus HD • IN
 http://38.96.178.205/STARPLUS/index.m3u8
 #EXTINF:-1 tvg-id="SET.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony HD• IN
