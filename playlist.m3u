@@ -30,10 +30,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://38.96.178.205/STARPLUS/index.m3u8
 #EXTINF:-1 tvg-id="SET.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony HD• IN
 http://38.96.178.205/SONYHD/index.m3u8
-#EXTINF:-1 tvg-id="ZEE.TV.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0035LKE2.png" group-title="🎭 Entertainment",Zee TV • IN
-http://103.151.60.162:2122/play/a01u/index.m3u8
-#EXTINF:-1 tvg-id="STAR.Plus.sg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/star-new1-plus.jpg" group-title="🎭 Entertainment",Star Plus • SIN
-http://103.151.60.162:2122/play/a0fo/index.m3u8
 
 #EXTINF:-1 tvg-id="SET.(HINDI).sg" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • APAC
 http://stronger8k.vip:80/live/ganjo1984/29iuxxqbd6/1991669.ts
