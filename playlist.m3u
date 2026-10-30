@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 
 #EXTINF:-1 tvg-id="HBO.(Pacific).us2" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" group-title="🎬 Movies",HBO • US
 http://15.204.246.24:8080/HBOHD/index.m3u8
-#EXTINF:-1 tvg-id="SONY.MAX.sg" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • UK
+#EXTINF:-1 tvg-id="SONY.MAX.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • UK
 http://89.187.179.148:826/live/1368/gXwiagaXda/110056.ts
 #EXTINF:-1 tvg-id="SONY.MAX.sg" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • MY
 http://sansat.cc:88/live/NXTENYCYGA/IJO6ZZJ0PC/1562516.ts
