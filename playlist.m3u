@@ -14,6 +14,8 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 https://d1rc86nwwc9fag.cloudfront.net/260723/zeetvapachd_2500/chunks.m3u8
 #EXTINF:-1 tvg-id="Colors.HD.ae" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2025/01/colorstvindialogo.png" group-title="🎭 Entertainment",Colors • ME
 http://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SET.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony HD • IN
+https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="RANG.in" tvg-logo="https://rangtv.org/images/logo.png" group-title="🎭 Entertainment",Rang • IN
 https://mumt01.tangotv.in/O5aw8Zn3RANG/mpegts
 #EXTINF:-1 tvg-id="Shemaroo.TV.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggHLw1kYQskJwnVhtz__ZOdXuRmnJmrKjyhhirt92pOzuiHHJXuFOPjEWfd5umgcXLwvtqYCINSeE1hC3ljNJhTeXeL_o8teWac73prx4Rx-WU7MnmBSK4-fcZsphNp3MEAECK6nzWs-dtbZnfgg7kDz-h_BENc6rh3WmcHyJU0Ick6VDvsrcG1c1QGuQ/s1536/44960.jpg" group-title="🎭 Entertainment",Shemaroo TV • IN
@@ -28,8 +30,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
 #EXTINF:-1 tvg-id="Star.Plus.HD.in" tvg-logo=" " group-title="🎭 Entertainment",Star Plus HD • IN
 http://38.96.178.205/STARPLUS/index.m3u8
-#EXTINF:-1 tvg-id="SET.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony HD• IN
-http://38.96.178.205/SONYHD/index.m3u8
 
 #EXTINF:-1 tvg-id="SET.(HINDI).sg" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • APAC
 http://sansat.cc:88/live/NXTENYCYGA/IJO6ZZJ0PC/1562511.ts
@@ -60,7 +60,7 @@ http://dinka-iptv.live/live/TLapB0qLOT/QaiUGys0iT/272614.ts
 https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
 #EXTINF:-1 tvg-id="Zee.Cinema.my" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png"  group-title="🎬 Movies",Zee Cinema HD • MY
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplex.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png"  group-title="🎬 Movies",Colors Cineplex • US
+#EXTINF:-1 tvg-id="ColorsCineplex.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png"  group-title="🎬 Movies",Colors Cineplex • UK
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 
 #EXTINF:-1 tvg-id="HBO.(Pacific).us2" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" group-title="🎬 Movies",HBO • US
