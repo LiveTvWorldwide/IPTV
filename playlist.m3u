@@ -14,8 +14,10 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 https://d1rc86nwwc9fag.cloudfront.net/260723/zeetvapachd_2500/chunks.m3u8
 #EXTINF:-1 tvg-id="Colors.HD.ae" tvg-logo="https://cdn.colorstv.com/wp-content/uploads/2025/01/colorstvindialogo.png" group-title="🎭 Entertainment",Colors • ME
 http://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SET.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony HD • IN
+#EXTINF:-1 tvg-id="SET.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • IN
 https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="SAB.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s159125_ld_h15_aa.png" group-title="🎭 Entertainment",Sony Sab • IN
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="RANG.in" tvg-logo="https://rangtv.org/images/logo.png" group-title="🎭 Entertainment",Rang • IN
 https://mumt01.tangotv.in/O5aw8Zn3RANG/mpegts
 #EXTINF:-1 tvg-id="Shemaroo.TV.in" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggHLw1kYQskJwnVhtz__ZOdXuRmnJmrKjyhhirt92pOzuiHHJXuFOPjEWfd5umgcXLwvtqYCINSeE1hC3ljNJhTeXeL_o8teWac73prx4Rx-WU7MnmBSK4-fcZsphNp3MEAECK6nzWs-dtbZnfgg7kDz-h_BENc6rh3WmcHyJU0Ick6VDvsrcG1c1QGuQ/s1536/44960.jpg" group-title="🎭 Entertainment",Shemaroo TV • IN
