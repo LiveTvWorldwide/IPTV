@@ -82,6 +82,8 @@ https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/mpegts
 
 #EXTINF:-1 tvg-id="B4U.Music.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png"  group-title="🎵 Music",B4U Music • UK 
 http://bigdonkeyfanz.com:8080/live/AUPPLF5J/SZ1SHNG7/164275.ts
+#EXTINF:-1 tvg-id="ATN.B4U.Music.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png"  group-title="🎵 Music",B4U Music • US 
+http://lpaelectronics.com:80/live/MAGZBFGZV1/jegSWcDiv7/110174.ts
 
 # 📰 NEWS
 
