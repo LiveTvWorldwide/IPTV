@@ -67,6 +67,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://15.204.246.24:8080/HBOHD/index.m3u8
 #EXTINF:-1 tvg-id="SONY.MAX.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • UK
 http://89.187.179.148:826/live/1368/gXwiagaXda/110056.ts
+http://cpcontacts.naa8.xyz:80/live/835177652575198/Om9M9Vznr9/1019030.ts
 #EXTINF:-1 tvg-id="SONY.MAX.sg" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • MY
 http://sansat.cc:88/live/NXTENYCYGA/IJO6ZZJ0PC/1562516.ts
 #EXTINF:-1 tvg-id="Zee.Cinema.uk" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"  group-title="🎬 Movies",Zee Cinema • UK
