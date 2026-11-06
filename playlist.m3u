@@ -126,7 +126,8 @@ https://prideeast.thelegitpro.in/newslive/newslive/index.fmp4.m3u8
 http://portal5458.com:8080/live/Shonnettab/8067384993/23354.ts
 #EXTINF:-1 tvg-id="ATN.Sony.YAY.ca" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png" group-title="🧸 Kids",Sony Yay • US
 http://dsmqbfez.pardns.com/live/6CTB9BKG/4Q7Y9DFW/1084806.ts
-
+#EXTINF:-1 tvg-id="POGO.in" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png" group-title="🧸 Kids",Pogo • IN
+http://103.135.253.32:8080/POGO/index.m3u8
 
 # 📚 KNOWLEDGE
 
