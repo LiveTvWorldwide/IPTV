@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-id="HBO.(Pacific).us2" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" group-title="🎬 Movies",HBO • US
 http://15.204.246.24:8080/HBOHD/index.m3u8
 #EXTINF:-1 tvg-id="SONY.MAX.sg" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • MY
-http://line.krishka.xyz:80/live/AdemSarikaya/16A525/1480236.ts
+http://rockemu.xyz:80/live/70e6efdf99c6/fb1fd44fed/1991668.ts
 #EXTINF:-1 tvg-id="Zee.Cinema.uk" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"  group-title="🎬 Movies",Zee Cinema • UK
 http://line.krishka.xyz:80/live/AdemSarikaya/16A525/102549.ts
 #EXTINF:-1 tvg-id="Utsav.Gold.HD.uk" tvg-logo="https://cdn.smartads.in/images/product/television/STAR-Gold.png" group-title="🎬 Movies",Star Gold • UK
@@ -86,6 +86,8 @@ https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/mpegts
 http://bigdonkeyfanz.com:8080/live/AUPPLF5J/SZ1SHNG7/164275.ts
 #EXTINF:-1 tvg-id="ATN.B4U.Music.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png"  group-title="🎵 Music",B4U Music • US 
 http://lpaelectronics.com:80/live/MAGZBFGZV1/jegSWcDiv7/110174.ts
+#EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png"  group-title="🎵 Music",Zing • UK
+http://rockemu.xyz:80/live/70e6efdf99c6/fb1fd44fed/1848928.ts
 
 # 📰 NEWS
 
