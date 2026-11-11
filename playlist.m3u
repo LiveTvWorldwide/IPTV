@@ -69,6 +69,8 @@ http://line.krishka.xyz:80/live/AdemSarikaya/16A525/102544.ts
 http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts
 #EXTINF:-1 tvg-id="Zee.Cinema.USA.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"  group-title="🎬 Movies",Zee Cinema • US
 http://bigdonkeyfanz.com:8080/live/AUPPLF5J/SZ1SHNG7/96657.ts
+#EXTINF:-1 tvg-id="ATN.B4U.Movies.ca" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png" group-title="🎬 Movies",B4U Movies • US
+http://rockemu.xyz:80/live/70e6efdf99c6/fb1fd44fed/440287.ts
 
 # 🎵 MUSIC 
 
@@ -82,7 +84,7 @@ https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/mpegts
 #EXTINF:-1 tvg-id="B4U.Music.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png"  group-title="🎵 Music",B4U Music • UK 
 http://bigdonkeyfanz.com:8080/live/AUPPLF5J/SZ1SHNG7/164275.ts
 #EXTINF:-1 tvg-id="ATN.B4U.Music.ca" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png"  group-title="🎵 Music",B4U Music • US 
-http://lpaelectronics.com:80/live/MAGZBFGZV1/jegSWcDiv7/110174.ts
+http://rockemu.xyz:80/live/70e6efdf99c6/fb1fd44fed/2163279.ts
 #EXTINF:-1 tvg-id=" " tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png"  group-title="🎵 Music",Zing • UK
 http://rockemu.xyz:80/live/70e6efdf99c6/fb1fd44fed/1848928.ts
 
