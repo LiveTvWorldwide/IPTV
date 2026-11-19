@@ -31,6 +31,8 @@ http://38.96.178.205/STARPLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY.SAB.uk" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • UK
 http://line.krishka.xyz:80/live/AdemSarikaya/16A525/692.ts
+#EXTINF:-1 tvg-id="SAB.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png" group-title="🎭 Entertainment",Sony Sab HD • IND
+http://abidtech.org/live/Sala0610/45LKP8R/1020710.ts
 #EXTINF:-1 tvg-id="SONY.TV.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • UK
 http://etvserv.xyz:55337/live/4UPDjM59knnp/nbLpceRHbGTB/50285.ts
 #EXTINF:-1 tvg-id="ATN.Sony.ca" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • US
