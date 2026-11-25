@@ -28,6 +28,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
 #EXTINF:-1 tvg-id="Star.Plus.HD.in" tvg-logo=" " group-title="🎭 Entertainment",Star Plus HD • IN
 http://38.96.178.205/STARPLUS/index.m3u8
+#EXTINF:-1 tvg-id="SET.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png"  group-title="🎭 Entertainment",Sony TV • IN
+http://38.96.178.205/SONYHD/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY.SAB.uk" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="🎭 Entertainment",Sony Sab • UK
 http://foxbleu.org:8789/live/josealbino/21321/215762.ts
