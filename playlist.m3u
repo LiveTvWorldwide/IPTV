@@ -165,7 +165,8 @@ http://bigdonkeyfanz.com:8080/live/AUPPLF5J/SZ1SHNG7/1481181.ts
 
 
 # 🏡 LIFESTYLE
-
+#EXTINF:-1 tvg-id="ATN.Food.Food.ca" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/food-food-tv-black.png" group-title="🏡 Lifestyle",Food Food • IN
+https://d2lk5u59tns74c.cloudfront.net/out/v1/ffc601b3dc8d41c5b09115702538d75a/index.m3u8
 #EXTINF:-1 tvg-id="Foodxp.uk" tvg-logo="https://www.foodxp.com/images/foodxplogo.png" group-title="🏡 Lifestyle",FoodXP • UK
 https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="Travelxp.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="🏡 Lifestyle",TravelXP HD • UK
@@ -176,9 +177,6 @@ https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8 
 #EXTINF:-1 tvg-id="Travelxp.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="🏡 Lifestyle",TravelXP • UK
 http://176.65.153.4:4005/play/a06g/index.m3u8
-
-#EXTINF:-1 tvg-id="ATN.Food.Food.ca" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/food-food-tv-black.png" group-title="🏡 Lifestyle",Food Food • CA
-http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125807.ts
 
 
 
