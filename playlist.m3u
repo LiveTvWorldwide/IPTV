@@ -60,13 +60,13 @@ https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.uk" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png"  group-title="🎬 Movies",Colors Cineplex • UK
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
-#EXTINF:-1 tvg-id="SONY.MAX.sg" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • UK
+#EXTINF:-1 tvg-id="SONY.MAX.sg" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • MY
 https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.(Pacific).us2" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" group-title="🎬 Movies",HBO • US
 http://15.204.246.24:8080/HBOHD/index.m3u8
-#EXTINF:-1 tvg-id="SONY.MAX.sg" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • MY
-http://rockemu.xyz:80/live/70e6efdf99c6/fb1fd44fed/1991668.ts
+#EXTINF:-1 tvg-id="SONY.MAX.HD.uk" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png" group-title="🎬 Movies",Sony Max • UK
+http://rockemu.xyz:80/live/70e6efdf99c6/fb1fd44fed/717731.ts
 #EXTINF:-1 tvg-id="Zee.Cinema.uk" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"  group-title="🎬 Movies",Zee Cinema • UK
 http://89.187.179.148:826/live/1368/gXwiagaXda/110062.ts
 #EXTINF:-1 tvg-id="Utsav.Gold.HD.uk" tvg-logo="https://cdn.smartads.in/images/product/television/STAR-Gold.png" group-title="🎬 Movies",Star Gold • UK
